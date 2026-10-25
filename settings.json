@@ -1,0 +1,30 @@
+{
+ "name": "",
+ "timezone": "Europe/Berlin",
+ "routines": {
+  "morning": "08:30",
+  "evening": "17:45",
+  "days": "1-5"
+ },
+ "strategy": {
+  "goals": "Langfristige Gewinne mit ETFs (Kern), mittelfristig höhere Gewinne mit stabilen Einzelaktien (Satellit).",
+  "thesis_examples": "",
+  "target_kern_pct": 70,
+  "max_single_stock_pct": 15,
+  "risk_tolerance": "mittel",
+  "max_drawdown_exit_pct": "15–20",
+  "sparerpauschbetrag_eur": 1000,
+  "kern_kinds": ["ETF-Kern"]
+ },
+ "thresholds": {
+  "premarket_info_pct": 3,
+  "push_move_pct": 7,
+  "daily_cause_pct": 3,
+  "level_near_pct": 2
+ },
+ "price_alert_limit": 4,
+ "push_notifications": true,
+ "links": {
+  "atlas_briefing": ""
+ }
+}

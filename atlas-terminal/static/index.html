@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas Terminal</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">ATLAS<span>TERMINAL</span></div>
+  <form id="cmdform" autocomplete="off">
+    <span class="prompt">&gt;</span>
+    <input id="cmd" spellcheck="false" placeholder="Befehl: AAPL · AAPL FA · NVDA NEWS · RISK · ECO · MKTS" aria-label="Befehlszeile">
+    <button type="submit">GO</button>
+  </form>
+  <div id="clock" class="clock"></div>
+</header>
+<nav class="fkeys" id="fkeys">
+  <button data-tab="MKTS"><b>F1</b> MKTS</button>
+  <button data-tab="QUOTE"><b>F2</b> QUOTE</button>
+  <button data-tab="FA"><b>F3</b> FA</button>
+  <button data-tab="RISK"><b>F4</b> RISK</button>
+  <button data-tab="NEWS"><b>F5</b> NEWS</button>
+  <button data-tab="ECO"><b>F6</b> ECO</button>
+  <span class="fk-ticker">SEC: <select id="tickerSel" aria-label="Wertpapier"></select></span>
+</nav>
+<div id="msg" class="msg" hidden></div>
+<main id="view"></main>
+<footer class="foot">Atlas Terminal · Kurse verzögert (delayed) · Quellen: Yahoo Finance (yfinance), Google News RSS, SEC EDGAR, FRED, FinBERT · Keine Anlageberatung</footer>
+<script src="/static/app.js"></script>
+</body>
+</html>

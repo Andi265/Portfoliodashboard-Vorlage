@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+atlas-terminal/atlas.db
+.venv/
+dashboard/atlas-briefing.html

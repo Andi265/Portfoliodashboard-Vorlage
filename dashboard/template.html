@@ -1,0 +1,313 @@
+<title>Atlas Briefing</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans+Condensed:wght@500;700&display=swap">
+<style>
+/* Layout: Terminal-Raster aus dichten Feldern; oben Lage + Handlungsbedarf, dann Depot, Signale, Markt, News.
+   Bewusst nur ein (dunkles) Erscheinungsbild wie das Atlas Terminal. */
+:root {
+  color-scheme: dark;
+  --bg: #000000;
+  --panel: #07070a;
+  --head: #1a1205;
+  --line: #3a2a10;
+  --grid: #1a1308;
+  --amber: #ffb000;
+  --amber-dim: #b37a00;
+  --text: #ffcc66;
+  --muted: #8f8060;
+  --up: #22dd55;
+  --down: #ff4444;
+  --warn: #ff9a1f;
+  --link: #6cbcff;
+  --ink: #000000;
+  --mono: "IBM Plex Mono", Consolas, Menlo, "Courier New", monospace;
+  --cond: "IBM Plex Sans Condensed", "Arial Narrow", Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--text); font: 12.5px/1.4 var(--mono); margin: 0; }
+.wrap { padding-left: max(12px, env(safe-area-inset-left, 0px)); padding-right: max(12px, env(safe-area-inset-right, 0px)); padding-block: 8px 28px; max-width: 1400px; margin: 0 auto; }
+a { color: var(--link); text-decoration: none; }
+a:hover, a:focus-visible { text-decoration: underline; }
+:focus-visible { outline: 1px solid var(--amber); outline-offset: 2px; }
+
+.top { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; border-bottom: 1px solid var(--amber-dim); padding-bottom: 8px; }
+.brand { background: var(--amber); color: var(--ink); font-weight: 700; padding: 2px 8px; letter-spacing: 1px; white-space: nowrap; }
+.brand span { font-weight: 400; margin-left: 6px; }
+.slot { font: 700 15px var(--cond); letter-spacing: 2px; color: var(--amber); text-transform: uppercase; }
+.when { color: var(--muted); }
+.chips { margin-left: auto; display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border: 1px solid var(--line); padding: 1px 6px; color: var(--muted); white-space: nowrap; }
+.chip.ok { color: var(--up); border-color: #1d6b33; }
+.chip.bad { color: var(--down); border-color: #7a2323; }
+.chip.warn { color: var(--warn); border-color: #7a4a10; }
+
+.lead { display: grid; grid-template-columns: auto 1fr; gap: 10px 14px; align-items: center; margin: 10px 0; padding: 8px 10px; border: 1px solid var(--line); background: var(--panel); }
+.act { font: 700 13px var(--cond); letter-spacing: 1.5px; padding: 6px 10px; text-align: center; white-space: nowrap; }
+.act.yes { background: var(--down); color: var(--ink); }
+.act.no { background: #10331b; color: var(--up); border: 1px solid #1d6b33; }
+.headline { font-size: 14px; color: var(--text); text-wrap: balance; min-width: 0; }
+
+.grid { display: grid; gap: 8px; grid-template-columns: repeat(12, minmax(0, 1fr)); }
+.panel { grid-column: span 12; border: 1px solid var(--line); background: var(--panel); min-width: 0; }
+.s4 { grid-column: span 4; } .s5 { grid-column: span 5; } .s6 { grid-column: span 6; } .s7 { grid-column: span 7; } .s8 { grid-column: span 8; }
+@media (max-width: 980px) { .s4, .s5, .s6, .s7, .s8 { grid-column: span 12; } }
+.ph { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 2px 10px; background: var(--head); border-bottom: 1px solid var(--line); padding: 3px 7px; }
+.ph h2 { margin: 0; font: 700 12px var(--mono); color: var(--amber); letter-spacing: .6px; }
+.ph .src { color: var(--muted); font-size: 10.5px; }
+.pb { padding: 6px 7px; overflow-x: auto; }
+.empty { color: var(--muted); padding: 4px 0; }
+.na { color: var(--down); border: 1px dashed var(--down); padding: 5px 7px; }
+.na b { display: block; }
+
+table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; }
+th, td { padding: 3px 6px; border-bottom: 1px solid var(--grid); text-align: right; white-space: nowrap; vertical-align: top; }
+th { color: var(--amber-dim); font-weight: 400; }
+th:first-child, td:first-child, .l { text-align: left; }
+td.wrap-cell { white-space: normal; min-width: 180px; }
+tr.changed td { background: #1d1405; }
+tr.changed td:first-child { box-shadow: inset 3px 0 0 var(--amber); }
+.up { color: var(--up); } .down { color: var(--down); } .mut { color: var(--muted); } .warnc { color: var(--warn); }
+.nm { color: var(--amber); font-weight: 700; }
+
+.sig { display: inline-block; min-width: 92px; text-align: center; font: 700 11px var(--mono); padding: 1px 4px; color: var(--ink); }
+.sig.KAUFEN, .sig.NACHKAUFEN { background: var(--up); }
+.sig.VERKAUFEN, .sig.TEILVERKAUF { background: var(--down); }
+.sig.HALTEN { background: var(--amber-dim); }
+.sig.BEOBACHTEN { background: var(--muted); }
+.conf { font-size: 10.5px; padding: 0 4px; border: 1px solid var(--line); }
+.conf.hoch { color: var(--up); border-color: #1d6b33; } .conf.niedrig { color: var(--muted); }
+.st { font-size: 10.5px; padding: 0 4px; color: var(--ink); }
+.st.erreicht { background: var(--down); } .st.nah { background: var(--warn); } .st.offen { background: var(--grid); color: var(--muted); }
+.imp { font-size: 10.5px; padding: 0 4px; color: var(--ink); }
+.imp.positiv, .imp.positive { background: var(--up); } .imp.negativ, .imp.negative { background: var(--down); } .imp.neutral { background: var(--muted); }
+
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0; border-bottom: 1px solid var(--line); }
+.kpi { padding: 6px 8px; border-right: 1px solid var(--grid); min-width: 0; }
+.kpi .k { color: var(--amber-dim); font-size: 10.5px; letter-spacing: .5px; }
+.kpi .v { font-size: 19px; color: var(--amber); font-variant-numeric: tabular-nums; }
+.kpi .s { color: var(--muted); font-size: 10.5px; }
+
+.alloc { padding: 8px; display: grid; gap: 6px; }
+.bar { position: relative; height: 16px; background: var(--grid); border: 1px solid var(--line); display: flex; }
+.bar .kern { background: var(--amber); }
+.bar .sat { background: #5a4310; }
+.bar .target { position: absolute; top: -4px; bottom: -4px; width: 2px; background: var(--text); }
+.bar-legend { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; color: var(--muted); font-size: 11px; }
+.wbar { display: inline-block; height: 7px; background: var(--amber-dim); vertical-align: middle; margin-right: 6px; }
+.over { color: var(--down); font-weight: 700; }
+
+.macro { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); border-bottom: 1px solid var(--grid); }
+.macro .kpi .v { font-size: 16px; }
+.list { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; }
+.list li { padding: 3px 0; border-bottom: 1px solid var(--grid); }
+.list li::before { content: "› "; color: var(--amber-dim); }
+.foot { color: var(--muted); font-size: 10.5px; margin-top: 10px; border-top: 1px solid var(--line); padding-top: 6px; display: grid; gap: 3px; }
+.sentrow { display: flex; flex-wrap: wrap; gap: 4px; padding: 6px 0 2px; }
+.sentrow span { border: 1px solid var(--line); padding: 0 5px; font-size: 11px; }
+@media (prefers-reduced-motion: no-preference) { .act.yes { animation: pulse 2.4s ease-in-out 3; } @keyframes pulse { 50% { opacity: .65; } } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">ATLAS<span>BRIEFING</span></div>
+    <div class="slot" id="slot">Briefing</div>
+    <div class="when" id="when"></div>
+    <div class="chips" id="chips"></div>
+  </header>
+  <section class="lead" aria-live="polite">
+    <div class="act" id="act">—</div>
+    <div class="headline" id="headline"></div>
+  </section>
+  <main class="grid" id="grid"></main>
+  <footer class="foot" id="foot"></footer>
+</div>
+
+<script id="briefing-data" type="application/json">/*__BRIEFING_DATA__*/{}</script>
+<script>
+"use strict";
+const D = (() => { try { return JSON.parse(document.getElementById("briefing-data").textContent); } catch (e) { return { _error: String(e) }; } })();
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const url = (u) => (/^https?:\/\//i.test(u || "") ? esc(u) : null);
+const num = (x) => typeof x === "number" && isFinite(x);
+const f = (x, d = 2) => (num(x) ? x.toLocaleString("de-DE", { minimumFractionDigits: d, maximumFractionDigits: d }) : "—");
+const eur = (x, d = 2) => (num(x) ? `${f(x, d)} €` : "—");
+const pct = (x, d = 2) => (num(x) ? `${x > 0 ? "+" : ""}${f(x, d)} %` : "—");
+const cls = (x) => (num(x) ? (x > 0 ? "up" : x < 0 ? "down" : "") : "mut");
+const ts = (iso) => { if (!iso) return "—"; const d = new Date(iso); return isNaN(d) ? esc(iso) : d.toLocaleString("de-DE", { timeZone: "Europe/Berlin", dateStyle: "short", timeStyle: "short" }); };
+const ageH = (iso) => (iso ? (Date.now() - new Date(iso).getTime()) / 36e5 : Infinity);
+
+function panel(title, src, body, span = "") {
+  return `<section class="panel ${span}"><div class="ph"><h2>${esc(title)}</h2><div class="src">${src}</div></div><div class="pb">${body}</div></section>`;
+}
+const srcLine = (source, at) => `Quelle: ${esc(source)}${at ? ` · Stand ${ts(at)}` : ""}`;
+const empty = (t) => `<div class="empty">${esc(t)}</div>`;
+const na = (err) => `<div class="na"><b>Daten nicht verfügbar</b>${esc(err || "unbekannter Fehler")}</div>`;
+
+function header() {
+  const isAbend = D.type === "abend";
+  $("slot").textContent = D.title || (isAbend ? "Dinner-Briefing" : "Morning-Briefing");
+  document.title = `Atlas Briefing`;
+  $("when").textContent = D.created_at ? `erstellt ${ts(D.created_at)}` : "";
+  const a = D.atlas || {};
+  const chips = [];
+  if (a.available) {
+    const h = ageH(a.generated_at);
+    chips.push(`<span class="chip ${h > 3 ? "warn" : "ok"}">Atlas-Snapshot ${ts(a.generated_at)}${h > 3 ? " · veraltet" : ""}</span>`);
+    if (a.failed_sources?.length) {
+      const groups = [...new Set(a.failed_sources.map((k) => k.split(":")[0].toUpperCase()))];
+      chips.push(`<span class="chip bad">Ausfall: ${esc(groups.join(", "))}</span>`);
+    }
+  } else chips.push(`<span class="chip bad">Atlas nicht verfügbar</span>`);
+  if (D.depot?.as_of) chips.push(`<span class="chip">Depot ${ts(D.depot.as_of)}</span>`);
+  chips.push(`<span class="chip">delayed</span>`);
+  $("chips").innerHTML = chips.join("");
+  const act = $("act");
+  if (D.action_needed === true) { act.textContent = "HANDELN PRÜFEN"; act.className = "act yes"; }
+  else if (D.action_needed === false) { act.textContent = "NICHTS ZU TUN"; act.className = "act no"; }
+  else { act.textContent = "OFFEN"; act.className = "act no"; }
+  $("headline").textContent = D.headline || "";
+}
+
+function depotPanel() {
+  const d = D.depot;
+  if (!d) return panel("DEPOT", "Scalable Capital", na(D.depot_error || "Keine Depotdaten im Briefing"), "s7");
+  const c = d.computed || {};
+  const perf = d.performance || {};
+  const kpi = (k, v, s, klass = "") => `<div class="kpi"><div class="k">${k}</div><div class="v ${klass}">${v}</div><div class="s">${s || ""}</div></div>`;
+  const kpis = `<div class="kpis">
+    ${kpi("GESAMTWERT", eur(d.reported_total_eur ?? c.total_eur, 0), `davon Cash ${eur(d.cash_eur)}`)}
+    ${kpi("HEUTE", eur(perf.intraday_eur), "", cls(perf.intraday_eur))}
+    ${kpi("1 WOCHE", eur(perf.week_eur), "", cls(perf.week_eur))}
+    ${kpi("1 MONAT", eur(perf.month_eur), "", cls(perf.month_eur))}
+    ${kpi("1 JAHR", eur(perf.year_eur), "", cls(perf.year_eur))}
+  </div>`;
+  const tk = d.target_kern_pct ?? D.target_kern_pct ?? 70, kp = c.kern_pct, sp = c.satellit_pct;
+  const alloc = num(kp) ? `<div class="alloc">
+      <div class="bar" role="img" aria-label="Kern ${f(kp, 1)} Prozent, Satellit ${f(sp, 1)} Prozent, Ziel Kern ${tk} Prozent">
+        <div class="kern" style="width:${kp}%"></div><div class="sat" style="width:${sp}%"></div><div class="target" style="left:calc(${tk}% - 1px)"></div>
+      </div>
+      <div class="bar-legend"><span><b class="nm">KERN ${f(kp, 1)} %</b> · Ziel ${tk} %</span><span>Abweichung ${pct(kp - tk, 1)}</span><span><b class="nm">SATELLIT ${f(sp, 1)} %</b> · Ziel ${100 - tk} %</span></div>
+    </div>` : "";
+  const maxW = Math.max(...(d.positions || []).map((p) => p.weight_pct || 0), 1);
+  const rows = (d.positions || []).map((p) => `<tr>
+      <td class="l"><span class="nm">${esc(p.name)}</span><br><span class="mut">${esc(p.kind || "")}${p.isin ? " · " + esc(p.isin) : ""}</span></td>
+      <td>${p.qty != null ? f(p.qty, p.qty % 1 ? 3 : 0) : "—"}</td>
+      <td>${eur(p.price)}</td>
+      <td class="${cls(p.day_change_pct)}">${pct(p.day_change_pct)}</td>
+      <td>${eur(p.value_eur, 0)}</td>
+      <td class="l"><span class="wbar" style="width:${Math.max(2, (p.weight_pct || 0) / maxW * 60)}px"></span><span class="${p.over_limit ? "over" : ""}">${f(p.weight_pct, 1)} %${p.over_limit ? ` > ${f(c.max_single_stock_pct, 0)} %` : ""}</span></td>
+      <td class="l wrap-cell mut">${esc(p.note || "")}</td></tr>`).join("");
+  const table = `<table><tr><th>Position</th><th>Stück</th><th>Kurs</th><th>Tag</th><th>Wert</th><th class="l">Gewicht</th><th class="l">Hinweis</th></tr>${rows}</table>`;
+  const check = num(c.check_vs_reported) && Math.abs(c.check_vs_reported) > 5
+    ? `<div class="warnc" style="margin-top:4px">Summe der Positionen weicht um ${eur(c.check_vs_reported)} vom Scalable-Gesamtwert ab.</div>` : "";
+  return panel("DEPOT · ALLOKATION", srcLine("Scalable Capital (Werte berechnet aus Stück × Kurs)", d.as_of), kpis + alloc + table + check, "s7");
+}
+
+function signalsPanel() {
+  const s = D.signals || [];
+  const body = s.length ? `<table><tr><th>Wert</th><th>Signal</th><th>Zone</th><th>Stop</th><th>Ziel</th><th>Horizont</th><th>Konf.</th><th>seit</th><th class="l">Grund</th></tr>${s.map((x) => `
+      <tr class="${x.changed ? "changed" : ""}"><td class="l"><span class="nm">${esc(x.name)}</span>${x.changed ? ' <span class="warnc">NEU</span>' : ""}</td>
+      <td><span class="sig ${esc(x.signal)}">${esc(x.signal)}</span></td><td>${esc(x.zone || "—")}</td><td>${esc(x.stop || "—")}</td><td>${esc(x.target || "—")}</td>
+      <td>${esc(x.horizon || "—")}</td><td><span class="conf ${esc(x.confidence)}">${esc(x.confidence || "—")}</span></td><td class="mut">${esc(x.since || "")}</td>
+      <td class="l wrap-cell">${esc(x.reason || "")}</td></tr>`).join("")}</table>` : empty(D.signals_note || "Noch keine Signale. Die Abend-Routine erstellt sie bei der Startanalyse.");
+  return panel("SIGNALE", "Analyse der Routine · Journal „Aktuelle Signale“ · keine Anlageberatung", body, "s5");
+}
+
+function levelsPanel() {
+  const l = D.levels || [];
+  const body = l.length ? `<table><tr><th>Wert</th><th>Level</th><th>Kurs</th><th>Abstand</th><th>Status</th></tr>${l.map((x) => `
+      <tr><td class="l nm">${esc(x.name)}</td><td>${esc(x.type || "")} ${esc(x.level ?? "")}</td><td>${esc(x.price ?? "—")}</td>
+      <td class="${cls(x.distance_pct)}">${pct(x.distance_pct, 1)}</td><td><span class="st ${esc(x.status)}">${esc(x.status || "")}</span>${x.planned ? ' <span class="st offen">geplant, kein Alarm</span>' : ""}</td></tr>`).join("")}</table>`
+    : empty("Keine Preisalarme in Reichweite.");
+  return panel("PREISALARME · LEVEL", `Scalable Capital Preisalarme (max. ${esc(D.price_alert_limit ?? "–")}) + geplante Level ohne Alarm`, body, "s5");
+}
+
+function marketPanel() {
+  const a = D.atlas || {};
+  const ov = a.overview || {};
+  const fx = (t) => /=X$/.test(t);
+  const row = (t, q) => q.error || !num(q.price)
+    ? `<tr><td class="l nm">${esc(q.name || t)}</td><td colspan="3" class="l down">Daten nicht verfügbar: ${esc(q.error || "kein Kurs")}</td></tr>`
+    : `<tr><td class="l nm">${esc(q.name || t)}</td><td>${f(q.price, fx(t) ? 4 : 2)}</td><td class="${cls(q.change_pct)}">${pct(q.change_pct)}</td><td class="mut">${esc(q.currency || "")} · ${ts(q.updated_at)}</td></tr>`;
+  const groups = a.groups || [...new Set(Object.values(ov).map((q) => q.group))];
+  const atlasRows = groups.map((g) => {
+    const items = Object.entries(ov).filter(([, q]) => q.group === g);
+    return items.length ? `<tr><th class="l" colspan="4" style="color:var(--amber);padding-top:6px">${esc(g)}</th></tr>${items.map(([t, q]) => row(t, q)).join("")}` : "";
+  }).join("");
+  const extra = (D.market || []).length ? `<tr><th class="l" colspan="4" style="color:var(--amber);padding-top:6px">Von der Routine ermittelt</th></tr>` + (D.market || []).map((m) => `<tr><td class="l nm">${esc(m.label)}</td><td>${esc(m.value ?? "—")}</td><td class="${cls(m.change_pct)}">${pct(m.change_pct)}</td><td class="mut">${esc(m.source || "")}</td></tr>`).join("") : "";
+  const mac = a.macro || {};
+  const mk = (k, t, unit = " %") => {
+    const m = mac[k] || {};
+    return `<div class="kpi"><div class="k">${t}</div>${m.error || !num(m.value) ? `<div class="s down">nicht verfügbar</div>` : `<div class="v">${f(m.value, 2)}${unit}</div><div class="s">Stand ${esc(m.date)}</div>`}</div>`;
+  };
+  const macroErr = ["DFF", "DGS10", "2s10s", "CPI_YOY", "ECBDFR", "HICP_YOY", "BUND10"].map((k) => mac[k]?.error).find(Boolean);
+  const macro = `<div class="mut" style="margin:2px 0">USA</div><div class="macro">${mk("DFF", "FED FUNDS")}${mk("DGS10", "UST 10Y")}${mk("2s10s", "2s10s", " pp")}${mk("CPI_YOY", "CPI YoY")}${mk("UNRATE", "ARBEITSLOS")}</div>`
+    + `<div class="mut" style="margin:6px 0 2px">Euro-Raum / Deutschland</div><div class="macro">${mk("ECBDFR", "EZB EINLAGE")}${mk("HICP_YOY", "HVPI YoY")}${mk("BUND10", "BUND 10Y (Ø MONAT)")}</div>`
+    + (macroErr ? `<div class="na" style="margin:6px 0">FRED: ${esc(macroErr)}</div>` : "");
+  const body = (a.available ? macro : na(a.error)) + `<table style="margin-top:6px"><tr><th>Markt</th><th>Stand</th><th>Δ Tag</th><th class="l">Whg · Zeit</th></tr>${atlasRows}${extra}</table>`;
+  return panel("MARKT · MAKRO WELTWEIT", srcLine("Atlas Terminal (Yahoo Finance delayed), FRED, Routine", a.generated_at), body, "s7");
+}
+
+function newsPanel() {
+  const n = D.news || [];
+  const rows = n.map((x) => `<tr><td class="l nm">${esc(x.name)}</td>
+      <td class="l wrap-cell">${url(x.link) ? `<a href="${url(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a>` : esc(x.title)}<br><span class="mut">${esc(x.publisher || "")} · ${ts(x.published)}</span>${x.why ? `<br>${esc(x.why)}` : ""}</td>
+      <td>${x.impact ? `<span class="imp ${esc(x.impact)}">${esc(x.impact)}</span>` : "—"}</td></tr>`).join("");
+  const sent = Object.entries((D.atlas || {}).sentiment || {}).map(([t, s]) => s.error
+    ? `<span class="mut">${esc(t)} n/v</span>`
+    : `<span class="${s.label === "positive" ? "up" : s.label === "negative" ? "down" : "mut"}">${esc((D.atlas.trends || {})[t]?.name || t)} ${f(s.net, 2)}</span>`).join("");
+  const body = (n.length ? `<table><tr><th>Wert</th><th class="l">Meldung</th><th>Wirkung</th></tr>${rows}</table>` : empty("Keine relevanten Meldungen zu deinen Positionen."))
+    + (sent ? `<div class="mut" style="margin-top:6px">FinBERT-Stimmung Universum weltweit (Ø P(pos) − P(neg), letzte 10 englische Schlagzeilen):</div><div class="sentrow">${sent}</div>` : "");
+  return panel("NEWS · MEINE WERTE", "Scalable-News, Websuche, Atlas (Google News + FinBERT)", body, "s7");
+}
+
+function listPanel(title, src, items, emptyText, span) {
+  return panel(title, src, items?.length ? `<ul class="list">${items.map((i) => `<li>${typeof i === "string" ? esc(i) : `${i.when ? `<b class="nm">${esc(i.when)}</b> ` : ""}${esc(i.what || "")}${i.relevance ? ` <span class="mut">· ${esc(i.relevance)}</span>` : ""}`}</li>`).join("")}</ul>` : empty(emptyText), span);
+}
+
+function trendsPanel() {
+  const a = D.atlas || {};
+  const t = a.trends || {};
+  const risk = Object.fromEntries((a.risk || []).filter((r) => !r.error).map((r) => [r.ticker, r]));
+  const names = Object.keys(t);
+  if (!names.length) return panel("UNIVERSUM WELTWEIT · TREND & RISIKO", "Atlas Terminal", na(a.risk_error || "Keine Trenddaten im Snapshot"), "s5");
+  const regions = [...new Set(names.map((k) => t[k].region))];
+  const rows = regions.map((rg) => `<tr><th class="l" colspan="9" style="color:var(--amber);padding-top:6px">${esc(rg)}</th></tr>` + names.filter((k) => t[k].region === rg).map((k) => {
+    const s = t[k], r = risk[k] || {};
+    return `<tr><td class="l"><span class="nm">${esc(s.name || k)}</span><br><span class="mut">${esc(k)}</span></td>
+      <td>${f(s.close)}<br><span class="mut">${esc(s.currency || "")}</span></td><td class="${s.above_sma200 ? "up" : "down"}">${s.above_sma200 ? "über" : "unter"}</td><td class="${s.above_sma50 ? "up" : "down"}">${s.above_sma50 ? "über" : "unter"}</td>
+      <td class="${cls(s.perf_1m_pct)}">${pct(s.perf_1m_pct, 1)}</td><td class="${cls(s.perf_1y_pct)}">${pct(s.perf_1y_pct, 1)}</td>
+      <td>${num(r.ann_vol) ? f(r.ann_vol * 100, 0) + " %" : "—"}</td><td>${f(r.beta, 2)}</td><td class="${cls(r.sharpe)}">${f(r.sharpe, 2)}</td></tr>`;
+  }).join("")).join("");
+  const bm = (a.benchmark || {}).name || "MSCI World";
+  const note = `<div class="mut" style="margin-top:4px">Kurse in Börsenwährung. Volatilität, Rendite und Sharpe je Wert über die eigenen letzten 252 Handelstage; Beta gegen ${esc(bm)}; Sharpe mit EZB-Einlagenzins als risikofreiem Zins.</div>`;
+  return panel("UNIVERSUM WELTWEIT · TREND & RISIKO", srcLine("Atlas Terminal (Yahoo Finance delayed)", a.generated_at),
+    `<table><tr><th>Wert</th><th>Kurs</th><th>SMA200</th><th>SMA50</th><th>1M</th><th>1J</th><th>Vol p.a.</th><th>Beta</th><th>Sharpe</th></tr>${rows}</table>${note}`, "s5");
+}
+
+function render() {
+  if (D._error) { $("grid").innerHTML = panel("FEHLER", "", na("Briefing-Daten konnten nicht gelesen werden: " + D._error)); return; }
+  header();
+  const parts = [
+    depotPanel(),
+    signalsPanel(),
+    marketPanel(),
+    levelsPanel(),
+    newsPanel(),
+    trendsPanel(),
+    listPanel("TERMINE", "Routine (Websuche, Unternehmenskalender)", D.events, "Keine relevanten Termine.", "s4"),
+    listPanel("GEÄNDERT", "Preisalarme & Watchlist (Scalable)", D.changes, "Keine Änderungen.", "s4"),
+    listPanel("OFFENE PUNKTE", "Journal", D.open_points, "Keine offenen Punkte.", "s4"),
+  ];
+  if (D.weekly?.length) parts.push(listPanel("WOCHENRÜCKBLICK", "Routine · freitags", D.weekly, "", "s6"));
+  if (D.monthly?.length) parts.push(listPanel("MONATS-CHECK", "Routine · letzter Werktag des Monats", D.monthly, "", "s6"));
+  if (D.notes?.length) parts.push(listPanel("DATENHINWEISE", "Routine", D.notes, "", ""));
+  $("grid").innerHTML = parts.join("");
+  $("foot").innerHTML = `<div>Atlas Briefing · Kurse verzögert · Quellen: Scalable Capital, Atlas Terminal (Yahoo Finance, Google News, SEC EDGAR, FRED, FinBERT), Websuche der Routine.</div>
+    <div>Analysen und Signale sind Vorschläge der Routine und keine Anlageberatung. Entscheidungen triffst du selbst.</div>
+    <div>Seite gebaut ${ts(D.built_at)}.</div>`;
+}
+render();
+</script>
