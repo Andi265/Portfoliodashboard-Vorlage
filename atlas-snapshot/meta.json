@@ -1,10 +1,11 @@
 {
- "generated_at": "2026-10-26T07:35:50.616395+00:00",
- "generated_at_local": "2026-10-26T08:35:50.616401+01:00",
+ "generated_at": "2026-10-26T15:59:47.453333+00:00",
+ "generated_at_local": "2026-10-26T16:59:47.453340+01:00",
  "timezone": "Europe/Berlin",
- "slot": "morgen",
+ "slot": "abend",
  "slots": {
-  "morgen": "2026-10-26"
+  "morgen": "2026-10-26",
+  "abend": "2026-10-26"
  },
  "failed_sources": [
   "fa:AAPL",

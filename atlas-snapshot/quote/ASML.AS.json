@@ -3,14 +3,14 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:05.469140+00:00",
+  "updated_at": "2026-10-26T15:59:04.072309+00:00",
   "error": null,
   "data": {
    "ticker": "ASML.AS",
-   "price": 1407.199951171875,
-   "previous_close": 1423.0,
-   "change": -15.800048828125,
-   "change_pct": -1.1103337194747014,
+   "price": 1436.199951171875,
+   "previous_close": 1404.199951171875,
+   "change": 32.0,
+   "change_pct": 2.278877731999236,
    "currency": "EUR",
    "exchange": "AMS",
    "delayed": true
@@ -19,21 +19,10 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:17.377855+00:00",
+  "updated_at": "2026-10-26T15:59:14.439799+00:00",
   "error": null,
   "data": {
    "rows": [
-    {
-     "date": "2026-08-03",
-     "open": 1440.0,
-     "high": 1443.800048828125,
-     "low": 1372.4000244140625,
-     "close": 1419.5999755859375,
-     "adj_close": 1417.703369140625,
-     "volume": 590984.0,
-     "sma50": 1537.0600073242188,
-     "sma200": 1210.4665036010742
-    },
     {
      "date": "2026-08-04",
      "open": 1453.199951171875,
@@ -682,24 +671,35 @@
      "volume": 608876.0,
      "sma50": 1506.9560009765626,
      "sma200": 1382.951004638672
+    },
+    {
+     "date": "2026-10-26",
+     "open": 1398.4000244140625,
+     "high": 1440.4000244140625,
+     "low": 1396.5999755859375,
+     "close": 1436.4000244140625,
+     "adj_close": 1436.4000244140625,
+     "volume": 284192.0,
+     "sma50": 1503.2600024414062,
+     "sma200": 1384.7120050048827
     }
    ],
    "high_52w": 1741.0,
    "low_52w": 822.2000122070312,
-   "last_date": "2026-10-23",
+   "last_date": "2026-10-26",
    "summary": {
-    "date": "2026-10-23",
-    "close": 1407.199951171875,
-    "sma50": 1506.9560009765626,
-    "sma200": 1382.951004638672,
+    "date": "2026-10-26",
+    "close": 1436.4000244140625,
+    "sma50": 1503.2600024414062,
+    "sma200": 1384.7120050048827,
     "above_sma50": false,
     "above_sma200": true,
-    "perf_1m_pct": -6.38637339054049,
-    "perf_6m_pct": 18.13639437943042,
-    "perf_1y_pct": 53.785592548859064,
+    "perf_1m_pct": -5.5351614321065945,
+    "perf_6m_pct": 17.80543693573826,
+    "perf_1y_pct": 54.151984146972595,
     "high_52w": 1741.0,
     "low_52w": 822.2000122070312,
-    "pct_below_52w_high": -19.172891948772254,
+    "pct_below_52w_high": -17.495690728658097,
     "basis": "Performance auf bereinigten Schlusskursen; SMA auf Schlusskursen"
    }
   }

@@ -3,7 +3,7 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:03.654648+00:00",
+  "updated_at": "2026-10-26T15:59:02.329481+00:00",
   "error": null,
   "data": {
    "ticker": "7203.T",
@@ -19,10 +19,21 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:16.483748+00:00",
+  "updated_at": "2026-10-26T15:59:13.442351+00:00",
   "error": null,
   "data": {
    "rows": [
+    {
+     "date": "2026-07-27",
+     "open": 2921.0,
+     "high": 2973.0,
+     "low": 2915.0,
+     "close": 2965.5,
+     "adj_close": 2915.8515625,
+     "volume": 26894200.0,
+     "sma50": 2865.19,
+     "sma200": 3185.3775
+    },
     {
      "date": "2026-07-28",
      "open": 2972.5,
@@ -671,35 +682,24 @@
      "volume": 23788700.0,
      "sma50": 3024.22,
      "sma200": 3162.06
-    },
-    {
-     "date": "2026-10-26",
-     "open": 3072.0,
-     "high": 3142.0,
-     "low": 3069.0,
-     "close": 3117.0,
-     "adj_close": 3117.0,
-     "volume": 17198500.0,
-     "sma50": 3026.94,
-     "sma200": 3160.775
     }
    ],
    "high_52w": 4000.0,
    "low_52w": 2686.0,
-   "last_date": "2026-10-26",
+   "last_date": "2026-10-23",
    "summary": {
-    "date": "2026-10-26",
-    "close": 3117.0,
-    "sma50": 3026.94,
-    "sma200": 3160.775,
+    "date": "2026-10-23",
+    "close": 3105.0,
+    "sma50": 3024.22,
+    "sma200": 3162.06,
     "above_sma50": true,
     "above_sma200": false,
-    "perf_1m_pct": 6.772428576589751,
-    "perf_6m_pct": -5.172797840352872,
-    "perf_1y_pct": 10.997933008613558,
+    "perf_1m_pct": 4.392364417185979,
+    "perf_6m_pct": -6.902446924736616,
+    "perf_1y_pct": 8.732457511636005,
     "high_52w": 4000.0,
     "low_52w": 2686.0,
-    "pct_below_52w_high": -22.075,
+    "pct_below_52w_high": -22.375,
     "basis": "Performance auf bereinigten Schlusskursen; SMA auf Schlusskursen"
    }
   }

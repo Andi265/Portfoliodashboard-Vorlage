@@ -3,14 +3,14 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:13.843637+00:00",
+  "updated_at": "2026-10-26T15:59:11.155128+00:00",
   "error": null,
   "data": {
    "ticker": "^GDAXI",
-   "price": 25181.650390625,
-   "previous_close": 25375.060546875,
-   "change": -193.41015625,
-   "change_pct": -0.7622056936286559,
+   "price": 25481.66015625,
+   "previous_close": 25151.669921875,
+   "change": 329.990234375,
+   "change_pct": 1.3120012921607234,
    "currency": "EUR",
    "exchange": "GER",
    "delayed": true
@@ -19,21 +19,10 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:21.994945+00:00",
+  "updated_at": "2026-10-26T15:59:19.234585+00:00",
   "error": null,
   "data": {
    "rows": [
-    {
-     "date": "2026-08-03",
-     "open": 25855.119140625,
-     "high": 26096.9296875,
-     "low": 25855.119140625,
-     "close": 26001.310546875,
-     "adj_close": 26001.310546875,
-     "volume": 64941600.0,
-     "sma50": 25045.35703125,
-     "sma200": 24404.568427734375
-    },
     {
      "date": "2026-08-04",
      "open": 26189.619140625,
@@ -682,24 +671,35 @@
      "volume": 58950600.0,
      "sma50": 25621.2421484375,
      "sma200": 24878.829609375
+    },
+    {
+     "date": "2026-10-26",
+     "open": 25235.83984375,
+     "high": 25509.80078125,
+     "low": 25217.150390625,
+     "close": 25479.9609375,
+     "adj_close": 25479.9609375,
+     "volume": 0.0,
+     "sma50": 25604.0691796875,
+     "sma200": 24879.798212890626
     }
    ],
    "high_52w": 26618.740234375,
    "low_52w": 21863.810546875,
-   "last_date": "2026-10-23",
+   "last_date": "2026-10-26",
    "summary": {
-    "date": "2026-10-23",
-    "close": 25181.650390625,
-    "sma50": 25621.2421484375,
-    "sma200": 24878.829609375,
+    "date": "2026-10-26",
+    "close": 25479.9609375,
+    "sma50": 25604.0691796875,
+    "sma200": 24879.798212890626,
     "above_sma50": false,
     "above_sma200": true,
-    "perf_1m_pct": -0.33593417304250694,
-    "perf_6m_pct": 5.122572970390316,
-    "perf_1y_pct": 3.5907648141846993,
+    "perf_1m_pct": 0.280693145109967,
+    "perf_6m_pct": 4.888693640198238,
+    "perf_1y_pct": 4.948096476622843,
     "high_52w": 26618.740234375,
     "low_52w": 21863.810546875,
-    "pct_below_52w_high": -5.398789841655116,
+    "pct_below_52w_high": -4.278111160964704,
     "basis": "Performance auf bereinigten Schlusskursen; SMA auf Schlusskursen"
    }
   }

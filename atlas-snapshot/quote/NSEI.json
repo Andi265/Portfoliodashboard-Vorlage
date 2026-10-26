@@ -3,14 +3,14 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:14.848573+00:00",
+  "updated_at": "2026-10-26T15:59:11.970359+00:00",
   "error": null,
   "data": {
    "ticker": "^NSEI",
-   "price": 22601.94921875,
+   "price": 22753.19921875,
    "previous_close": 22600.0,
-   "change": 1.94921875,
-   "change_pct": 0.008624861725663716,
+   "change": 153.19921875,
+   "change_pct": 0.6778726493362832,
    "currency": "INR",
    "exchange": "NSI",
    "delayed": true
@@ -19,7 +19,7 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:22.520522+00:00",
+  "updated_at": "2026-10-26T15:59:19.810200+00:00",
   "error": null,
   "data": {
    "rows": [
@@ -675,13 +675,13 @@
     {
      "date": "2026-10-26",
      "open": 22524.400390625,
-     "high": 22706.150390625,
+     "high": 22753.19921875,
      "low": 22387.349609375,
-     "close": 22600.55078125,
-     "adj_close": 22600.55078125,
+     "close": 22753.19921875,
+     "adj_close": 22753.19921875,
      "volume": 0.0,
-     "sma50": 23367.0149609375,
-     "sma200": 24107.71650390625
+     "sma50": 23370.0679296875,
+     "sma200": 24108.47974609375
     }
    ],
    "high_52w": 26373.19921875,
@@ -689,17 +689,17 @@
    "last_date": "2026-10-26",
    "summary": {
     "date": "2026-10-26",
-    "close": 22600.55078125,
-    "sma50": 23367.0149609375,
-    "sma200": 24107.71650390625,
+    "close": 22753.19921875,
+    "sma50": 23370.0679296875,
+    "sma200": 24108.47974609375,
     "above_sma50": false,
     "above_sma200": false,
-    "perf_1m_pct": -3.609234402148076,
-    "perf_6m_pct": -6.505178077149121,
-    "perf_1y_pct": -11.66587809742441,
+    "perf_1m_pct": -2.958192757174194,
+    "perf_6m_pct": -5.873696188986277,
+    "perf_1y_pct": -11.069252563079047,
     "high_52w": 26373.19921875,
     "low_52w": 22179.900390625,
-    "pct_below_52w_high": -14.304857011119987,
+    "pct_below_52w_high": -13.726055644498237,
     "basis": "Performance auf bereinigten Schlusskursen; SMA auf Schlusskursen"
    }
   }

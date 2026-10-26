@@ -113,14 +113,14 @@
   "EUNL.DE": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:07.300675+00:00",
+   "updated_at": "2026-10-26T15:59:05.579916+00:00",
    "error": null,
    "data": {
     "ticker": "EUNL.DE",
-    "price": 129.83999633789062,
-    "previous_close": 129.93499755859375,
-    "change": -0.095001220703125,
-    "change_pct": -0.07311442066275063,
+    "price": 130.7949981689453,
+    "previous_close": 129.81500244140625,
+    "change": 0.9799957275390625,
+    "change_pct": 0.7549171583472386,
     "currency": "EUR",
     "exchange": "GER",
     "delayed": true
@@ -129,14 +129,14 @@
   "EEM": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:06.975471+00:00",
+   "updated_at": "2026-10-26T15:59:05.314868+00:00",
    "error": null,
    "data": {
     "ticker": "EEM",
-    "price": 62.0099983215332,
-    "previous_close": 61.72,
-    "change": 0.28999832153320426,
-    "change_pct": 0.4698611820045435,
+    "price": 61.86000061035156,
+    "previous_close": 62.0,
+    "change": -0.1399993896484375,
+    "change_pct": -0.22580546717489916,
     "currency": "USD",
     "exchange": "PCX",
     "delayed": true
@@ -145,14 +145,14 @@
   "^GDAXI": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:13.843637+00:00",
+   "updated_at": "2026-10-26T15:59:11.155128+00:00",
    "error": null,
    "data": {
     "ticker": "^GDAXI",
-    "price": 25181.650390625,
-    "previous_close": 25375.060546875,
-    "change": -193.41015625,
-    "change_pct": -0.7622056936286559,
+    "price": 25481.66015625,
+    "previous_close": 25151.669921875,
+    "change": 329.990234375,
+    "change_pct": 1.3120012921607234,
     "currency": "EUR",
     "exchange": "GER",
     "delayed": true
@@ -161,15 +161,15 @@
   "^STOXX50E": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:15.181799+00:00",
+   "updated_at": "2026-10-26T15:59:12.264986+00:00",
    "error": null,
    "data": {
     "ticker": "^STOXX50E",
-    "price": 6068.22021484375,
-    "previous_close": 6090.06005859375,
-    "change": -21.83984375,
-    "change_pct": -0.3586145873747429,
-    "currency": null,
+    "price": 6129.830078125,
+    "previous_close": 6059.3798828125,
+    "change": 70.4501953125,
+    "change_pct": 1.162663451953768,
+    "currency": "EUR",
     "exchange": "ZRH",
     "delayed": true
    }
@@ -177,14 +177,14 @@
   "^FTSE": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:13.515939+00:00",
+   "updated_at": "2026-10-26T15:59:10.843314+00:00",
    "error": null,
    "data": {
     "ticker": "^FTSE",
-    "price": 10690.400390625,
-    "previous_close": 10723.5595703125,
-    "change": -33.1591796875,
-    "change_pct": -0.3092180303571876,
+    "price": 10767.5302734375,
+    "previous_close": 10670.580078125,
+    "change": 96.9501953125,
+    "change_pct": 0.9085747410419676,
     "currency": "GBP",
     "exchange": "FGI",
     "delayed": true
@@ -193,14 +193,14 @@
   "SPY": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:12.503579+00:00",
+   "updated_at": "2026-10-26T15:59:09.947132+00:00",
    "error": null,
    "data": {
     "ticker": "SPY",
-    "price": 759.969970703125,
-    "previous_close": 764.1,
-    "change": -4.130029296875023,
-    "change_pct": -0.5405090036480857,
+    "price": 765.4600219726562,
+    "previous_close": 761.11,
+    "change": 4.350021972656236,
+    "change_pct": 0.5715365679936193,
     "currency": "USD",
     "exchange": "PCX",
     "delayed": true
@@ -209,14 +209,14 @@
   "QQQ": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:11.334698+00:00",
+   "updated_at": "2026-10-26T15:59:08.967213+00:00",
    "error": null,
    "data": {
     "ticker": "QQQ",
-    "price": 704.4000244140625,
-    "previous_close": 703.29,
-    "change": 1.1100244140625364,
-    "change_pct": 0.15783310072125814,
+    "price": 712.9600219726562,
+    "previous_close": 704.88,
+    "change": 8.080021972656255,
+    "change_pct": 1.1462975219407918,
     "currency": "USD",
     "exchange": "NGM",
     "delayed": true
@@ -225,14 +225,14 @@
   "DIA": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:06.605940+00:00",
+   "updated_at": "2026-10-26T15:59:05.022503+00:00",
    "error": null,
    "data": {
     "ticker": "DIA",
-    "price": 521.3699951171875,
-    "previous_close": 528.58,
-    "change": -7.210004882812541,
-    "change_pct": -1.364032858377642,
+    "price": 522.47998046875,
+    "previous_close": 522.05,
+    "change": 0.4299804687500455,
+    "change_pct": 0.0823638480509617,
     "currency": "USD",
     "exchange": "PCX",
     "delayed": true
@@ -241,14 +241,14 @@
   "IWM": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:08.729798+00:00",
+   "updated_at": "2026-10-26T15:59:06.674675+00:00",
    "error": null,
    "data": {
     "ticker": "IWM",
-    "price": 275.75,
-    "previous_close": 276.57,
-    "change": -0.8199999999999932,
-    "change_pct": -0.296489134757925,
+    "price": 277.69000244140625,
+    "previous_close": 275.75,
+    "change": 1.94000244140625,
+    "change_pct": 0.7035366967928378,
     "currency": "USD",
     "exchange": "PCX",
     "delayed": true
@@ -257,14 +257,14 @@
   "^VIX": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:15.511209+00:00",
+   "updated_at": "2026-10-26T15:59:12.545932+00:00",
    "error": null,
    "data": {
     "ticker": "^VIX",
-    "price": 19.700000762939453,
+    "price": 17.829999923706055,
     "previous_close": 19.450000762939453,
-    "change": 0.25,
-    "change_pct": 1.2853469932831911,
+    "change": -1.6200008392333984,
+    "change_pct": -8.32905283129958,
     "currency": "USD",
     "exchange": "CXI",
     "delayed": true
@@ -273,14 +273,14 @@
   "^N225": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:14.513881+00:00",
+   "updated_at": "2026-10-26T15:59:11.701164+00:00",
    "error": null,
    "data": {
     "ticker": "^N225",
-    "price": 62189.6484375,
+    "price": 62189.65,
     "previous_close": 62726.828125,
-    "change": -537.1796875,
-    "change_pct": -0.8563794847549531,
+    "change": -537.1781249999985,
+    "change_pct": -0.8563769937952662,
     "currency": "JPY",
     "exchange": "OSA",
     "delayed": true
@@ -289,14 +289,14 @@
   "^HSI": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:14.183726+00:00",
+   "updated_at": "2026-10-26T15:59:11.429307+00:00",
    "error": null,
    "data": {
     "ticker": "^HSI",
-    "price": 23204.1796875,
+    "price": 23211.810546875,
     "previous_close": 23093.369140625,
-    "change": 110.810546875,
-    "change_pct": 0.4798370744443096,
+    "change": 118.44140625,
+    "change_pct": 0.5128805828580563,
     "currency": "HKD",
     "exchange": "HKG",
     "delayed": true
@@ -305,7 +305,7 @@
   "000001.SS": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:02.504603+00:00",
+   "updated_at": "2026-10-26T15:59:01.268181+00:00",
    "error": null,
    "data": {
     "ticker": "000001.SS",
@@ -321,14 +321,14 @@
   "^NSEI": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:14.848573+00:00",
+   "updated_at": "2026-10-26T15:59:11.970359+00:00",
    "error": null,
    "data": {
     "ticker": "^NSEI",
-    "price": 22601.94921875,
+    "price": 22753.19921875,
     "previous_close": 22600.0,
-    "change": 1.94921875,
-    "change_pct": 0.008624861725663716,
+    "change": 153.19921875,
+    "change_pct": 0.6778726493362832,
     "currency": "INR",
     "exchange": "NSI",
     "delayed": true
@@ -337,14 +337,14 @@
   "EURUSD=X": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:07.628277+00:00",
+   "updated_at": "2026-10-26T15:59:05.838341+00:00",
    "error": null,
    "data": {
     "ticker": "EURUSD=X",
-    "price": 1.121076226234436,
+    "price": 1.1184431314468384,
     "previous_close": 1.1204482316970825,
-    "change": 0.0006279945373535156,
-    "change_pct": 0.05604850983631132,
+    "change": -0.0020051002502441406,
+    "change_pct": -0.1789551889610396,
     "currency": "USD",
     "exchange": "CCY",
     "delayed": true
@@ -353,14 +353,14 @@
   "GC=F": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:08.027580+00:00",
+   "updated_at": "2026-10-26T15:59:06.094682+00:00",
    "error": null,
    "data": {
     "ticker": "GC=F",
-    "price": 4020.10009765625,
+    "price": 4032.60009765625,
     "previous_close": 4021.60009765625,
-    "change": -1.5,
-    "change_pct": -0.03729858672109605,
+    "change": 11.0,
+    "change_pct": 0.2735229692880377,
     "currency": "USD",
     "exchange": "CMX",
     "delayed": true
@@ -369,14 +369,14 @@
   "BZ=F": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:06.232690+00:00",
+   "updated_at": "2026-10-26T15:59:04.610536+00:00",
    "error": null,
    "data": {
     "ticker": "BZ=F",
-    "price": 110.2300033569336,
+    "price": 111.3499984741211,
     "previous_close": 109.5199966430664,
-    "change": 0.7100067138671875,
-    "change_pct": 0.648289568690502,
+    "change": 1.8300018310546875,
+    "change_pct": 1.670929407548099,
     "currency": "USD",
     "exchange": "NYM",
     "delayed": true
@@ -385,14 +385,14 @@
   "BTC-USD": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:05.901018+00:00",
+   "updated_at": "2026-10-26T15:59:04.355773+00:00",
    "error": null,
    "data": {
     "ticker": "BTC-USD",
-    "price": 79912.5078125,
-    "previous_close": 80053.578125,
-    "change": -141.0703125,
-    "change_pct": -0.17621987149621865,
+    "price": 80283.1875,
+    "previous_close": 80043.8203125,
+    "change": 239.3671875,
+    "change_pct": 0.2990451812088476,
     "currency": "USD",
     "exchange": "CCC",
     "delayed": true
@@ -401,14 +401,14 @@
   "AAPL": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:04.057190+00:00",
+   "updated_at": "2026-10-26T15:59:02.662228+00:00",
    "error": null,
    "data": {
     "ticker": "AAPL",
-    "price": 347.7300109863281,
-    "previous_close": 348.6,
-    "change": -0.8699890136718977,
-    "change_pct": -0.24956655584391788,
+    "price": 344.5199890136719,
+    "previous_close": 347.61,
+    "change": -3.0900109863281386,
+    "change_pct": -0.8889304065844305,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -417,14 +417,14 @@
   "MSFT": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:10.210757+00:00",
+   "updated_at": "2026-10-26T15:59:07.966900+00:00",
    "error": null,
    "data": {
     "ticker": "MSFT",
-    "price": 524.510009765625,
-    "previous_close": 522.0,
-    "change": 2.510009765625,
-    "change_pct": 0.4808447826867816,
+    "price": 530.0499877929688,
+    "previous_close": 524.9113,
+    "change": 5.138687792968767,
+    "change_pct": 0.9789630729932405,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -433,14 +433,14 @@
   "NVDA": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:10.955105+00:00",
+   "updated_at": "2026-10-26T15:59:08.660206+00:00",
    "error": null,
    "data": {
     "ticker": "NVDA",
-    "price": 210.9600067138672,
-    "previous_close": 212.3831,
-    "change": -1.4230932861328256,
-    "change_pct": -0.6700595697740666,
+    "price": 215.45599365234375,
+    "previous_close": 211.114,
+    "change": 4.341993652343746,
+    "change_pct": 2.056705690927056,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -449,14 +449,14 @@
   "AMZN": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:05.105198+00:00",
+   "updated_at": "2026-10-26T15:59:03.759970+00:00",
    "error": null,
    "data": {
     "ticker": "AMZN",
-    "price": 248.0,
-    "previous_close": 250.81,
-    "change": -2.8100000000000023,
-    "change_pct": -1.1203700011961255,
+    "price": 248.89500427246094,
+    "previous_close": 248.78,
+    "change": 0.11500427246093636,
+    "change_pct": 0.04622729819958854,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -465,14 +465,14 @@
   "GOOGL": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:08.371233+00:00",
+   "updated_at": "2026-10-26T15:59:06.371786+00:00",
    "error": null,
    "data": {
     "ticker": "GOOGL",
-    "price": 320.2099914550781,
-    "previous_close": 324.2862,
-    "change": -4.076208544921883,
-    "change_pct": -1.2569787258668061,
+    "price": 319.8116149902344,
+    "previous_close": 321.1499,
+    "change": -1.3382850097656274,
+    "change_pct": -0.4167166204210642,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -481,14 +481,14 @@
   "META": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:09.840882+00:00",
+   "updated_at": "2026-10-26T15:59:07.616290+00:00",
    "error": null,
    "data": {
     "ticker": "META",
-    "price": 642.6199951171875,
-    "previous_close": 645.89,
-    "change": -3.2700048828124864,
-    "change_pct": -0.5062789148016669,
+    "price": 641.0587158203125,
+    "previous_close": 640.1,
+    "change": 0.9587158203124773,
+    "change_pct": 0.14977594443250697,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -497,14 +497,14 @@
   "TSLA": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:12.828206+00:00",
+   "updated_at": "2026-10-26T15:59:10.264526+00:00",
    "error": null,
    "data": {
     "ticker": "TSLA",
-    "price": 372.2200012207031,
-    "previous_close": 373.35,
-    "change": -1.1299987792968977,
-    "change_pct": -0.30266473263610494,
+    "price": 393.92999267578125,
+    "previous_close": 372.22,
+    "change": 21.709992675781223,
+    "change_pct": 5.832570167046699,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -513,14 +513,14 @@
   "JPM": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:09.115983+00:00",
+   "updated_at": "2026-10-26T15:59:06.990295+00:00",
    "error": null,
    "data": {
     "ticker": "JPM",
-    "price": 331.5799865722656,
-    "previous_close": 336.68,
-    "change": -5.100013427734382,
-    "change_pct": -1.514795481684205,
+    "price": 334.385009765625,
+    "previous_close": 331.85,
+    "change": 2.5350097656249773,
+    "change_pct": 0.7639022948997972,
     "currency": "USD",
     "exchange": "NYQ",
     "delayed": true
@@ -529,14 +529,14 @@
   "V": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:13.185891+00:00",
+   "updated_at": "2026-10-26T15:59:10.570128+00:00",
    "error": null,
    "data": {
     "ticker": "V",
-    "price": 407.9200134277344,
-    "previous_close": 414.155,
-    "change": -6.234986572265598,
-    "change_pct": -1.5054717611197734,
+    "price": 403.239990234375,
+    "previous_close": 408.12,
+    "change": -4.8800097656250045,
+    "change_pct": -1.1957291398669518,
     "currency": "USD",
     "exchange": "NYQ",
     "delayed": true
@@ -545,14 +545,14 @@
   "AMD": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:04.771327+00:00",
+   "updated_at": "2026-10-26T15:59:03.378844+00:00",
    "error": null,
    "data": {
     "ticker": "AMD",
-    "price": 516.7899780273438,
-    "previous_close": 505.7404,
-    "change": 11.049578027343728,
-    "change_pct": 2.1848319863992924,
+    "price": 529.35498046875,
+    "previous_close": 516.8,
+    "change": 12.554980468750045,
+    "change_pct": 2.429369285748848,
     "currency": "USD",
     "exchange": "NMS",
     "delayed": true
@@ -561,14 +561,14 @@
   "SAP.DE": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:11.707933+00:00",
+   "updated_at": "2026-10-26T15:59:09.282474+00:00",
    "error": null,
    "data": {
     "ticker": "SAP.DE",
-    "price": 214.39999389648438,
-    "previous_close": 216.4499969482422,
-    "change": -2.0500030517578125,
-    "change_pct": -0.9471023703677908,
+    "price": 214.0,
+    "previous_close": 214.35000610351562,
+    "change": -0.350006103515625,
+    "change_pct": -0.1632871908324543,
     "currency": "EUR",
     "exchange": "GER",
     "delayed": true
@@ -577,14 +577,14 @@
   "SIE.DE": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:12.128979+00:00",
+   "updated_at": "2026-10-26T15:59:09.633748+00:00",
    "error": null,
    "data": {
     "ticker": "SIE.DE",
-    "price": 256.79998779296875,
-    "previous_close": 255.6999969482422,
-    "change": 1.0999908447265625,
-    "change_pct": 0.4301880554770669,
+    "price": 262.0,
+    "previous_close": 256.54998779296875,
+    "change": 5.45001220703125,
+    "change_pct": 2.124347092711348,
     "currency": "EUR",
     "exchange": "GER",
     "delayed": true
@@ -593,14 +593,14 @@
   "ALV.DE": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:04.429412+00:00",
+   "updated_at": "2026-10-26T15:59:03.109334+00:00",
    "error": null,
    "data": {
     "ticker": "ALV.DE",
-    "price": 427.8999938964844,
-    "previous_close": 433.25,
-    "change": -5.350006103515625,
-    "change_pct": -1.2348542650930467,
+    "price": 431.20001220703125,
+    "previous_close": 428.1000061035156,
+    "change": 3.100006103515625,
+    "change_pct": 0.7241312915949915,
     "currency": "EUR",
     "exchange": "GER",
     "delayed": true
@@ -609,14 +609,14 @@
   "MC.PA": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:09.500905+00:00",
+   "updated_at": "2026-10-26T15:59:07.307532+00:00",
    "error": null,
    "data": {
     "ticker": "MC.PA",
-    "price": 383.0,
-    "previous_close": 387.8999938964844,
-    "change": -4.899993896484375,
-    "change_pct": -1.2632106144843085,
+    "price": 387.1000061035156,
+    "previous_close": 383.1000061035156,
+    "change": 4.0,
+    "change_pct": 1.0441137917703867,
     "currency": "EUR",
     "exchange": "PAR",
     "delayed": true
@@ -625,14 +625,14 @@
   "NOVO-B.CO": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:10.592725+00:00",
+   "updated_at": "2026-10-26T15:59:08.365125+00:00",
    "error": null,
    "data": {
     "ticker": "NOVO-B.CO",
-    "price": 260.1499938964844,
-    "previous_close": 264.75,
-    "change": -4.600006103515625,
-    "change_pct": -1.7374905018000473,
+    "price": 261.1499938964844,
+    "previous_close": 260.1499938964844,
+    "change": 1.0,
+    "change_pct": 0.3843936280843841,
     "currency": "DKK",
     "exchange": "CPH",
     "delayed": true
@@ -641,14 +641,14 @@
   "ASML.AS": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:05.469140+00:00",
+   "updated_at": "2026-10-26T15:59:04.072309+00:00",
    "error": null,
    "data": {
     "ticker": "ASML.AS",
-    "price": 1407.199951171875,
-    "previous_close": 1423.0,
-    "change": -15.800048828125,
-    "change_pct": -1.1103337194747014,
+    "price": 1436.199951171875,
+    "previous_close": 1404.199951171875,
+    "change": 32.0,
+    "change_pct": 2.278877731999236,
     "currency": "EUR",
     "exchange": "AMS",
     "delayed": true
@@ -657,7 +657,7 @@
   "7203.T": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:03.654648+00:00",
+   "updated_at": "2026-10-26T15:59:02.329481+00:00",
    "error": null,
    "data": {
     "ticker": "7203.T",
@@ -673,7 +673,7 @@
   "2330.TW": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:03.245729+00:00",
+   "updated_at": "2026-10-26T15:59:01.974970+00:00",
    "error": null,
    "data": {
     "ticker": "2330.TW",
@@ -689,7 +689,7 @@
   "005930.KS": {
    "available": true,
    "source": "Yahoo Finance via yfinance (delayed)",
-   "updated_at": "2026-10-26T07:35:02.882315+00:00",
+   "updated_at": "2026-10-26T15:59:01.626520+00:00",
    "error": null,
    "data": {
     "ticker": "005930.KS",

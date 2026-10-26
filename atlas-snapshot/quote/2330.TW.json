@@ -3,7 +3,7 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:03.245729+00:00",
+  "updated_at": "2026-10-26T15:59:01.974970+00:00",
   "error": null,
   "data": {
    "ticker": "2330.TW",
@@ -19,7 +19,7 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:16.157742+00:00",
+  "updated_at": "2026-10-26T15:59:13.205838+00:00",
   "error": null,
   "data": {
    "rows": [
@@ -695,7 +695,7 @@
     "above_sma50": false,
     "above_sma200": true,
     "perf_1m_pct": -3.8306451612903247,
-    "perf_6m_pct": 16.995221308283547,
+    "perf_6m_pct": 16.99522831408695,
     "perf_1y_pct": 67.65612042595023,
     "high_52w": 2590.0,
     "low_52w": 1375.0,

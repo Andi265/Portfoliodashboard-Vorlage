@@ -3,7 +3,7 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:02.504603+00:00",
+  "updated_at": "2026-10-26T15:59:01.268181+00:00",
   "error": null,
   "data": {
    "ticker": "000001.SS",
@@ -19,7 +19,7 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:15.712521+00:00",
+  "updated_at": "2026-10-26T15:59:12.736921+00:00",
   "error": null,
   "data": {
    "rows": [

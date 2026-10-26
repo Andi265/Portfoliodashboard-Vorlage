@@ -3,14 +3,14 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:05.901018+00:00",
+  "updated_at": "2026-10-26T15:59:04.355773+00:00",
   "error": null,
   "data": {
    "ticker": "BTC-USD",
-   "price": 79912.5078125,
-   "previous_close": 80053.578125,
-   "change": -141.0703125,
-   "change_pct": -0.17621987149621865,
+   "price": 80283.1875,
+   "previous_close": 80043.8203125,
+   "change": 239.3671875,
+   "change_pct": 0.2990451812088476,
    "currency": "USD",
    "exchange": "CCC",
    "delayed": true
@@ -19,7 +19,7 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:17.622819+00:00",
+  "updated_at": "2026-10-26T15:59:14.676171+00:00",
   "error": null,
   "data": {
    "rows": [
@@ -675,13 +675,13 @@
     {
      "date": "2026-10-26",
      "open": 80039.6875,
-     "high": 80173.53125,
+     "high": 80612.2421875,
      "low": 79343.65625,
-     "close": 79908.1875,
-     "adj_close": 79908.1875,
-     "volume": 16917972992.0,
-     "sma50": 81795.8859375,
-     "sma200": 72986.045078125
+     "close": 80269.140625,
+     "adj_close": 80269.140625,
+     "volume": 25486860288.0,
+     "sma50": 81803.105,
+     "sma200": 72987.84984375
     }
    ],
    "high_52w": 87363.7578125,
@@ -689,17 +689,17 @@
    "last_date": "2026-10-26",
    "summary": {
     "date": "2026-10-26",
-    "close": 79908.1875,
-    "sma50": 81795.8859375,
-    "sma200": 72986.045078125,
+    "close": 80269.140625,
+    "sma50": 81803.105,
+    "sma200": 72987.84984375,
     "above_sma50": false,
     "above_sma200": true,
-    "perf_1m_pct": -6.852360016916981,
-    "perf_6m_pct": 24.950049594609336,
-    "perf_1y_pct": 18.392640110379823,
+    "perf_1m_pct": -6.431602985752072,
+    "perf_6m_pct": 25.514461231027454,
+    "perf_1y_pct": 18.927431284623907,
     "high_52w": 87363.7578125,
     "low_52w": 57747.765625,
-    "pct_below_52w_high": -8.53393958682631,
+    "pct_below_52w_high": -8.120778415606233,
     "basis": "Performance auf bereinigten Schlusskursen; SMA auf Schlusskursen"
    }
   }

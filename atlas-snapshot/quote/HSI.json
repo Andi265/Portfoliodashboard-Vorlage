@@ -3,14 +3,14 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:14.183726+00:00",
+  "updated_at": "2026-10-26T15:59:11.429307+00:00",
   "error": null,
   "data": {
    "ticker": "^HSI",
-   "price": 23204.1796875,
+   "price": 23211.810546875,
    "previous_close": 23093.369140625,
-   "change": 110.810546875,
-   "change_pct": 0.4798370744443096,
+   "change": 118.44140625,
+   "change_pct": 0.5128805828580563,
    "currency": "HKD",
    "exchange": "HKG",
    "delayed": true
@@ -19,7 +19,7 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:22.165097+00:00",
+  "updated_at": "2026-10-26T15:59:19.477407+00:00",
   "error": null,
   "data": {
    "rows": [
@@ -677,11 +677,11 @@
      "open": 23156.9609375,
      "high": 23259.130859375,
      "low": 23009.7890625,
-     "close": 23202.400390625,
-     "adj_close": 23202.400390625,
+     "close": 23211.810546875,
+     "adj_close": 23211.810546875,
      "volume": 0.0,
-     "sma50": 24758.670390625,
-     "sma200": 25413.942646484375
+     "sma50": 24758.85859375,
+     "sma200": 25413.989697265624
     }
    ],
    "high_52w": 28056.099609375,
@@ -689,17 +689,17 @@
    "last_date": "2026-10-26",
    "summary": {
     "date": "2026-10-26",
-    "close": 23202.400390625,
-    "sma50": 24758.670390625,
-    "sma200": 25413.942646484375,
+    "close": 23211.810546875,
+    "sma50": 24758.85859375,
+    "sma200": 25413.989697265624,
     "above_sma50": false,
     "above_sma200": false,
-    "perf_1m_pct": -6.570471619147334,
-    "perf_6m_pct": -10.467983692605587,
-    "perf_1y_pct": -10.375681718716157,
+    "perf_1m_pct": -6.532579571530439,
+    "perf_6m_pct": -10.431672352026766,
+    "perf_1y_pct": -10.339332943389989,
     "high_52w": 28056.099609375,
     "low_52w": 22518.0,
-    "pct_below_52w_high": -17.299978565545604,
+    "pct_below_52w_high": -17.266438064973478,
     "basis": "Performance auf bereinigten Schlusskursen; SMA auf Schlusskursen"
    }
   }

@@ -3,7 +3,7 @@
  "quote": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:02.882315+00:00",
+  "updated_at": "2026-10-26T15:59:01.626520+00:00",
   "error": null,
   "data": {
    "ticker": "005930.KS",
@@ -19,10 +19,21 @@
  "history": {
   "available": true,
   "source": "Yahoo Finance via yfinance (delayed)",
-  "updated_at": "2026-10-26T07:35:15.932271+00:00",
+  "updated_at": "2026-10-26T15:59:13.013630+00:00",
   "error": null,
   "data": {
    "rows": [
+    {
+     "date": "2026-07-27",
+     "open": 257000.0,
+     "high": 258500.0,
+     "low": 246000.0,
+     "close": 254000.0,
+     "adj_close": 254000.0,
+     "volume": 23296044.0,
+     "sma50": 304010.0,
+     "sma200": 190360.0
+    },
     {
      "date": "2026-07-28",
      "open": 238500.0,
@@ -671,35 +682,24 @@
      "volume": 16145972.0,
      "sma50": 254760.0,
      "sma200": 234770.25
-    },
-    {
-     "date": "2026-10-26",
-     "open": 213500.0,
-     "high": 216000.0,
-     "low": 211500.0,
-     "close": 213000.0,
-     "adj_close": 213000.0,
-     "volume": 12244658.0,
-     "sma50": 254420.0,
-     "sma200": 235250.25
     }
    ],
    "high_52w": 374500.0,
-   "low_52w": 92100.0,
-   "last_date": "2026-10-26",
+   "low_52w": 90200.0,
+   "last_date": "2026-10-23",
    "summary": {
-    "date": "2026-10-26",
-    "close": 213000.0,
-    "sma50": 254420.0,
-    "sma200": 235250.25,
+    "date": "2026-10-23",
+    "close": 215500.0,
+    "sma50": 254760.0,
+    "sma200": 234770.25,
     "above_sma50": false,
     "above_sma200": false,
-    "perf_1m_pct": -22.26277372262774,
-    "perf_6m_pct": -1.2801356471187741,
-    "perf_1y_pct": 126.01577153041875,
+    "perf_1m_pct": -17.432950191570885,
+    "perf_6m_pct": -0.8102747667581567,
+    "perf_1y_pct": 137.15621634039343,
     "high_52w": 374500.0,
-    "low_52w": 92100.0,
-    "pct_below_52w_high": -43.12416555407209,
+    "low_52w": 90200.0,
+    "pct_below_52w_high": -42.456608811749,
     "basis": "Performance auf bereinigten Schlusskursen; SMA auf Schlusskursen"
    }
   }
