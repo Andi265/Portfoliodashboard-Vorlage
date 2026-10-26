@@ -1,0 +1,2411 @@
+{
+ "note": "Kurse verzögert (delayed). Alle Werte stammen aus der Datenbank von Atlas Terminal.",
+ "quotes": {
+  "EUNL.DE": {
+   "ticker": "EUNL.DE",
+   "price": 129.83999633789062,
+   "previous_close": 129.93499755859375,
+   "change": -0.095001220703125,
+   "change_pct": -0.07311442066275063,
+   "currency": "EUR",
+   "exchange": "GER",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:07.300675+00:00"
+  },
+  "EEM": {
+   "ticker": "EEM",
+   "price": 62.0099983215332,
+   "previous_close": 61.72,
+   "change": 0.28999832153320426,
+   "change_pct": 0.4698611820045435,
+   "currency": "USD",
+   "exchange": "PCX",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:06.975471+00:00"
+  },
+  "^GDAXI": {
+   "ticker": "^GDAXI",
+   "price": 25181.650390625,
+   "previous_close": 25375.060546875,
+   "change": -193.41015625,
+   "change_pct": -0.7622056936286559,
+   "currency": "EUR",
+   "exchange": "GER",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:13.843637+00:00"
+  },
+  "^STOXX50E": {
+   "ticker": "^STOXX50E",
+   "price": 6068.22021484375,
+   "previous_close": 6090.06005859375,
+   "change": -21.83984375,
+   "change_pct": -0.3586145873747429,
+   "currency": null,
+   "exchange": "ZRH",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:15.181799+00:00"
+  },
+  "^FTSE": {
+   "ticker": "^FTSE",
+   "price": 10690.400390625,
+   "previous_close": 10723.5595703125,
+   "change": -33.1591796875,
+   "change_pct": -0.3092180303571876,
+   "currency": "GBP",
+   "exchange": "FGI",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:13.515939+00:00"
+  },
+  "SPY": {
+   "ticker": "SPY",
+   "price": 759.969970703125,
+   "previous_close": 764.1,
+   "change": -4.130029296875023,
+   "change_pct": -0.5405090036480857,
+   "currency": "USD",
+   "exchange": "PCX",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:12.503579+00:00"
+  },
+  "QQQ": {
+   "ticker": "QQQ",
+   "price": 704.4000244140625,
+   "previous_close": 703.29,
+   "change": 1.1100244140625364,
+   "change_pct": 0.15783310072125814,
+   "currency": "USD",
+   "exchange": "NGM",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:11.334698+00:00"
+  },
+  "DIA": {
+   "ticker": "DIA",
+   "price": 521.3699951171875,
+   "previous_close": 528.58,
+   "change": -7.210004882812541,
+   "change_pct": -1.364032858377642,
+   "currency": "USD",
+   "exchange": "PCX",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:06.605940+00:00"
+  },
+  "IWM": {
+   "ticker": "IWM",
+   "price": 275.75,
+   "previous_close": 276.57,
+   "change": -0.8199999999999932,
+   "change_pct": -0.296489134757925,
+   "currency": "USD",
+   "exchange": "PCX",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:08.729798+00:00"
+  },
+  "^VIX": {
+   "ticker": "^VIX",
+   "price": 19.700000762939453,
+   "previous_close": 19.450000762939453,
+   "change": 0.25,
+   "change_pct": 1.2853469932831911,
+   "currency": "USD",
+   "exchange": "CXI",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:15.511209+00:00"
+  },
+  "^N225": {
+   "ticker": "^N225",
+   "price": 62189.6484375,
+   "previous_close": 62726.828125,
+   "change": -537.1796875,
+   "change_pct": -0.8563794847549531,
+   "currency": "JPY",
+   "exchange": "OSA",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:14.513881+00:00"
+  },
+  "^HSI": {
+   "ticker": "^HSI",
+   "price": 23204.1796875,
+   "previous_close": 23093.369140625,
+   "change": 110.810546875,
+   "change_pct": 0.4798370744443096,
+   "currency": "HKD",
+   "exchange": "HKG",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:14.183726+00:00"
+  },
+  "000001.SS": {
+   "ticker": "000001.SS",
+   "price": 3697.52001953125,
+   "previous_close": 3685.65478515625,
+   "change": 11.865234375,
+   "change_pct": 0.3219301607623836,
+   "currency": "CNY",
+   "exchange": "SHH",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:02.504603+00:00"
+  },
+  "^NSEI": {
+   "ticker": "^NSEI",
+   "price": 22601.94921875,
+   "previous_close": 22600.0,
+   "change": 1.94921875,
+   "change_pct": 0.008624861725663716,
+   "currency": "INR",
+   "exchange": "NSI",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:14.848573+00:00"
+  },
+  "EURUSD=X": {
+   "ticker": "EURUSD=X",
+   "price": 1.121076226234436,
+   "previous_close": 1.1204482316970825,
+   "change": 0.0006279945373535156,
+   "change_pct": 0.05604850983631132,
+   "currency": "USD",
+   "exchange": "CCY",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:07.628277+00:00"
+  },
+  "GC=F": {
+   "ticker": "GC=F",
+   "price": 4020.10009765625,
+   "previous_close": 4021.60009765625,
+   "change": -1.5,
+   "change_pct": -0.03729858672109605,
+   "currency": "USD",
+   "exchange": "CMX",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:08.027580+00:00"
+  },
+  "BZ=F": {
+   "ticker": "BZ=F",
+   "price": 110.2300033569336,
+   "previous_close": 109.5199966430664,
+   "change": 0.7100067138671875,
+   "change_pct": 0.648289568690502,
+   "currency": "USD",
+   "exchange": "NYM",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:06.232690+00:00"
+  },
+  "BTC-USD": {
+   "ticker": "BTC-USD",
+   "price": 79912.5078125,
+   "previous_close": 80053.578125,
+   "change": -141.0703125,
+   "change_pct": -0.17621987149621865,
+   "currency": "USD",
+   "exchange": "CCC",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:05.901018+00:00"
+  },
+  "AAPL": {
+   "ticker": "AAPL",
+   "price": 347.7300109863281,
+   "previous_close": 348.6,
+   "change": -0.8699890136718977,
+   "change_pct": -0.24956655584391788,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:04.057190+00:00"
+  },
+  "MSFT": {
+   "ticker": "MSFT",
+   "price": 524.510009765625,
+   "previous_close": 522.0,
+   "change": 2.510009765625,
+   "change_pct": 0.4808447826867816,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:10.210757+00:00"
+  },
+  "NVDA": {
+   "ticker": "NVDA",
+   "price": 210.9600067138672,
+   "previous_close": 212.3831,
+   "change": -1.4230932861328256,
+   "change_pct": -0.6700595697740666,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:10.955105+00:00"
+  },
+  "AMZN": {
+   "ticker": "AMZN",
+   "price": 248.0,
+   "previous_close": 250.81,
+   "change": -2.8100000000000023,
+   "change_pct": -1.1203700011961255,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:05.105198+00:00"
+  },
+  "GOOGL": {
+   "ticker": "GOOGL",
+   "price": 320.2099914550781,
+   "previous_close": 324.2862,
+   "change": -4.076208544921883,
+   "change_pct": -1.2569787258668061,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:08.371233+00:00"
+  },
+  "META": {
+   "ticker": "META",
+   "price": 642.6199951171875,
+   "previous_close": 645.89,
+   "change": -3.2700048828124864,
+   "change_pct": -0.5062789148016669,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:09.840882+00:00"
+  },
+  "TSLA": {
+   "ticker": "TSLA",
+   "price": 372.2200012207031,
+   "previous_close": 373.35,
+   "change": -1.1299987792968977,
+   "change_pct": -0.30266473263610494,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:12.828206+00:00"
+  },
+  "JPM": {
+   "ticker": "JPM",
+   "price": 331.5799865722656,
+   "previous_close": 336.68,
+   "change": -5.100013427734382,
+   "change_pct": -1.514795481684205,
+   "currency": "USD",
+   "exchange": "NYQ",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:09.115983+00:00"
+  },
+  "V": {
+   "ticker": "V",
+   "price": 407.9200134277344,
+   "previous_close": 414.155,
+   "change": -6.234986572265598,
+   "change_pct": -1.5054717611197734,
+   "currency": "USD",
+   "exchange": "NYQ",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:13.185891+00:00"
+  },
+  "AMD": {
+   "ticker": "AMD",
+   "price": 516.7899780273438,
+   "previous_close": 505.7404,
+   "change": 11.049578027343728,
+   "change_pct": 2.1848319863992924,
+   "currency": "USD",
+   "exchange": "NMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:04.771327+00:00"
+  },
+  "SAP.DE": {
+   "ticker": "SAP.DE",
+   "price": 214.39999389648438,
+   "previous_close": 216.4499969482422,
+   "change": -2.0500030517578125,
+   "change_pct": -0.9471023703677908,
+   "currency": "EUR",
+   "exchange": "GER",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:11.707933+00:00"
+  },
+  "SIE.DE": {
+   "ticker": "SIE.DE",
+   "price": 256.79998779296875,
+   "previous_close": 255.6999969482422,
+   "change": 1.0999908447265625,
+   "change_pct": 0.4301880554770669,
+   "currency": "EUR",
+   "exchange": "GER",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:12.128979+00:00"
+  },
+  "ALV.DE": {
+   "ticker": "ALV.DE",
+   "price": 427.8999938964844,
+   "previous_close": 433.25,
+   "change": -5.350006103515625,
+   "change_pct": -1.2348542650930467,
+   "currency": "EUR",
+   "exchange": "GER",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:04.429412+00:00"
+  },
+  "MC.PA": {
+   "ticker": "MC.PA",
+   "price": 383.0,
+   "previous_close": 387.8999938964844,
+   "change": -4.899993896484375,
+   "change_pct": -1.2632106144843085,
+   "currency": "EUR",
+   "exchange": "PAR",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:09.500905+00:00"
+  },
+  "NOVO-B.CO": {
+   "ticker": "NOVO-B.CO",
+   "price": 260.1499938964844,
+   "previous_close": 264.75,
+   "change": -4.600006103515625,
+   "change_pct": -1.7374905018000473,
+   "currency": "DKK",
+   "exchange": "CPH",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:10.592725+00:00"
+  },
+  "ASML.AS": {
+   "ticker": "ASML.AS",
+   "price": 1407.199951171875,
+   "previous_close": 1423.0,
+   "change": -15.800048828125,
+   "change_pct": -1.1103337194747014,
+   "currency": "EUR",
+   "exchange": "AMS",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:05.469140+00:00"
+  },
+  "7203.T": {
+   "ticker": "7203.T",
+   "price": 3117.0,
+   "previous_close": 3096.0,
+   "change": 21.0,
+   "change_pct": 0.6782945736434108,
+   "currency": "JPY",
+   "exchange": "JPX",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:03.654648+00:00"
+  },
+  "2330.TW": {
+   "ticker": "2330.TW",
+   "price": 2385.0,
+   "previous_close": 2405.0,
+   "change": -20.0,
+   "change_pct": -0.8316008316008316,
+   "currency": "TWD",
+   "exchange": "TAI",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:03.245729+00:00"
+  },
+  "005930.KS": {
+   "ticker": "005930.KS",
+   "price": 213000.0,
+   "previous_close": 214000.0,
+   "change": -1000.0,
+   "change_pct": -0.46728971962616817,
+   "currency": "KRW",
+   "exchange": "KSC",
+   "delayed": true,
+   "updated_at": "2026-10-26T07:35:02.882315+00:00"
+  }
+ },
+ "macro": {
+  "DFF": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "DGS10": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "DGS2": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "DGS3MO": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "2s10s": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "CPI_YOY": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "UNRATE": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "ECBDFR": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "HICP_YOY": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "BUND10": {
+   "error": "fred.json fehlt (wird von den Routinen geschrieben)"
+  }
+ },
+ "risk": {
+  "benchmark": {
+   "ticker": "EUNL.DE",
+   "name": "MSCI World (iShares, EUR)"
+  },
+  "risk_free": {
+   "value": null,
+   "series": "ECBDFR",
+   "date": null,
+   "error": "Sharpe nicht verfügbar – ECBDFR fehlt: fred.json fehlt (wird von den Routinen geschrieben)"
+  },
+  "rows": [
+   {
+    "ticker": "AAPL",
+    "name": "Apple",
+    "ann_vol": 0.24102622643524288,
+    "ann_return": 0.3004112501498701,
+    "sharpe": null,
+    "beta": 0.6237015429054934,
+    "max_drawdown": -0.13798523953754416,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "ann_vol": 0.32554395166546035,
+    "ann_return": 0.015791793847257735,
+    "sharpe": null,
+    "beta": 0.79638285218448,
+    "max_drawdown": -0.34498397568158834,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "NVDA",
+    "name": "Nvidia",
+    "ann_vol": 0.37503310982614985,
+    "ann_return": 0.15955029062555282,
+    "sharpe": null,
+    "beta": 1.467786973837095,
+    "max_drawdown": -0.20214390449746988,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "ann_vol": 0.34171848153097467,
+    "ann_return": 0.1291630814826816,
+    "sharpe": null,
+    "beta": 1.2161956322927439,
+    "max_drawdown": -0.2173622311569574,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "GOOGL",
+    "name": "Alphabet",
+    "ann_vol": 0.3142988921363224,
+    "ann_return": 0.24337610798537662,
+    "sharpe": null,
+    "beta": 1.089199804994416,
+    "max_drawdown": -0.21047200943300937,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "ann_vol": 0.4259487648222204,
+    "ann_return": -0.1287650422877863,
+    "sharpe": null,
+    "beta": 1.3181428589184931,
+    "max_drawdown": -0.29942763106919357,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "TSLA",
+    "name": "Tesla",
+    "ann_vol": 0.45409102976376275,
+    "ann_return": -0.16494599579573982,
+    "sharpe": null,
+    "beta": 1.953666854381616,
+    "max_drawdown": -0.39103453018952694,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "ann_vol": 0.2210774143220344,
+    "ann_return": 0.13899195026853461,
+    "sharpe": null,
+    "beta": 0.6092654692830191,
+    "max_drawdown": -0.1547173565405373,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "V",
+    "name": "Visa",
+    "ann_vol": 0.22033936908897586,
+    "ann_return": 0.17444951889845994,
+    "sharpe": null,
+    "beta": 0.19204603234325482,
+    "max_drawdown": -0.17180498084031304,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "AMD",
+    "name": "AMD",
+    "ann_vol": 0.6779146619299674,
+    "ann_return": 0.808557769219487,
+    "sharpe": null,
+    "beta": 2.320397681643048,
+    "max_drawdown": -0.2776075108828485,
+    "window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-13",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "SAP.DE",
+    "name": "SAP",
+    "ann_vol": 0.4155185546417804,
+    "ann_return": -0.06786633209645243,
+    "sharpe": null,
+    "beta": 0.9960696294615152,
+    "max_drawdown": -0.44598652197738275,
+    "window": {
+     "start": "2025-10-24",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "SIE.DE",
+    "name": "Siemens",
+    "ann_vol": 0.33017526923292817,
+    "ann_return": 0.07380679079334351,
+    "sharpe": null,
+    "beta": 2.0004280442321174,
+    "max_drawdown": -0.20503662867365802,
+    "window": {
+     "start": "2025-10-24",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "ALV.DE",
+    "name": "Allianz",
+    "ann_vol": 0.18080339199581813,
+    "ann_return": 0.23797805745874287,
+    "sharpe": null,
+    "beta": 0.6478622323421055,
+    "max_drawdown": -0.12350398048430755,
+    "window": {
+     "start": "2025-10-24",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "MC.PA",
+    "name": "LVMH",
+    "ann_vol": 0.2717366408404165,
+    "ann_return": -0.4481674729837761,
+    "sharpe": null,
+    "beta": 0.8987184085790165,
+    "max_drawdown": -0.41002499289898797,
+    "window": {
+     "start": "2025-10-28",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "NOVO-B.CO",
+    "name": "Novo Nordisk",
+    "ann_vol": 0.47122494655916963,
+    "ann_return": -0.22888928083539486,
+    "sharpe": null,
+    "beta": 0.9157606763593359,
+    "max_drawdown": -0.42319673700217453,
+    "window": {
+     "start": "2025-10-17",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-14",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "ASML.AS",
+    "name": "ASML",
+    "ann_vol": 0.42913036432026236,
+    "ann_return": 0.4435272242509904,
+    "sharpe": null,
+    "beta": 2.246663301111823,
+    "max_drawdown": -0.20771438504243944,
+    "window": {
+     "start": "2025-10-28",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-22",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "7203.T",
+    "name": "Toyota",
+    "ann_vol": 0.3075438433060406,
+    "ann_return": 0.08757744613073476,
+    "sharpe": null,
+    "beta": 0.3387287494616681,
+    "max_drawdown": -0.30882499143831244,
+    "window": {
+     "start": "2025-10-09",
+     "end": "2026-10-26",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-09-26",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "2330.TW",
+    "name": "TSMC",
+    "ann_vol": 0.3169633565253177,
+    "ann_return": 0.534258298290176,
+    "sharpe": null,
+    "beta": 0.8944781157162178,
+    "max_drawdown": -0.12370110859432581,
+    "window": {
+     "start": "2025-10-08",
+     "end": "2026-10-23",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-10-01",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   },
+   {
+    "ticker": "005930.KS",
+    "name": "Samsung Electronics",
+    "ann_vol": 0.757098002135656,
+    "ann_return": 0.8518801348516225,
+    "sharpe": null,
+    "beta": 1.7059526795675661,
+    "max_drawdown": -0.42833575022000525,
+    "window": {
+     "start": "2025-10-14",
+     "end": "2026-10-26",
+     "returns": 252
+    },
+    "beta_window": {
+     "start": "2025-09-26",
+     "end": "2026-10-23",
+     "returns": 252
+    }
+   }
+  ],
+  "correlation": {
+   "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "TSLA",
+    "JPM",
+    "V",
+    "AMD",
+    "SAP.DE",
+    "SIE.DE",
+    "ALV.DE",
+    "MC.PA",
+    "NOVO-B.CO",
+    "ASML.AS",
+    "7203.T",
+    "2330.TW",
+    "005930.KS"
+   ],
+   "matrix": [
+    [
+     0.9999999999999998,
+     0.11694237108252552,
+     0.10920492251581586,
+     0.14092050698496303,
+     0.2108034185006784,
+     0.11018018207390426,
+     0.24548405731693476,
+     0.10536551641682605,
+     0.17986715958688212,
+     0.0005036324468395637,
+     0.08563245611812098,
+     0.1709014707876557,
+     0.16825409219703152,
+     0.2422301433321726,
+     0.12449120893490241,
+     0.10016570577499367,
+     0.16138879758716052,
+     -0.09105128072045975,
+     -0.1083497056698563
+    ],
+    [
+     0.1169423710825255,
+     1.0,
+     0.2909551009002005,
+     0.347126907562185,
+     0.15905057565932368,
+     0.27318147888563604,
+     0.20160262759313974,
+     0.042618485521098266,
+     0.17959951090932028,
+     0.14609924209627984,
+     0.43511463533565353,
+     0.15562858915479802,
+     0.07625170365220311,
+     0.10572255320432404,
+     0.14122111031418874,
+     -0.06373134467870947,
+     -0.04008618335987957,
+     0.07857192280165942,
+     -0.061013857505101125
+    ],
+    [
+     0.10920492251581587,
+     0.2909551009002005,
+     0.9999999999999999,
+     0.2381835268416005,
+     0.2084637118171125,
+     0.27817869060059774,
+     0.35986117660678696,
+     0.08828911791976755,
+     -0.18198741956672665,
+     0.425524949200362,
+     0.042488433472091566,
+     0.34120059850671713,
+     0.024980267568801503,
+     0.0315034064808616,
+     0.02348478825125141,
+     0.3717259954414067,
+     -0.09695887688653906,
+     0.21208786140897837,
+     0.24392985101401643
+    ],
+    [
+     0.14092050698496303,
+     0.347126907562185,
+     0.23818352684160046,
+     1.0,
+     0.4980934272920685,
+     0.3638516598606746,
+     0.3178917417551873,
+     0.10888906570993384,
+     0.14775775512825395,
+     0.18254573210937705,
+     0.07267855845745211,
+     0.21639833782323362,
+     0.10355934175744136,
+     0.23800049073946597,
+     0.046328688457310835,
+     0.1304067444874718,
+     -0.07895366813854904,
+     0.1718602751135745,
+     0.10143736612583394
+    ],
+    [
+     0.2108034185006784,
+     0.15905057565932365,
+     0.20846371181711248,
+     0.4980934272920685,
+     0.9999999999999999,
+     0.29874492850308365,
+     0.40628037663841077,
+     0.1557013792522748,
+     0.18253522693638588,
+     0.2274729009177371,
+     0.10748386302933416,
+     0.26401824056741546,
+     0.061595679467205455,
+     0.2271113968466822,
+     0.14569762743031542,
+     0.13091519971420515,
+     0.05341531136652755,
+     0.0768209390878551,
+     0.09370440241805067
+    ],
+    [
+     0.11018018207390425,
+     0.27318147888563604,
+     0.27817869060059774,
+     0.3638516598606746,
+     0.29874492850308365,
+     1.0,
+     0.27400046377167186,
+     0.13431221065761498,
+     0.13131005677497415,
+     0.13691018717655476,
+     0.07884070493220605,
+     0.24192244033647808,
+     0.02542571524706753,
+     0.1407368723084501,
+     0.04566062783559844,
+     0.07861392640572482,
+     0.026633205420302637,
+     0.12612016581685656,
+     0.013910473258621641
+    ],
+    [
+     0.24548405731693476,
+     0.20160262759313974,
+     0.35986117660678696,
+     0.3178917417551873,
+     0.4062803766384108,
+     0.27400046377167186,
+     1.0,
+     0.12594828727709806,
+     -0.00011353452568117932,
+     0.33726160709423036,
+     0.048384793579599426,
+     0.3236716421639319,
+     0.04272311008946966,
+     0.15620710199482546,
+     0.15107737854438108,
+     0.3236961593556862,
+     0.017576030283342182,
+     0.11142943951292507,
+     0.10980237331527444
+    ],
+    [
+     0.10536551641682604,
+     0.042618485521098266,
+     0.08828911791976754,
+     0.10888906570993384,
+     0.1557013792522748,
+     0.134312210657615,
+     0.12594828727709803,
+     1.0,
+     0.3928882006439893,
+     0.050813597350044086,
+     -0.03178680975585532,
+     0.19989041699061802,
+     0.2269641958340216,
+     0.08723974304617099,
+     0.22645991825956788,
+     0.09552056616332223,
+     0.04999324497128657,
+     0.03125912716331205,
+     -0.007705114201708929
+    ],
+    [
+     0.1798671595868821,
+     0.17959951090932028,
+     -0.18198741956672662,
+     0.14775775512825398,
+     0.18253522693638588,
+     0.13131005677497415,
+     -0.00011353452568117933,
+     0.3928882006439893,
+     1.0,
+     -0.11458138950893165,
+     0.19684729893212555,
+     0.08924861208439652,
+     0.1491151883944905,
+     0.059906427632744855,
+     0.20331652622478186,
+     -0.21383298886220264,
+     -0.011949791437522008,
+     -0.20779383384627542,
+     -0.2866002972820236
+    ],
+    [
+     0.0005036324468395637,
+     0.14609924209627986,
+     0.425524949200362,
+     0.18254573210937705,
+     0.22747290091773711,
+     0.13691018717655473,
+     0.33726160709423036,
+     0.050813597350044086,
+     -0.11458138950893164,
+     1.0,
+     -0.0798736537565666,
+     0.4003053163668961,
+     0.06344193944113055,
+     0.04257805968863894,
+     0.14650846592744196,
+     0.4490766810520128,
+     -0.0974467932586462,
+     0.23742047873290742,
+     0.25565592555723726
+    ],
+    [
+     0.085632456118121,
+     0.4351146353356535,
+     0.04248843347209156,
+     0.0726785584574521,
+     0.10748386302933417,
+     0.07884070493220603,
+     0.04838479357959942,
+     -0.03178680975585532,
+     0.19684729893212558,
+     -0.0798736537565666,
+     1.0,
+     0.15718471804967057,
+     0.12716604808999998,
+     0.21622472420253191,
+     0.21176481705436215,
+     -0.1680620082361601,
+     0.014987388962544887,
+     0.018253929371543298,
+     -0.08046384280568233
+    ],
+    [
+     0.1709014707876557,
+     0.15562858915479802,
+     0.3412005985067172,
+     0.2163983378232336,
+     0.2640182405674155,
+     0.24192244033647808,
+     0.3236716421639319,
+     0.199890416990618,
+     0.08924861208439652,
+     0.4003053163668961,
+     0.1571847180496706,
+     1.0,
+     0.3549583676088317,
+     0.33144550217597,
+     0.25310378316963333,
+     0.48399743981119064,
+     0.08914170271093838,
+     0.25462920146473855,
+     0.24898827684228583
+    ],
+    [
+     0.16825409219703152,
+     0.07625170365220311,
+     0.0249802675688015,
+     0.10355934175744137,
+     0.06159567946720546,
+     0.025425715247067528,
+     0.04272311008946966,
+     0.2269641958340216,
+     0.1491151883944905,
+     0.06344193944113055,
+     0.12716604808999998,
+     0.3549583676088317,
+     0.9999999999999999,
+     0.24554734620737212,
+     0.0982007079430432,
+     0.05013701653033379,
+     0.1872420658496966,
+     0.101421922182192,
+     0.0576238255284771
+    ],
+    [
+     0.24223014333217266,
+     0.10572255320432405,
+     0.0315034064808616,
+     0.23800049073946597,
+     0.22711139684668222,
+     0.1407368723084501,
+     0.15620710199482546,
+     0.08723974304617099,
+     0.05990642763274486,
+     0.04257805968863893,
+     0.21622472420253191,
+     0.33144550217597,
+     0.24554734620737212,
+     1.0,
+     0.08084228711315301,
+     0.19762308485315375,
+     0.1492740641075521,
+     0.08146062023896776,
+     0.08308943687651678
+    ],
+    [
+     0.12449120893490243,
+     0.14122111031418874,
+     0.02348478825125141,
+     0.046328688457310835,
+     0.14569762743031542,
+     0.04566062783559845,
+     0.15107737854438108,
+     0.22645991825956788,
+     0.20331652622478186,
+     0.14650846592744196,
+     0.21176481705436218,
+     0.2531037831696333,
+     0.0982007079430432,
+     0.08084228711315301,
+     1.0,
+     0.05242276436110326,
+     0.05149392220127744,
+     0.09191910795442078,
+     -0.1410435025112275
+    ],
+    [
+     0.10016570577499367,
+     -0.06373134467870947,
+     0.3717259954414068,
+     0.1304067444874718,
+     0.13091519971420515,
+     0.0786139264057248,
+     0.3236961593556862,
+     0.09552056616332225,
+     -0.21383298886220264,
+     0.4490766810520128,
+     -0.1680620082361601,
+     0.4839974398111906,
+     0.05013701653033378,
+     0.19762308485315375,
+     0.05242276436110326,
+     0.9999999999999999,
+     -0.021790147919152406,
+     0.3121607372314802,
+     0.37396701849835073
+    ],
+    [
+     0.16138879758716054,
+     -0.04008618335987956,
+     -0.09695887688653906,
+     -0.07895366813854904,
+     0.053415311366527544,
+     0.026633205420302637,
+     0.017576030283342186,
+     0.04999324497128658,
+     -0.011949791437522006,
+     -0.09744679325864619,
+     0.014987388962544887,
+     0.0891417027109384,
+     0.1872420658496966,
+     0.14927406410755212,
+     0.051493922201277444,
+     -0.021790147919152403,
+     0.9999999999999998,
+     0.09553244889676665,
+     0.09000666191308823
+    ],
+    [
+     -0.09105128072045975,
+     0.07857192280165942,
+     0.21208786140897834,
+     0.1718602751135745,
+     0.0768209390878551,
+     0.1261201658168566,
+     0.11142943951292505,
+     0.03125912716331205,
+     -0.20779383384627545,
+     0.23742047873290745,
+     0.0182539293715433,
+     0.25462920146473855,
+     0.10142192218219201,
+     0.08146062023896776,
+     0.09191910795442078,
+     0.3121607372314802,
+     0.09553244889676664,
+     1.0,
+     0.5889314278396148
+    ],
+    [
+     -0.1083497056698563,
+     -0.06101385750510112,
+     0.2439298510140164,
+     0.10143736612583394,
+     0.09370440241805067,
+     0.013910473258621641,
+     0.10980237331527443,
+     -0.007705114201708929,
+     -0.2866002972820236,
+     0.25565592555723726,
+     -0.08046384280568232,
+     0.24898827684228586,
+     0.05762382552847709,
+     0.08308943687651679,
+     -0.1410435025112275,
+     0.37396701849835073,
+     0.09000666191308822,
+     0.5889314278396148,
+     1.0
+    ]
+   ],
+   "window": {
+    "start": "2025-07-30",
+    "end": "2026-10-23",
+    "returns": 252
+   }
+  },
+  "updated_at": "2026-10-26T07:35:15.932271+00:00",
+  "rf_updated_at": null
+ },
+ "news_sentiment": {
+  "AAPL": {
+   "average": {
+    "net_score": 0.1655009401962161,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 3,
+     "neutral": 6,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:32.464280+00:00",
+   "headlines": [
+    {
+     "title": "Should You Pick Apple Stock Over Its Competitors?",
+     "publisher": "Trefis",
+     "published": "2026-10-26T06:40:49+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJjUk5oMm9nM3VVVXUySVRmNVR0RDdvamNfWWZ4X3FyazY2SHd0THUzSUVfX2NNNEpDUk1SSkowNkVrb2J5YTlnbmtaR21valFnSG0xdENqQkdoZV80Vm4zaU1oN1loVjJoMGw4U0lGa2NLdTViTUgtRldGX0VmTVNVZndXc01WTHJGYUc4QTBXd1NfbmNKdjZXa3hNRkNDY2NBY21UNlhHOEFlOEE?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9149152040481567
+    },
+    {
+     "title": "AAPL Stock Hits Record High As Apple Tops Nvidia Market Cap Amid iPhone Duo Debut",
+     "publisher": "Stocktwits",
+     "published": "2026-10-26T02:57:42+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.8515191674232483
+    },
+    {
+     "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T00:10:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUU5wSndoY2gycXFSMHRwQWlaSkpmMDhDRzdQdVk1T1BQVHo1d0MzYmI2Ukd5X1I2UjRvQWlDQWpyWWdFQzR4eHBuVVdCaVBVOVVjSG15ZGlCXzZuRG4zaGdCTEZ4RzBHaWlEbDRoY1Z2cXJZel81Y1ZfM0RVZUtlSjkyV2g3SF9PZ1RtRDM4Y2E5UW4wLWZJ?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9386574625968933
+    },
+    {
+     "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T20:05:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXNzb2ZhakIzS1BBeGpYVHlKQ2pzNzJjMkxTZ3VHZFJxeUpTS3BKN3BuRkxCYzQwcFMzdFBOVXZLYVd2VnpndVBXM1h4VzJocDFRVF9GRXM3T0FiY19aRFFWTmV0MzJGQmdSV2NYMkhkb1B6YmxpTDhoanFoTjRaRXdtdkx1cmNYSWFfdEIwaW96X3NfYlE?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9186043739318848
+    },
+    {
+     "title": "In 1985, He Was Forced Out of the Company He Founded. Months Later He Bet $10 Million On A Graphics Unit He Bought From George Lucas. By 2006, That Bet Was Worth Far More Than His Apple Stock",
+     "publisher": "24/7 Wall St.",
+     "published": "2026-10-25T13:27:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNNWZXS0ctWHRseUF1UlFGWXM4M2xJb2V6cVBHSWt0T0VWMXhRWWZDNkRTODExaDNxVUFIRFlhRFBlMFhXS1Y2WWlUVTM1STBHRGp1U3VqTTI4OXE3QlNoM1NGbG1oLWlCUmEtbTFuQUZxT05ELThUajRJamJJVnJrYWt6dFBtOVF4UGYwa2xrOWtNQWw1bEFjQkNtYlN5dkNMWjIzNFF4UUFTSV9fQzliaExjQV9selBpbEJiT1FTcUJmdnhNWFFUcFlBZjFtTl9LYzlnU0ladEJFQTdLSWVSVUZZeTZqNlRvdFZURFl6Q0J2d2hIVlp5MVFLX0F2SnllYzkzVEdNSUhnM2I1ODdieHBnNm5uSFkxZ1dhQXhkUlBNLTlHMW12bFI3NGVsSzlzRHVKUzloSnN3X0N5NnNoZlJfWUJlZVROT1Y1aTl0VQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8853783011436462
+    }
+   ]
+  },
+  "MSFT": {
+   "average": {
+    "net_score": 0.18640869595110415,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 5,
+     "neutral": 2,
+     "negative": 3
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:33.521762+00:00",
+   "headlines": [
+    {
+     "title": "Microsoft's $525 Test on Fed Day",
+     "publisher": "Money Morning",
+     "published": "2026-10-26T06:19:36+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fbFkxZmZHNldnUW9heG9UNTl4WnlYQkpMV2RURVpWdEpZSmRzeUVTeEM4SEtTaUwwSWtKbVNiNUxLbVdodXk4UzJrQmthdDdCbno4aDUzOThSZERKWE1mdy1Ia0R1dTdzN3Voak9IUHVwazIyb1FoNWxCSQ?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.5471504926681519
+    },
+    {
+     "title": "Stocks trade warily in Asia, Brent off six-month top",
+     "publisher": "marketscreener.com",
+     "published": "2026-10-26T04:44:25+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkxUNElrVGx2UDJZdC1GaXgwUXRRQXFpY0R6MnFoN2ItbVdCSTZyVkJYTm52MTVpUE15LXpYRHBUYm9RaGVuV2U1N2QxQWVmSHkxSWdmS0p5Tmd1OVV5WldENXFqSXBrRzdxbHhUcG9ESmNadVl6WDdoRHdkX2gtQWNNWkp6aEtqcGdpeUE0Y29HQUJQblktai1GR3MyaDVqXzZFVEthTQ?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.5700547695159912
+    },
+    {
+     "title": "Anthropic's $750 Billion Compute Bill Could Delay Its Path to Profitability",
+     "publisher": "The Globe and Mail",
+     "published": "2026-10-26T04:30:02+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY0hwUy1TY3ZsbnpyYWRPaUdIVl9WOURBYWdBQWM2NUI1SGprWWI5RUxRemw3bjJiV1REN3JocnlIMEJnZUZuOHdRMkdveGlzaEc1ZkFfWDVuSFhCMkVxWU1sLUs3NEdBX2N3dTd4MXJxcTFobnBKVGh0Y2JmbWFDbEIzajM2SEVVUDlFSTNQM2xOc0FBdFRLeEthLUtUdERpSVBjVWtPTFZhR3owNFRPdGFmOUNsQ1hLZWZUUktjQ2p3eHlnRHNpcUc1WXJlemcxenJYQmVGVWY3d05ad1VhbDJtQnFsR3hMdl8ybVNkOA?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.9553223252296448
+    },
+    {
+     "title": "Three Major Tech Stocks' Earnings Impact on S&P 500",
+     "publisher": "Intellectia AI",
+     "published": "2026-10-26T04:10:57+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlM0ZWNNMDVqQkhMUjgtYl9zZm5NQlB4Tkc1ajNmZnlvRHkyRTRLdkpDcnJJSXpKaUp0bnBUODU4TnlHcC05VGZIUjd4cVc1VlR6N0VGOGJ4MXVBb3pGczNHeHozNTk5TmJtQUc5alBXWWFfZkxyZzFmdTN2c3VjSUJYalJoamdUODg4?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.7942640781402588
+    },
+    {
+     "title": "Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) Earnings: Can They Save the AI Stock Rally?",
+     "publisher": "Stocks Down Under",
+     "published": "2026-10-25T19:04:28+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG5TZHpqYkVsSTVEUDhRZGdualhHTnFTSTBtaHBrWE1tUVp1clNEbHFxWEVfNDZlV01NNjYzdjczM3lrSkFiN2E3el9NOHZKV1hqZEFkblVTdnZDN0lrd0tUUXp3Zkk1U3JmX0ZxbktGay0xMWlxdHV4SFY3cW0tcQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.7837130427360535
+    }
+   ]
+  },
+  "NVDA": {
+   "average": {
+    "net_score": 0.22444593952968717,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 4,
+     "neutral": 4,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:34.526619+00:00",
+   "headlines": [
+    {
+     "title": "NVDA Stock Ticks Higher Overnight: a16z Data Shows GPU Rental Prices Rising Sharply, Even For Older Chips",
+     "publisher": "Stocktwits",
+     "published": "2026-10-26T07:06:12+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUUdfOC15LWlqQWlTdFl3cEhHXy1LS0hJdjg5Qi01NXZqbGpjdXFOemw4ZFhKbTZHbWxuaC1GZWl0V3lXNmlqZ0dXS2M4QzR0UDNWdjl5YlIwSWVESmh1Sk51N1Bmb3ZsRWVvWWhXNXhPdGRHRlJoVkJ4SlI3akp1Vy1RcFgyeWRUY19ySkd2REh1dEFlQ2RBZ0RxcVB2YjdQMkp6aUNtVV9VMlpmWFJva1UxUzBLYkRXOHdTTTlyeHNrYWZ5Z29OQjhzRWdhdDYzSldpTkdWT0s1UXlac0ZESjBWbVltRjdOYkpHbUFkcHZXVGh3Z1hUWXBhOA?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9390006065368652
+    },
+    {
+     "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T04:20:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFA1bzFTby1DOGNCX2VmUEQzSUJoV1hRbjRxcUR3bmZ4Nk5jclRsdkJ6c2dXZFNYZHAtLVQ4emxnWE0zQUR2dy1rcHVPSk1CN2tVRklkNldSMTVXdWdFV21FNzJPV2FWZkJDNWppRnBaRU1mczhQMDBGLTFkWVl6ajhJSWdGVnc2LUlTYmZGS2NVSlJCR19ob1FB?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9090362191200256
+    },
+    {
+     "title": "AAPL Stock Hits Record High As Apple Tops Nvidia Market Cap Amid iPhone Duo Debut",
+     "publisher": "Stocktwits",
+     "published": "2026-10-26T02:57:42+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.8515191674232483
+    },
+    {
+     "title": "3 Undervalued Stocks Trading Up To 46% Below Fair Value",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T02:09:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzFGMmVHLUJ1Q1JHejI5TDl3UGFmVVdWczY1eVpsVmxZb2d3T2NvQmt1WlBRcFJfeGpxMlpNSjlKTktqNzFvTGRuMDVHRDRQWDBGRVJ6TEJHY01Bdm5HdHhfR3NTRTRscUY4bkoxaXhoUm5Yenl0SnR2WEdVNXJTcnBPTmdvOGkwbTRxaFNpYUFWSU1EbUtuSXYzbFQ?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.7460922002792358
+    },
+    {
+     "title": "Nvidia (NVDA) Stock Still Looks Reasonable Following Its 7x Five Year Run",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T01:06:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnBEQl95MlE5aEpsbU9BdEZKTnVOMzdId0Z5UnloR0JEbmxmT1duNTB1SDl3MU9aeHQ5UmgzeVJYbUdHdFdjdHZRNFlMZGV0ZWF1RlljdWFWTEt5WHo2OXV5MlF3b3pFQTc4VVBEYnh2MGUtRGd3RHpoYS1iT0RHdHFqQU1mWXJ1X2dwS3RxaHBfOExzZG9lSmNn?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9504058361053467
+    }
+   ]
+  },
+  "AMZN": {
+   "average": {
+    "net_score": 0.1918833081610501,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 2,
+     "neutral": 8,
+     "negative": 0
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:35.487544+00:00",
+   "headlines": [
+    {
+     "title": "Amazon.com, Inc. $AMZN Stock: Annex Advisory Services LLC Trims Holdings",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:57+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlZzZWtoYlZyeFk0RS05SFdCbGpZWXVyYlRnTVY3QmUzMUNFUnZfRXdyNXI5OW9Sd0JrMzlWdTExUDNSOTZiTHVPNS1PMEhlT2Zrakl0bEVjUExaWE1EWnVWTkRNTUpRODBQNVVSZHhDU2Y0eTI5dTNULW85eUpOVkJsbVpmSmRRMVZINUcxaC1uSVBGbkRlQXprOF9aLThuUzVkaHVrUVN4Y2NjV0xXZGtqbGxOZnVrV253N3lOVk1HUGNSUVpv?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9209358096122742
+    },
+    {
+     "title": "Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) Earnings: Can They Save the AI Stock Rally?",
+     "publisher": "Stocks Down Under",
+     "published": "2026-10-25T19:04:28+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG5TZHpqYkVsSTVEUDhRZGdualhHTnFTSTBtaHBrWE1tUVp1clNEbHFxWEVfNDZlV01NNjYzdjczM3lrSkFiN2E3el9NOHZKV1hqZEFkblVTdnZDN0lrd0tUUXp3Zkk1U3JmX0ZxbktGay0xMWlxdHV4SFY3cW0tcQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.7837125062942505
+    },
+    {
+     "title": "Investors Are Worried About Too Much AI Spending. They're Not Wrong, But It's Paying Off for These 2 Tech Stocks.",
+     "publisher": "The Globe and Mail",
+     "published": "2026-10-25T18:03:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOHNNYUhHbjI5RldudTJ5dXdKNmZDbkJJVHlxM3dLN2dCRld3VjZmSlQ0UmFPbF8zakxfWGE0a3lwcTN5Z1VUckZkbkpNeGtJQmVNNVZfelhqTk9JVElLeXhrellGb3c2YlI5cW5OWGFwMDRGUUEtSDR4Q1RldjZuTkFIVW95UEJaelo0d2pfMmFHNEJxS3o5YkhxbERTQnVaU3YySkNKMTZYT1lGMnJrWFh5THNoNUVBVU96TzBTY0MwU1FvV09mQkxpZHhSVDc3SmtGNS1TZmZtLTRkSXRRRzZOdHFHaVFsOWsxaHlib1VjeVZYaGFLNF95MUdzMWV3MEVVZEpDLVJxa2NMMWh4UWc3VE1FUjNNUGQ1cmFB?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.7362300157546997
+    },
+    {
+     "title": "AMZN Stock Rallies Over 3% — Amazon Reshuffles AWS Leadership As Veteran Dave Brown Exits, Dave Treadwell Takes Over",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T17:36:23+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZEdCNG0zaXZFOVVKeWZuZkV3Z0ZtWEpxYkZFZWFKSkczMTVBcDlnYXlIVnZVbzl6WGhzSkl5VmFHbE1weGc1Zzg1UWQ0VkxyaXhOem5iQXBsSEIyNkJtTjhtX2NIMEFnS1ZyZjRoa2hsSUl5MHR2VmFVTVljVGozeGhwNFVvT01xd0Q4ZEFpb3JUMmJ1bHhxVzB4WjFIb1FnbjBnLXRmbXVINnRoM0hvVGhjcnpNczh2VW5QTnNYQms0MERucDlISi11UzN4UU9IaHFrQWtJZy1QWjNWdk85T3ZERmkxTElEN1ZWTXpBVkU2R0VEWWp3UU8wcWdZQQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.7285048365592957
+    },
+    {
+     "title": "Morgan Stanley Sees Amazon Stock Surging 100% with AWS Hitting $1 Trillion in Revenue Sooner Than People Think",
+     "publisher": "Barchart.com",
+     "published": "2026-10-25T17:30:02+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUYxUlc4OWhyc3gyY1dxUGJaZUhUSkJ2LVlHUzVvbXhObWxDWjFzbzU1Vmw2RG03R05TcTBJVG8yZUdLWHJsQlNTdDJLZmk2YUM2YUZ3bTFta2tjczVwbVE1ZE4tZFR6Mm9zOFV0Zm04ekRaWnY2TjZxSURhMWlfM1hPS1psUkgwTkJJSUZxdi1GUjBjQ2EyQUxfUWdNMjZuNFgzY0NEYXRISHVTWG1wT3RLQTBZdy1NS1c5TDY1ZFRaSFJGOGwxNFJsazMyaDdEZ2F5Uk9fR3lTZDZESktEckpn?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9274599552154541
+    }
+   ]
+  },
+  "GOOGL": {
+   "average": {
+    "net_score": 0.07167101316154004,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 3,
+     "neutral": 5,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:36.443019+00:00",
+   "headlines": [
+    {
+     "title": "What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T15:27:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkVZR3d0Ykt1cG5KOE9laUxXc2txMDJWdHFGYWw1ZDZmVnllWGotLXFjM3dqNm9za0xtNUhFMnlzQTRWakZmV2pNY29BLTdUb3RmSFR0bWw5SDZBdlRIVF80ZFBqa2ZXSnkyZkdid09fcm1MQ1hqbk04bkJ1UzJqaTNJYzJGdHBJTlVKaFBYZEg5UGhfRmV4V3l5QQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9273005127906799
+    },
+    {
+     "title": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T14:46:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWp2U0RzdHBRTFh6dVpHUlBqb3lxMXFFWnM1Mld3WndRbzRpbXEtbkxLbWw2aFhscGJJT3M5aWF5Q3lLaWJyOVRHUEtKT04yWWZNdUVHWWdhMklva2k3TF82YUs3RlBtVVhxTFBVTjRXc3NCWGtIWi1nX19uSzN5UzJ4TXVMZFJfYkoxc3JORDRhak5LU1lCWnFlbk9SZDRCN3pGYWJORUN6aTIweUE?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.6542547941207886
+    },
+    {
+     "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-25T01:00:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhBVVFDckZ0UXZnXzdCM1g5NUhkZS16eVVBd29xYmNLcWZmRmRfQkhDSEktdi1nZlhxRkFsaDdPWHVVRVNGUWRMTjlzeXBQUkNDNU4zdmtHZldtZ1Y3NTQtT1dfM19XQjFvUkRYaDdFbFdwdmhMdzhKc01oaDhTdTdzbHV1eThxQndtZ053OXJjcnNqeUo5OA?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.934262216091156
+    },
+    {
+     "title": "GOOGL Stock Ticks Higher Premarket After Taking Big Hit As CEO Sundar Pichai, Analysts Downplay AI Talent Exit Fears",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T00:37:01+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT2d3VDlXOWtOWDQtaDMxVE5ueGgzQlYwRDJ3b25TdzFpcS1XUnl0Z1ZmV1k3OTZMRVZHb0Y4U0V0c2hxQk1wYjVIVTY3SG1ZSzNwSUx5OUVjdUNyTWpxakNZNmJTT3hkZzdPS2FPUnVOTnZSSzU5SFJkc1loUmp3cnFjN3pSTWQ3YjNCOTBTWmRVOUZIWU84YXFZb2NXT2NPX2p6UkxhVDEyc3E1eE5qcFNGR2JrQkcwbE5lSnNMSGhpdWFNS1c0V09sekJReFpYREZqNjA2bTlNRkdGSXVVWXAxUTM4QUVmeXRka01SdXZZcFphY3M1Q0U3SkVVT1NhbWoyN0U1bDhTQWs?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.8309282660484314
+    },
+    {
+     "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
+     "publisher": "Stocktwits",
+     "published": "2026-10-24T21:50:26+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8182907104492188
+    }
+   ]
+  },
+  "META": {
+   "average": {
+    "net_score": -0.046098112035542725,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 1,
+     "neutral": 7,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:37.413650+00:00",
+   "headlines": [
+    {
+     "title": "Meta is giving all its shareholders a new Class C stock, it comes after CEO Mark Zuckerberg told director",
+     "publisher": "The Times of India",
+     "published": "2026-10-26T03:17:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONHM1Y01SdmN4aER5X1VXMjVzZWpwSTdxcHVFOXZyLWU2S25Ma1VmMWtpMDNzMUJKc0xZeUFfeTRqRVNRbmo4TXRwS3F2cVFOY2dTLWw5dlpTOFoxeVNFaTMybGhibWFqeFhTckhMVU1sQ19MVUY4QkxOOWhMRzdtUUxIdzFzSURBMExnUHp6STNlenVKdm1HS1lMS1dOVkNubzBxZVpuOW45SWJNRGMtNVBQQkZ5LUQtY2ZzUl9YTUp6dG82SUMxTGF1ZWFWbm9rcHhESFI3Z3J6TUpNbUExTHdqeE9lS1BnN2dIczVtRTVsUmpkQ0tOYU9PbWFBMTRVSGdFUGlyODRkVWcxSHViX0dMM1h0eGtVbWtEZHlNc0JHNzcxZFpDMtIBrgJBVV95cUxOMl8zbl90MGo3UWNyci1tRlFZT3JrVFJOWVd5Tk1ESXlBV0tGX3NjZmgyeVljSWhmdmdDZ3hZR01jM1A3S3pHb0tmalVLMVVnTE1OUXhhcll6eUQzUHZhREhnQjUzeDlFUl9xVENSY090aFdSalA3Y2FEUEJDQmt5UGNSdjNUZ3NvUHpaNzhKamI2ZTZYRVNJYUhCRE1UZWUxMDAzWUNBenFIYnI4VnFHMmJ2eTJVeFF6dG9rLXFIem1LWC13cW1tLUdRcHoxRXBoM3FKU3pqczZNTTRiSkVFeFdGQ3kwdjNBbjRocjlJVUdsdlpBMjlDTHg3ZDUtMjJrbnpYWVZVcUx5VG01emNEUDZYX0pVVzBqMWlzOTdnaHBTY25sdEJNZ2ZVcENRdw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9218283891677856
+    },
+    {
+     "title": "Meta’s Cash Flow Turns Negative as AI Spending Surges Despite Strong Earnings",
+     "publisher": "THE ELEC, Korea Electronics Industry Media",
+     "published": "2026-10-25T23:12:31+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSmV2UGxmRkt6WF92UThqeGJETHZCNDdIOWlLcmdhLUZSN3RWb19pVXhqdjVpSmplckpWdjl3MmExWjUtNnhBd2tfcHBDUzBkRUczTUNLN0lEUVJ4WVZxZFBsNkRpcHM?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.972794771194458
+    },
+    {
+     "title": "Down 17%, Is Meta a Buy on the Dip?",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-25T23:10:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0kzdm95RXlwYjFqSHRxVFZEbTZSRi1uWERiQU9wMmkxQjBQcjN0bzZMcUFHTElYcThtSk1XTHFxX3BxY09aM1U0dHRLRDNUd0gySHJLWmdOV1VEMzdTODcwU0ViWXFONVR2M2J4X09CVng0b1ZuaHVoZmp4WkdQZA?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.7331722378730774
+    },
+    {
+     "title": "Meta Strikes 8-Year Deal to Keep Mark Zuckerberg in California as Billionaire Tax Looms: ‘Critically Important’ for Him to Remain in Leadership",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T20:30:15+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGFNMjlqU1VtUmwxSGRCcTNubldJbEV1MEtsbDJvdURXMnFOeGU1VUx3OVVjLVBtZVNNYmhURms2eDNreVhjU0k5VFk4THdnTVpxbi1peUMxNi1mSnYzbnFnaUdiZjFoTVI4M05GcDlXTy1ENENzbk1JNjZJcWZNekRYQW9Bdzg3d29ld29tV0cyekE?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.7282835841178894
+    },
+    {
+     "title": "Meta Q3: Non-Recurring Charge Hit GAAP Earnings, Q4 Capex Will Jump Sharply (NASDAQ:META)",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-25T19:13:49+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHJrYjlDRFJXa09tQ1lVX1RKT2VPZXV6SG1BRVlxVGVxbjVYOFlEaWFsbjBkT2FEVUI2cTk2QVh0Zm1iajJrc29wZjVMM2dLYU9OSWVTSUxoa3Z0VkNLdHVKblhTb2NTVXJ3VGVEWDBfT1EwbUNPS3p4QXBzVTJHeHMwNjBsTFZtaHg0OTdyN1h0T2ZRdVdBcUlqLUhSNmNNSVROZS1ya3N0RWNiRDlNQ3FUV3E?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9039052724838257
+    }
+   ]
+  },
+  "TSLA": {
+   "average": {
+    "net_score": -0.0846201142296195,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 2,
+     "neutral": 4,
+     "negative": 4
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:38.473932+00:00",
+   "headlines": [
+    {
+     "title": "Tesla, Inc. $TSLA Stock Acquired by BG Investment Services LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:59+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0xXcXZLNU9RYk1kcnhhVFY4cEJBY3EzclFRWFNUU0xRZ3d3T0RBRlZTcnBzVmlWS3RCQ3RiWDRIbXBkZVM5M0lxQmpMSEYxYXlvNEpPckZyVnJiWk41NlE4VmN0UjBKMTkyNHhrN1g3UXN6ZldLbC1aVDN0ejhycmZLN09ienhQMzlkVXc0MWJlU2lueFpfTDVSOW9ENWtxVnRUOUh4TGk2WG5wNmx5R1dmdF96bVBmZUd0Sg?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9184129238128662
+    },
+    {
+     "title": "Tesla Stock: Fairly Valued With Little Upside (NASDAQ:TSLA)",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-26T06:25:46+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmVhdFhBT0JoZlY4RlBaZ3VfaFc5QlFSMFM3ejNmeDI3MGlUWEFabnl1Zlh0NmNsVXFtSUNjUjZYTTZHcjRXREJMZndnenZicnNqMkZtelU5S3JObk1HeXdhVVltSTgyUzRZelpxQ1g4TDYxMW1YNEFKNEdkTnFmOTYzODU5Zw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8529444336891174
+    },
+    {
+     "title": "TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside",
+     "publisher": "TradingView",
+     "published": "2026-10-26T06:00:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOclVsWVZ6YjYxRmdZazFOR2VkODZFZHhFeTdBVFZYcExqQUg2MC1rNDRSUE8tQ21CWENxeFdmUHFpVlRFVlJnV3FjbzZXTGZMQzB5YUc4azJjZ21RWEd1bFVLQUxvZDFwWndTb3A5akQ4bUhaX2RTNW9tRmhqWGhEMzFVeUpMWE9Fdk1RenoxVGl3N2FtdEt5cmZDN1RCWFJkUFZ1YWtwLWFxYm5lRllxZnFJUjdMMUlzVl9VUjlQb2RNNmFNalZhdlE0SkYtWTlSSzIwOTNpWEdqcWlCcTlEZ1c3VGo5TlpIS3ZtRWY4LUM4dEFISGFFT2xhMVhCMXV3cTBZ?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.5066505670547485
+    },
+    {
+     "title": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T02:02:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2MwYTVleFZJRHljd2RtR2NWQ2dzMkdteFBTZDNwQlRzeXpuNDNCT28xQmp2VEdDWWoySXhuX3NCM19yM1dmZnJQMHJ2VkFzV2lPcWdocDFCUy1tOVQyOUxVczV5b25vSU13c1VZZ2tjZ3JSWGNXWmRUZ1F5cGRkTzNxaUktRTBtUG9HRzdQSnlmUQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8611022233963013
+    },
+    {
+     "title": "Tesla Is Betting on a Flying Car to Combat Its Stock Slump",
+     "publisher": "Barchart.com",
+     "published": "2026-10-25T20:21:14+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmN0ZlRySDZ2S1hCeW1QNHJTNmxRMmY3RmhVbGFteDNkRXBoc2dUU0JWOWxrX1FodDBYbjFtVmdEQzJURW5WU0hHN01uUEpQUkhYTElwbmhnRE9zSzRBSmpaZUZ5aUFjN2xybkt4a1hmcTUwQlotNlc4ZGxjczZMT1JnRDBOSmZMZFhEQ2k1dGw4ell1X1ZGdmdueE5tT0VOTVpwaw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.6778229475021362
+    }
+   ]
+  },
+  "JPM": {
+   "average": {
+    "net_score": -0.0668873650021851,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 0,
+     "neutral": 9,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:39.385587+00:00",
+   "headlines": [
+    {
+     "title": "What is Erste Group Bank's Forecast for JPM FY2026 Earnings?",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T05:42:15+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWkwOGpZQVJ2Y1hfWXdCVFJfMlluNmpGVF9PZkNXVGwxdHFleDlXYW1PUGhqb0xENUZOTjhWWVJFcFVlSVVhNy1yZ3FJZVlXcDBEMFdXMkJrRkV4TzJNX0VCRnc0ODBBMXJ0MkRXUnkyNVFOXzczbmNnRVZSckNSUWVQMWhQUjZJZXhIbjVIRlBYYWZzT2xIMkV0eTNOUW5oMWFobnRhS1A3VmhXN1l4NXA2RnE1NjVpWWZpSE1rOA?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9231353998184204
+    },
+    {
+     "title": "JPMorgan Chase (NYSE:JPM) Share Price, Forecast & Analysis",
+     "publisher": "Stocks Down Under",
+     "published": "2026-10-25T13:06:33+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwLUpETVcyQmJZN2RZVUdCRXdCOXlWVVVHbW95anpvZm9HbEhmTnN2MWFsM0JpdTRUQ2pXLTBZOWY0ZDRhSERTbEhRSzVLQVdoM3dhdGMzUWQ0WUVnbE5Gcg?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.92684406042099
+    },
+    {
+     "title": "Crossmark Global Holdings Inc. Acquires 3,114 Shares of JPMorgan Chase & Co. $JPM",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:15+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGFYYjN3TWc3cUxNekxTblBjNDZHZ0haYWl4ZUxGaXNQYml6ZTl1MWRReFJub21wRVg5SnRyUld6enZtYTl4cEY4R2dWVWNWdldnWXlxNDFuNXNxeFpUam9uSTJrZE9NcndoUl9scDd5WFFZYjZiMHRxYlJFS1pKVC1XdnZPbEZHX0ZNN2ZDUDJFV0pDWEFvRll6T2lBMm14SFZzb2lWMlY2b3JYV1lfV0l1eGJqYWlFYjc1M3k3bTJLVjZTRVV1WEFHZkwzX1JlQUE?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8406221270561218
+    },
+    {
+     "title": "57,078 JPMorgan Chase & Co. $JPM Shares Sold by Axxcess Wealth Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:52:36+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVF9MNVhBWjhZVlA4LWtzSGJEbVNuNy1hX09Vb0IwUjJvdHM2UXZrZVJFR3ZkNElNYzVLZkltNjlFcXpKd0Zsekc1TTh1eE43T25Ua3hBbVpqT3p3YWJrek5iLUY5MlBlYVRWNkpqZWFhRXA5ZjZEM241Q010TlZRRnpzNFBoYWd4WUlfdVY2Zm1qaHVHUVNQaDRxRlNETkRWVUhZQXhYY0tqWFJCRHVNZGdOSDRPN2hmY0pkd3psRnNGZ254RkEzVHVJS2ZBdw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9357942938804626
+    },
+    {
+     "title": "JPMorgan Chase & Co. $JPM Stock Sold by Hosking Partners LLP",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:19:53+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVBTZmJ3Vk9acUQ5M09uVjA3V3plM0xwOWhkcURiVkl6cE5WY2JMbXUyTmkwTkE1RmltaGM4MkQ2VzVsYl9xdkhBbS03NGh3OTY4UllVSkpzbWVocWpkcElOQTQxQ1hDQUs3cG4xdzlwQThOMjZ5RU1KYVVfZEY1MFFLSWhvMVNoeGJzWHZQcHBESlVfSXc0LThNLWMyd2hjQTBVXzg2VXlFamh4bW5WcW5STm5nMGlt?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9281399846076965
+    }
+   ]
+  },
+  "V": {
+   "average": {
+    "net_score": 0.17453216705471278,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 3,
+     "neutral": 7,
+     "negative": 0
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:40.291482+00:00",
+   "headlines": [
+    {
+     "title": "16,874 Shares of Visa Inc. $V Bought by BG Investment Services LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:18:54+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVYwWTZCZ20wYmluREN6SW5sOUIyN2lQTEI3T0JQQlN5YTduU0xtRUFjSzlUQ0NKZTk5NnQ3elRWeFdxUDh0bW5tRzFPdm5xNmMzWkZ5Zld2dmFackx3aTl2b2dnaXp4RUhWYkNzVWdQMmcyNzctTnpXLVNXR3BPLWdhbGZiNGdacWlZdDVPSG5HVkpfTURpMUUzajA1d1NvaFZVTnVEYXhIalZoUDZUTF9iNWpNMXhBQlNJRVJxamVjUQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9387781620025635
+    },
+    {
+     "title": "13,803 Visa Inc. $V Shares Sold by Sterling Capital Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:17:44+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTBjM3RPbVpSQjVtQnVCcWNNczA0bjl3aDBsUi0ydUtlQmxLMnN6Y0RCSjVFMFBvSVJDejB6c0tzZjlwZDdQcGk1cnpkVGtWSGFOWTQwTDdBWm03UDNLU21yMzR6cmFvdlBOZ05xVHQ4Mm51U1FFdmhraVNGY2lZNmYwX0dPUUV1bzBCZ2kwQjF0QTVNT0NDQ2Q4ZllwT2Vvc240X1ljdXV3cjh0TVUzSl9zMm1Qc0VPZW56UElJTkllQQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9400719404220581
+    },
+    {
+     "title": "Visa Inc. $V Stock Position Boosted by Yousif Capital Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:24:23+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFl1dUtaWGRjZ2NHbHVTN04zR1VDM0xZMWM4ZmJfcGQzbXMzYkNWbjJESXJoaEZIVDFYb1FYZVhUb1RHaEY5eFJUVmNPLVNKbkI1eFg4ODdab09uUEJ5UzJoQl8yYXpVdVBLdTNaN0dGNHFKbEhYcFZvUnZOZU9OdnBsZTc2QXJ0QTBIRWs5Q2NfcXpxN09Ya2xfTmFtN2RCWWZncVJmNVJUbnRtVEllYmxoOUNJNFc5aWpVX2V4MlJPd3VMemc?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.8442673087120056
+    },
+    {
+     "title": "Visa Inc. $V Stock Position Increased by Gibbs Wealth Management",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T08:07:43+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWxmWlVwcnN5TlRlUDFUSGVaUVlIUFIyVXVVeC15ZHp1SUFlaFB0SDJOMnh4bnJPUF92SF9rWVFPcTNyYWczM01STU9Ca2g2TEVjU2hFUkE3LV9GeWtyV2ZTMlpmWkcwS2dnU1NSSHZSUmtNTy1QZ1FFY19mVGRQaUZTeTJqeXppcEs3UGJ5STRSejN4emNFR1lVamZiSUdZS3NSdDgwU05WMGxzTXh2QVFJMTBGbndYcXhpYlI1eWw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.7625797986984253
+    },
+    {
+     "title": "Visa (V), What Is Drawing Fresh Attention Now?",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-25T02:52:46+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3ptcmxRV0wyZm81b01YSnhVM3BVaS1XTzNrdEQtQTd2ZG9NZFR6Y1FnMHNTbU1fS3VrVENTX29yUFUybjV6X0hHSnFyUTBIeHE0TDVvNUZhVkI4MkQ5RXpTYnViNG9wMEtOVERYWVVub1k4OHR1Z05lOEJPUXR1MGdlOUp5TGhwaHJfUDc0N2pDWnJHTnd2RWZxbTJOcUVlN3hYOFJGdzZPbmRFZFhBYTF4N0FaVEFlYlHSAboBQVVfeXFMTm96bXJsUVdMMmZvNW9NWEp4VTNwVWktV08za3RELUE3dmRvTWRUemNRZzBzU21NX0t1a1RDU19vclBVMm41el9IR0pxclEwSHhxNEw1bzVGYVZCODJEOUV6U2J1YjRvcDBLTlREWFlVbm9ZODh0dWdOZThCT1F0dTBnZTlKeUxocGhyX1A3NDdqQ1pyR053dkVmcW0yTnFFZTd4WDhSRnc2T25kRWRYQWExeDdBWlRBZWJR?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9176411032676697
+    }
+   ]
+  },
+  "AMD": {
+   "average": {
+    "net_score": 0.08708129525184631,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 1,
+     "neutral": 8,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:41.208579+00:00",
+   "headlines": [
+    {
+     "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by BG Investment Services LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:59+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWmdrUDdXTE9tU2dYWkxFTXkxZEpiRXpQYnFVVDdnS0R1dktzWDN6MmYwZ1N4b0lVZGU3NndlWXJFZnI2eU5OSk9GZzRqUjlUUGFEYzMycFBFZko4b3h1aERTYTVQRXU4RmY0Zk1nY0wycXVsMXFSeTd3MDdVNXFzTFRNb19COUNwZHpvMkhRZEdBSV9oM1lHNXdDX2VWa0RhMFBjdkE1N3MwWnJCLW9OTW9VWkVpZ1pjWW42bFFvNjBxNzZNSEMtYkZvcEZWcVRF?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9315234422683716
+    },
+    {
+     "title": "Advanced Micro Devices, Inc. $AMD Stock: Bernardo Wealth Planning LLC Raises Position",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:58+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFhjTEd6cTBRVXRDY2xYcDRCNV9EWGFQWHpXVWNiSlBkRW4waC1lMlVLVWFkbWV6aS10M0dVVFh6OGM1Ym9DV3ZUMGdmNU42OG1HbWo1SjdLd05MMWtHU0U3MDIzZlN4SlpSRC1kblVyWExTS2YyVXFoT3l0bG1JZlRvZlpKaEUtNzdrNVl2UGtCUG13dHYxbWJVXy12OWRYb2FleXAwZFlLM3dzclo0X1FJT1ZiN0hJem9BNkdreEk2U2owWDdnWTcxYmNPbDF0OV9RckJuZmpUdw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.7924796342849731
+    },
+    {
+     "title": "AMD vs Amazon: Which AI stock has the stronger 2027 payoff?",
+     "publisher": "www.techi.com",
+     "published": "2026-10-26T06:39:18+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Na29BV21DRzJJZU16THlCOGdfbXBMZlZJNnRsLTZFT0F2SnBqclNwbHFjVTh6VmVCMXJNTEJIdXF6R09lSEVkT3JFQV91a1FvRUQ0VkFsanBWcTB4Qm1QVVlNMG1mV1NKS2pMUEthZG9KbXVodkdZZThfMEtDUQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.7801985740661621
+    },
+    {
+     "title": "What Changed In AMD's Story?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T05:06:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmdVR3FQaUh0QjNmUjhYLUlmelVaZ083ejN4eDhfTU1zdHlEZ05hRTFOZ1M5SFZtQ1YtZWN6VHBOaDZNMTRET3Z2ZmF5WDRFU0l1bDRMMTdFemNXOU15QkF4MVp2QmZMNHh6N1BCVUoycHlZZl9uUWU0UjZldUV6dnUyOGRLNE5EdVBn?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8729389309883118
+    },
+    {
+     "title": "Chip Stocks to Buy After Their Worst Day Since June",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-26T04:17:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FDNHZJTHZoRkN6WElrMzhmREJXRzI1WTh1cmN0c0dYZmYxRVdvZFZ2UGhkRDEtTDNxZzRybnpTMVVzbUZCMVNsOG9YcXJVRFZGSEQ5WXJYYmlrYVRkTVFsc0pHV3VPZENjcEtjSmNJSzNLYTRWWllnUnc1R2pCQ2xzVGJrZ0VWdDVSY21MbHF0Sk90TjQ2MzVR?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.8230321407318115
+    }
+   ]
+  },
+  "SAP.DE": {
+   "average": {
+    "net_score": 0.3698806741274893,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 5,
+     "neutral": 4,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:42.087503+00:00",
+   "headlines": [
+    {
+     "title": "SAP stock at EUR 213.60 ahead of the Xetra open: enterprise software slightly lower",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T07:20:16+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUMyNlFfWl94TXREZXlrcWZfQmFKMTFSTUFEM2Vvb05VQlJLUVBRTGU5YmJ0OW02czRZUWlzV2pqZnVqeTZfWmlIYnNKVEN1MHZzTWliRElLNFVxbzlOdHFjRFZ3WEtCVWZxSWt0TUIzblB1dHdyTDNmWjFwOFQtVk1lMjdqcFhaaW1nc2VEYWVQMVU3eXhwOWpkb2trNmEtLXV5c2ZMRkFRTUVQcHppX1RBcUtLNUVnU3JibkZlLThaWFZEZDhsa09wQXlkV3hFLTVMeTVFdw?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.7663002014160156
+    },
+    {
+     "title": "SAP Wins Two Broker Upgrades and a 2030 Support Pledge — Neither Moves Its Earnings Guidance",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T19:11:11+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1R0UGFOY1l0bXp6RldpWnpvMlBGT3VWTndXSzVjTzhMQjVibE1vU1N2U25zSlkwbVdoMUNSYVVVcTNDTXBhYS1SaUlRcnJyMVdBUTRMQUZNS2pVcFo4cXFrMElsOUJXeS12X0taalJiNjZfTE5yRktHTmItYnk5aXJMS2N2c0x1aVg3Qk4yemdjUFhQMzkzR0JabTJFN1pUOHRiVUp3dG5XbzIxZFFGQmhXVXI5eGJLcERBSERkOWRQM05DVUR2c0tzTThaZjgxdkdJLUpab19zSFdlcWhqNnNLd3FhRkNSR0haWEtXZmtLcUNE?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9210547208786011
+    },
+    {
+     "title": "SAP reports third-quarter cloud growth as SAP stock trades at EUR 212.93",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:12:48+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWJHLWprV3VINVJ5MUU3M3c4c1UxdmZLTWlmMFNlMlU4aG1FZTBwOVhzNTl6UWc3LUs3Y0RYVFA1SkF5YVVkNFltRjYyVGZPYTZ5emcyZXpFR0QzbzBtQ1h3TEVaNTZZSlUxaXFwcjZsMExEa3FaeHRWUnZLRERQc3l0SEFuMVRaVVV5WXF3c1lxSjZlcm96Ml9NaVljWGtMUGtYSEg2NVEzNUU0Q2cwSXFEWDdLT3pkXy1Hc0FRdmhyOWJrcldscDd6Q2Q0VjRG?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.9358503818511963
+    },
+    {
+     "title": "SAP's Cloud Order Book Swells Past €24 Billion, but the Profit Line Stays Exactly Where It Was",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T13:01:12+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMUJ3N1hlYW5kNVN6ejViaFFVcFVWMEk2RVVWdldFN09KNUlZVmQwTkUxNGh6LTdLa25IOWxtbFYtQm1iMUtnMjZjd2NZeDdvbkpzMlRaTFRYSHJjY05Xc1hteWcybHZXUF9hOTVnZmZWeFJsQWxvOTZzOWd2RWJxTEt4NXJaSlJmbUxrcWt5X2JieDRDMnRMS0JvT180UFBTWGtHQ0lMR2I0NzdLSVNXSS04TzJYRmlDZ1otTUJZX0NxVkM4U2xwVGRIWDNsTDRZU2wwdUhWcEZjZXROQWZBRXRkTTNSLUpMUzZwMHk5NDVOWGZvSmxR?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.8960450291633606
+    },
+    {
+     "title": "(SAP) Equity Trading Insights (SAP:CA)",
+     "publisher": "Stock Traders Daily",
+     "published": "2026-10-25T06:29:55+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVlNZmdSSVJMQUMxZmMwRlVsM2FhYWxFZ1VsR2ZIZkJVZFdtdUkxenplOWZScGZ6ZjlXdmRpZXBibm02NnVxUmJscEkwZ2NadWpSaThodnNwZE5tMWc1MVl6SDIyRUMtVkEydmNfNXVEdGxZanZMS1pObVM0U3k0UWNFeHNHV0xCLWdTQlpR?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9442063570022583
+    }
+   ]
+  },
+  "SIE.DE": {
+   "average": {
+    "net_score": -0.20693871043622494,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 2,
+     "neutral": 4,
+     "negative": 4
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:43.177002+00:00",
+   "headlines": [
+    {
+     "title": "Siemens Healthineers stock little changed pre-market ahead of November 5, 2026 results",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T07:20:45+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ1RoLTBfWFE2RXZPNnZEUHgwbHZ1UFhpYU9jVUIzZ25HdGdyOFUzdTMybkdjWW4wYUlTd055UlhTNkVFRzJmNDI4V29fN2lxU1d5RFJUS1p3ckkzNXQ1UmVLdUxlWk9xZEZKazdNV0tOTWk5T2JuZkk4QjdXSi1rc0hQVzAxYTF5VFNSaGlBNFRyRzdjWXRRNy1tcVlaY2pXeWpLU08zWmFWSFBuQWZvNTNtNlF6c0w4Z195Y3d0RnlCNVZQNlZUbTVKWWZZNEQtR3o0U1NxRTdpaTQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8840020298957825
+    },
+    {
+     "title": "Siemens Energy stock pre-market at EUR 118.21: energy group slightly lower",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T07:01:34+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTlpbEdIWklRUXZ1ejlzZUM2NWx4WHctemdWX2pmd1hKNUR1dkxLbmJFU2dfZ3dMSDdQZzFwTzYyWkx1TWl5Qm9vZ0dkRlgwNXg1YmlTdWdRbEgwTzJreDBMUnJOb2dTTU9pWm5tZ2Q3LXY2TW9HZm5lSC1Sb3NWY1FqWEdQbm9DMmt6M25Ma2ZqX1FMSGtPWXJOMV9kOW95RmlCV0tZd0U5VUVNQ2dzN2EtYUp4RTdjQkFNek9aLWRfTHZGbWtqcVhQQQ?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.93310546875
+    },
+    {
+     "title": "Siemens Energy: A Multi-Year Turbine Backlog, a Steady Buyback, and the Margin Question Analysts Can",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T06:20:33+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLVRqLWxGVXRVeml1dk4taVVVWXlZUER1SzQ0QmpSclJKNjUzcGFFelBmcS1SbUtTZ0ZSZXRzazJsVzVMRV9tSkZyeXhxeDF2WXppOFh2WHdib0Q2cC1vRmVqSkNReE5jQzBlWlB4WFBWSzhVWEJzMlZuOXFacmRSWjZRejZaSWFwMk5YSU9GdEN4bjhLdS1SWHlCWGZISUdkVnc3dnFMRTdfUTZVZzdKSHotLUVCaXZ4R21ZcF8zMUwwLUpVenVnT1ZZVVE2Sl9pREJKTFZkVQ?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.8538821339607239
+    },
+    {
+     "title": "Weekly Recap: Erlangen €500M AI upgrade and XETR buybacks of 4.86M shares",
+     "publisher": "TradingView",
+     "published": "2026-10-26T05:00:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHdjakhCYktNM0VXeXlraWFYQ2J5eFFld2d5SWR4WGhmTnpHWWFuVEVDY2tGSjZRQmRVMkczc3M5ZTZ1aWZ4UVJsMnBmUjdLaVdnMnE4ekVxRXlVZ2UxRDRjNW9QYXctR0ZTZjlGYzY5WUdDVkxDa2J3MHNyOGtnUGdVcXFpZE5NSkxzeS0yZ3ppSjd0V19LR3dweGZaR1l6RDFHNEdsVVZWRzRoQjJpa0t3Um1sQ1ZmSmFFaTFkWDZUc2JQb3M2T1I0bnBOUQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8986181616783142
+    },
+    {
+     "title": "Siemens Energy: Multi-Year Gas Turbine Backlog Meets AI Cost Discipline — and a Buyback in Between",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T03:21:03+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWXdZeTdzTnprSUFxUjF3cjRhai1WU212YjV1NnBpZW5RRU1wUHdzcVVhWmV6RGxjRGl0WEtKTnFLOUNoRXZzNFJuQTBtRFZ6U2dISDlzRm1yUC1VcjNoWEc3eXIzc3lZYXBBUzl1T0xTR0pXa2MtSFdhOXpxSUxnQ0dSUTBvUGJWM3RLZUlMb0k2WG1xNXRodGFZTlhiSW0tWWtWMDVPdEZna3BMdktid1ZOSzc4dFBoU29kNmF3NnU4cjg4bzlsb185NERsVXlVNVctT0lhRkxCVnBqajVHeVZhbXFBUUlJRm90SDRxc3VDb1ZoeG1jWWZiQQ?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.7865080833435059
+    }
+   ]
+  },
+  "ALV.DE": {
+   "average": {
+    "net_score": -0.5223573263734579,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 1,
+     "neutral": 3,
+     "negative": 6
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:44.091169+00:00",
+   "headlines": [
+    {
+     "title": "Allianz Shares Slip on Bond Market Pressure as Barclays and JPMorgan Map Out a 109-Euro Valuation Ga",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T03:50:47+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT2h4WUNyNEs0dHZabElkaEdXR2E1VEhLckJzSDNPay1JVVd0WTY2cmdjeWdQSGRyLXhQZ3lxd0JnU0YyeFRNZHl3SEZmdDJwSjY2WDkwcERoVzA0WUNUdUg2TFBJRjFHMG5lcHk4cVROeHBQZEd1ZWJNZjNURlZyZEJxeFdhVUExcUpQajUzSDNCclBTc21HZ2duWW5DVW1iUFV6bmptdVhvTUE4TDN6WVhzaFB6MWlzd0d4ZVdGTUdvSU9xVXZsV1JWZzh4eEdCRkY5WmpPSTNITGpjejJ5T01fTkJSOEJoV2NqQ1M1OXJweGdhbW91LWljTDhfdw?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.934884250164032
+    },
+    {
+     "title": "Allianz Credit Outlook Brightens While Broker Price Targets Stay Miles Apart",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T20:30:38+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGpVR2YtM1J0bDN4N050bmE1c3VuZmxQZGZEOUh6VWFHZnNQYm1mZFBYbFpMbzNpUDJ5X0VBWWVDOHd6SnlsMUJqZ3pJZmhYT2JrNTlYWUd6N1l5elFJRHdGZmNFcTdKMVg4T0kwU0RIQmktaUk0TE45czYzdWV0SzBucnFkLUh5dXozZHRpY1dqNkhQRTdSYlBwMEZVOGNaMFZTWWNWWlM2cjV6QzBWZk5QcmxkQjcxRUFmSU4yejl4ci05ajBIal9pdHZLVWRTNDZJRXpJaC1MZHkwMHRNSW93?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.4492564797401428
+    },
+    {
+     "title": "Allianz stock trades 0.19 percent below its Xetra close of EUR 427.90 in weekend trading",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:55:15+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR3h4TklOdUgxMjFnQng3TGR0T2xjR1N5WkdvNmVKTjllN3RXdFBfSFo1T3daU0Zmdmd6U3A4RkxpdHRFbngwNFhwRU9EcFhjRVdtWW9rUVZBeThxcHV4bHdfY1BRZ3c0bXVPeWxQUEMtaENFWHVhZkpKSkZKVXVtSEQwbENZYXZaSXJFMW1XckpJT2JlaFItS3JvTm5IUWRudHFlOTFpYjJQbFl1bFhPVzZkUmZSY1czSlV1cGxyVG9wZ1ZzWUk1ZHZlLTd0Uk9EU2dkQzhKSEJrZXhwM2E5VWtLN1I3Zw?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.9716998338699341
+    },
+    {
+     "title": "Allianz Overhauls Home Cover and Sales Leadership as Barclays Trims Target Ahead of November Results",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T11:50:32+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWlhWdVdzeTRsVHV2QVdiQ0VHbTF4MUliZ241NG5tQjJhU1doS1FxX0dzbVcyUEktTHlxZVNhc0UzeTNSMmJMcy1RZ21kbVN1UEotMXhqRG1tLVRRajNiLU9lR1JRdnFyMmJWSXFFMXJrTHJDTllVME94RWpyYXl5eDROQVNqbTB4MTc2VWg3eEtRVFlkWnZqcUR3LUh1bWdLbkx3MmlaS3BrZkNuWGRwbzhLRjFPZWVLN1pQdmdIUTRHd3Q2c1J0SGRhaTlTX2NYRnNkUlQ4ZzV0a0NGekFxM2lMdG5TcmROQXh5c3U1SG5QSzNwa3BoWVNtVENqakljdnc?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.911026120185852
+    },
+    {
+     "title": "Allianz Reshuffles Sales Leadership and Home Cover While a Bayern Stake Shrinks and a Greek Bank Dea",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T08:21:28+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeXpaVjBwNDZxUS10Rk91bklqdlBwSXRNcEpuZWMtLW5JUzN0WS0tdHR1Vldod0ZNakZSaXZpZ2NtZlViTGpKbWlqMzBOMy1YZ20wdTFwcmw0WVUwQzktZnN1QUdwRFBrOC1jQmZpbTdXeGhyUWhyM21UcmIwV21GcDdUZ2NtaUtUeHd3Y1pWSW5Mc2hkUFJjTjVWblZVN1pqOGMxdkYtNnBwQjFETFh6aml2NTNLWmpmV2dWODFwYlJzTTNFS3VmM0l3S2pCTmp5M2xOTktyd0s3QnZjMjZxNEJaUTZLS3pQM3A4S0QtRGt3R3ozMGhhTVlSN1E?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.898137629032135
+    }
+   ]
+  },
+  "MC.PA": {
+   "average": {
+    "net_score": -0.5725921231321991,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 0,
+     "neutral": 3,
+     "negative": 7
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:45.073575+00:00",
+   "headlines": [
+    {
+     "title": "LVMH Moët Hennessy Louis Vuitton stock pre-market at EUR 383.50",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T06:55:50+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDN2TTFLMF8wazg1QnRROTBHUnJiRzlLMDVTcTJSWC00WVJiRFh2U09Qa0J1eWdMWG51d0Q2OVdWSjNJcnhPRXdWQWVlU1o5U1pyazR0eVV4bFN5LUlsN21rSTdaN0x0QjF0NVdmdWJ3RlZ2aVJFcUlsLUJRZnp3OUV1UWwwVjRkcy1PdDF6bnRETHlTZ3JGUWFWeDZHVHNlU0gwaUVxS3lMbDd2dkc4Y05QaTdpR3RobTAyY3dB?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9450226426124573
+    },
+    {
+     "title": "LVMH (ENXTPA:MC) Faces Fresh France Riot Risk To Tourism And Luxury Demand",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-24T11:12:40+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUlEaDV3N3NNeWdFUDJQdEJ1NU50OGNEVmtzbEJuLWlFYU9JXzNOVUhvSkQtdmRlejFNR2Z5ajlkc2pZdnk5dEZqcDZxa0xzZkR3cTh0UHpTZl9XaXBrdEp5WnkwRXczeDJiak9TaUkxR0Rkd0RFbDhWUHNxdDBGeGZ5QTc4bW1XQnVEZjZKVEdpLXcxSnc?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.521490216255188
+    },
+    {
+     "title": "LVMH, Kering and Hermès shares fall as France riots damage 3,000 shops and bond yields surge to 2002 highs",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-24T09:15:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVhfTkd1UzBZWGxSOVRKTDN6TUJqYmc4TlllcUJMQnd2OHFHT1VSWjlueEtkSEdINmwxRG9aMVVYME5XeXNYNjBtelhySVdVUlBhVXZYQnVHWFpRM3BQbERXR0ZkaC1Vc3F2Y0Zac1RSLWFHSlhxUzdqcnZfeG1fU2VFaXdEZGNGZHJBbXF2WlUxYzVpNHA0NQ?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.9634649753570557
+    },
+    {
+     "title": "France riots damage 3,000 shops, sink LVMH and Kering shares as bond yields hit highest level since 2002",
+     "publisher": "MoneyWise.com",
+     "published": "2026-10-24T08:46:01+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEdUZEZHS2ZXdkJEc1liTkl5UWYwb2pRMkVfTUNhd0xHRkd2NFN5bTJYQlptdVZjN3lBandLYkVud1U1UEd0d1ZxYVZEcUVIZmphRW5WUS1EU2VDSXpnM09SdkhTdTVLT1NwX2lfMkpZd0IyQm9UYzZHS2pucExtNHhPVDk5LWZwSjhxbA?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.9474656581878662
+    },
+    {
+     "title": "Gucci Plunges 16% in a Day as Chinese Wallets Snap Shut, European Luxury Stocks Tumble",
+     "publisher": "BigGo Finance",
+     "published": "2026-10-24T03:35:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhRnpTU3JGd2NRUDNYRk5kMDBSYXplOHQ1NGhWRnlTSG40WHhybnNmZ1lQWVJFc1NiaE1KaDg5U3NBZHVXSkZ4M3hQTXE5T2NYUFlyWUNRNFZETE5Fb0xGeTZQZXBtcTBzNjFRWG1GT1BJdVlSLXc?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.9472395777702332
+    }
+   ]
+  },
+  "NOVO-B.CO": {
+   "average": {
+    "net_score": 0.087938978895545,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 2,
+     "neutral": 6,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:45.987869+00:00",
+   "headlines": [
+    {
+     "title": "SRRK Stock Gains After Company Drops Troubled Novo Nordisk-Owned Plant From FDA Filing",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T17:22:32+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdnJGMk9lcF9CTXVJRUNBdk1BendvU29Gbm5pME80N3hnaG9zcnNiR011YXNxYmhLa3RCalJXSkY0aDRCMktJNGoteFV1M01iMUR4T2pXZVVYWDhacHA1cVFGTllCOGVoWVQ1UmhkUVlmWmtoVjROZTRCLVJ2S1FLdmYtZTU5UWlPbzI5U2VRdzdEYzh4dlgwOC0wTEdObFdjb3ZHeVZLOGxSaWNVZUlGeXlOY0kzcjVoWFFRTnJoRG5FempUd1dNNjVnN3pFSkNXMWN3Ml93U2FhTEJoNGQ1UDVzZWI?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.8210992217063904
+    },
+    {
+     "title": "3 Massive Catalysts That Could Ignite an Eli Lilly Stock Rally on Oct 29",
+     "publisher": "24/7 Wall St.",
+     "published": "2026-10-25T16:35:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGdVa2ZmLVRyWmdHMUJCYW9uVFBZXzdNamtnQUFZZGE0S3pESHJpZHRxckFiNXJpam9kZkVEbXNPUmZkSTgtZV9kcC1ub2VyaHQ2RUo4alZIMFBScGtxMFI3eWFMd2xPOTRHeUdsbEN2bVJuRDlGQ0lBQ3A2aldTSVFCQW1Rc2lueDFFSW1XR3VvRTFYZG83WEZKSkdHQ09MM2xuQ0w2VkNZLWQ3TmhEVWFlcWpielU?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.8739972114562988
+    },
+    {
+     "title": "Novo Nordisk (CPSE:NOVO B) Deepens AI Drug Discovery Ties",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-22T21:08:47+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZjJodTB2YXM2c1NxUEFvZEhDd0FjLVgwZFFzbENwbE9SZno2WWc1Q293ZFE2WWI3dnVRaEgtTzNJdE81WE5zbzEwM3RQVlAzVVN6a0ItWl9SRHY1bi1EdVFQZ2NRTHNUd25adGZmcVVTS0hpUmE4UzcwSDZCZjVKU19RV0laYkxBblRuRHFB?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.6492806077003479
+    },
+    {
+     "title": "NVO vs. VKTX: Which Obesity Stock Could Deliver Bigger Gains?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-22T15:31:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXljMmR4bGhMQ2U3NTNxNmxOM0FTbUluX2ttVWx3aFVob0diTWZwbWMtWGdnZDdod2FkTzB3TFhlN1Z4TUdWd1FOM0dMRUNDSTB3MUh6T1BsZnFaWVNMZWFnaTlfYU9mblNlcDRkbU01U3FBcUVnU3RhTVdxQzRaVEwzRHNsTXhrb19TM3B1OA?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.6003952026367188
+    },
+    {
+     "title": "Where Will Novo Stock Be in 10 Years?",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-21T20:28:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVlLRnFPYU01ajZlQUJPSzJNSVVYdlRLWVI4Y21kazFJLS0yRG9tM0VQamlvUnpIcHVKRmVUU3RfRzFFc0ptcWVBMm9zOVJrS1BBbm5OZVhGVS1WV3lvVE0xMmRoZnBxYzFPU2QzOEd1czJfVnRjN0RHdHpLa0RGdGNqX2lkUQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9423364996910095
+    }
+   ]
+  },
+  "ASML.AS": {
+   "average": {
+    "net_score": -0.04141748221591115,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 3,
+     "neutral": 4,
+     "negative": 3
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:46.900459+00:00",
+   "headlines": [
+    {
+     "title": "ASML Holding reports third-quarter results for ASML Holding stock",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:48:02+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3Q0VExfWUt3bmVZZkJRdExRdHV3azlfMkp3Vm9nclBfQ1hJTk5QLVVsYVhxeUdVSFFQRmRBMHFvT0dWVlhUanVwc1UwZ0Y1NGRDcTJMMGhFcU85OGl5YnhGbGNjU0RVendJYmpsLTU3cTdYeExVblN5enlfRTFSYUVFQVdFMGpkZGExc0NBUTFpOXJwZXJ5S19tZlRWSkhHY191NWVnWEoxS0t0WGxnSG9YRkxESzN2YXZzZ0ZZMnVCTmJvcnNv?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.907156229019165
+    },
+    {
+     "title": "ASML's €352 Million Buyback Lands as Supply Constraints Overshadow Demand",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T15:20:29+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOazlxMm1Wb1NDSEQxbC1FbEV0RVR4RXYyTFJSY3VjVi00b3pOWldxaGZYbTFIVjhTZHpFTWg1aHlIWFFKblctTzVpNG5uWjRTLWlZeUpIVXgwOVo0Y1FzY2Zka3UwMXUtU2g2VVROa0NyLW1ROHB0dVRya3RKbVFBbjhUR1ZLNHh5b3lhb3BKeEFOVndNQU1wQ2E5WmYwTjRuaC1LRDF3WjR2ZWhEcFFmYnVyZkJseENFQXB6cGg3bDczSFhKSEFxUzdZOXBOSXh1cmhZZU9wd2E5cFJi?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.9634270071983337
+    },
+    {
+     "title": "Your Easiest Way to Crypto - Trade Bitcoin, Ethereum &Most Trending Tokens",
+     "publisher": "MEXC",
+     "published": "2026-10-25T13:33:45+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSVNUaDAzbVpyMGRjd2Ftb05CemdUV2xhNHFvR1lUeFpYNmRGQmtuSXljdzJ0NllJNVVkcElHVU95SEtNMEhSZ2tSUkM5OTJvVlRLOVZiR0ZpYXFLT1FpNzMzSVRFeTRNeFJ0SVJObHFhcWYyN0Ewa3FBRlVYampadmJ5TWlPSVJsRkY3aVJGWDJHZDdXVmZrZUFUanh1eloyWVBJemtkNmZweGxraVI2MGxpcWh3UGtPamFKQVh6eXF5ZEV5aWc?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9378626346588135
+    },
+    {
+     "title": "ASML Holding N.V. (ASML) Stock Price, News, Quote & History",
+     "publisher": "Yahoo! Finance Canada",
+     "published": "2026-10-25T05:35:37+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYTJNLWlrdEl5bkZ5REJDbzVqREU2amNmcFY1bXp3TU5fQjJfaWtlTUN2NHViZUVtTmIxV18zWUZ5QWx4Y0lRWTJmcHhXQTREcHc?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9288864135742188
+    },
+    {
+     "title": "ASML Ties Executive Pay to Staff Sentiment While Buying Back €352 Million in Shares",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-24T13:02:11+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHV1Yms3ejVpRnpMRFhRSGlQd2txTENtMHhMeG5TNTMyaFNUVkx0YW5ya1RvV200NVhzRDV5eUNFdnF1TTl6QTRON21sSG9oMGhPVWkzdGkyV1dnbU1KSDdvdlZidzNBcW9WaF9vNFdrWXhvOHloc0NheEs5d2prLTBhZWtWWE9iUHljcDJKdmZNZGk1dnFSY2FZQ1ZCcjl1OTJzWjN2Mml0VVZ1UTJUM3RrT3ZXd3RtQmJUVGVtNi0waEhxVzBRaVpXakFnblVYZHJhNnpnMjVnTjh6QTZ2LXZPYU1uX0hfOWc?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.7860723733901978
+    }
+   ]
+  },
+  "7203.T": {
+   "average": {
+    "net_score": 0.045710454881191256,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 0,
+     "neutral": 10,
+     "negative": 0
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:48.201117+00:00",
+   "headlines": [
+    {
+     "title": "Form 4 TOYOTA MOTOR CORP/: Kumi Fujisawa (Director) For: 25 September",
+     "publisher": "Investing.com UK",
+     "published": "2026-10-26T01:16:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmNXcy1Pc2ZaRUU2WXZHX25COXBwRl9jWVpCUmx6NkwwV1B0TVkwQ0ZBeVJNWHQ0ZjhWLU1HNG9nb1B6ZlpMY3FQWWU1enZlTWk3cDJjM01McnEtbDZ0a19pdHhXOEZXQ3lpdHBoZnJzQm9iLWZrLVhKcHQweHRSU0dkX1c1aVZhdDBkM3BSRGwwemlSZ3dqblhFQnFzcm9OY2E2LUs0OXg2b1FzQUJMTjRNMzFOVV9HZHJ6ZXkyWG5lQzQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9447592496871948
+    },
+    {
+     "title": "How Investors Are Reacting To Toyota Shares As Solid State Battery Research Expands",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-24T23:54:43+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR1FVbVFYZmhSY2pRV0RBdlY3aVBROWZpWm1GRENUNmRGS1lVaE1QcnJ5ZVdEQ3lXQm44UXNRMHpMeS0yYzJabkw2QVlFQ0hkVk5IS3E0UWNXZm1OM3Jzb3BaNGNMUVhvMUwyd1lIYy1HQk1pZmxvSS1kMEo5S0FTVFFmT29VUXhxbF9BVHU5cTRuUTctVFM4eGlLRDdZdkQtQVFpN1g4M3hzQ0d5TzdicElOQm1LNE1OZlFYNFRlSTZNTFlkX1dtWUFLYjU3Q1ZOTlgweHJ1VUlOQdIB2gFBVV95cUxPR1FVbVFYZmhSY2pRV0RBdlY3aVBROWZpWm1GRENUNmRGS1lVaE1QcnJ5ZVdEQ3lXQm44UXNRMHpMeS0yYzJabkw2QVlFQ0hkVk5IS3E0UWNXZm1OM3Jzb3BaNGNMUVhvMUwyd1lIYy1HQk1pZmxvSS1kMEo5S0FTVFFmT29VUXhxbF9BVHU5cTRuUTctVFM4eGlLRDdZdkQtQVFpN1g4M3hzQ0d5TzdicElOQm1LNE1OZlFYNFRlSTZNTFlkX1dtWUFLYjU3Q1ZOTlgweHJ1VUlOQQ?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9139196276664734
+    },
+    {
+     "title": "Issuance/retirement of stock (net) of Toyota Motor Corp. Sponsored ADR – LSE:0LG5",
+     "publisher": "TradingView",
+     "published": "2026-10-24T22:01:13+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEllcEhhZUpiNnJUS25OZnVweTd6emhwRW1YWU9qei1uMzdmbzBJclJNeDFXNVN3UG1mckR3dHBiMkQ2a3BkQXpmYmxabzN2djg1T0NLcmpneGZIOG45cWdoVWZ6NHdrelRpa0R6UVRtUTRFM2ljMzNoUUxjeU9MVzRMSGtndFpEX0F3cWNzMVNEdw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9392085671424866
+    },
+    {
+     "title": "Toyota Motor Corporation (TM) stock price, news, quote and history - Yahoo Finance",
+     "publisher": "Yahoo Finance Singapore",
+     "published": "2026-10-24T10:25:20+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URU1oUWk5R3dvdndESWRyR3pfdGdvZzhtU1M3ZmZCeHFGSThkaHRvcjhLa0VlNXpXM2hCdDh1Qy00eWMwT2huU1g2ajFLeG5NRmdFX1dGU2x5WHBmN25n?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9486189484596252
+    },
+    {
+     "title": "Toyota Motor Corporation $TM Shares Sold by Crossmark Global Holdings Inc.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T09:30:16+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZXNod3ZBZVFzMVhOazU0V0RUbi15UFdXY1dvY2duU2J5c3FYLW1KZVJBNUJrWERFZG5ma0piRjlsZG90eUNmbXloZkJuMmNCa1VzUUtkTjBiLW9xN1ZFclFWci1IdTFKZElpeTJlZThZSXJzT1Y5bG9IVnVuVG9jaUhYSU54UWoySTd4ZnF0WTRxQXliT2p0aGNnWUFfTzZ6R2RGN09BYmdabVpURXJ6Z3pJRTdkbk03dFFtT3ZSZ3JucHhNNmdOZ0lDeHlYZw?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9341210722923279
+    }
+   ]
+  },
+  "2330.TW": {
+   "average": {
+    "net_score": 0.026153872860595583,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 3,
+     "neutral": 4,
+     "negative": 3
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:49.102298+00:00",
+   "headlines": [
+    {
+     "title": "Nvidia Drives Fresh Interest In TSMC Stock And AI Packaging Plays",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-26T04:52:30+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblFXNFIyVFo0MnZOTXE5RDdNRE9NS0RqQW1DRFZQTDhRR3RVN05INjYxNUE1NXJBb0VTczhGNDNyQnFNWnJtS015VWREQjBDR1RMZkliNWQ3WGVuVExHQVJzZ1Z1RDNJT0JGT2lVVVc2c0lCWTVWdjlsTDBtZUdWYmZHaHdJbkZpSEVYMllIZE5NeEhTTFpGSHpVU0N1S2IyMnZNaDM1c19fQldQOTlGUnZLOFZwcWwybWIxejZibHJPZUV6djVvR9IBzgFBVV95cUxOM3VHMTBTZm52eXdYMExtNWo3eE1sVlZIa2JnNm5WT0NMcmZiZ2M4b2hJR3lTdnBlRWxHNnc2QU9sN01YN3VWRkpqVFlmWXk3UzlZUGRkX1RtWFRHMDdpVlBnVkpWOVZibFIzM2t2eXV5Um1FQ0lpVHVfb29YWkpZQk1JRkhNRVZMamx5eUJDaEc1anhWVTdTWENGcDlGMHRPc2pDa0lseG1vWUwtOFd6MEZLN0RIdDVwU2NIN0NxSHJJV3VWN2N2b01XY1RSQQ?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.7835323214530945
+    },
+    {
+     "title": "Taiwan Semiconductor Is Set to Cash in on AI. Here's What a $5,000 Investment Could Be Worth by 2030.",
+     "publisher": "The Globe and Mail",
+     "published": "2026-10-25T14:15:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcWRNaUVpX2FjSFpZTHR0OVVNY21LS01PZmJ2M2NxNVMtRmY5aVN4TzlIRG5BSWpVeGdYaGpPZ1JrZi1WN3RBcUtoTEJ4cDVNZ3Z0RUx3N1pEcDE4NzY3ZXFKMElxM0ljdkRieGU0MnZtSUV4cW1QaTNGdWdSYnNPczZfOUNLSDUxU2hEVmd3S0hHMzVfOGV1SWhkWWFXUUZPUVhzSDdyWmtuNFhHUTJkOGdENnhhQ3hBd1hBRlBSNFY3dmo4SDFxX3JxUHdxOUxCcE9JVktCSndodEhfSWNwbjhwOVJoYVFYZHZES3IxMFF5SUFYeklydWNCYy1qMUJPcWhyT2RObmVOdlR5dVJyZjZ3?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9205958247184753
+    },
+    {
+     "title": "TSMC Faces Revenue 'Uncertainty' In 2028-29 As AI Investments Need To Prove Their Returns, Morningstar Analyst Says",
+     "publisher": "Stocktwits",
+     "published": "2026-10-24T23:08:09+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmFsNzl4TU16dUxqTXhCMVlNcXZvSXJ0ZWJKSU1OcDRpTnJwdkZxN3RHTmpGSUV5Nnh0Um12SG5ibTJGZUhQUVN4ZmtXQUdheXJmcVVzRm9qZWdNQWdmTG02dFl5V2dQLXJuUUVBeTBjZ0hhZDdhc3FqRko2ZVg2TEljNE9lV0pTSjlIUVBvYllOY19BQmZDME9KMHduZ2RWVWM2b09XQlNveEYzQnBJUzFSWXRZU0ROUXNhbkZvTE5nbEFfSnc?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.9512075185775757
+    },
+    {
+     "title": "TSMC Debunks Irrational AI Fears As Pricing Power Expands (Rating Upgrade) (NYSE:TSM)",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-24T12:19:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVhFdlg4SFFKQ0sxVVcyMnNvdGxFYVNKOVRpMFRXNnhjV0txOGphTHR1Q2N5S0hRbUVoMWhKcE12Qlh4MEFjb2hKWDR0dUREb3Ywb1p4ZWFLcW8tQVRxdC1Xd2ZwVlRQRXpLS1MwUURibmxDYk14Slc3UV83NlNLLUl5ZVJGUUJWa0VKTl9RaFlUR3ZjNGpBSl9JX21kbFo5VVRVaEYzckRGZnVUYVhtVTZ1cw?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.7558143138885498
+    },
+    {
+     "title": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-24T05:00:00+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTRfalhnWXlGTDVmTnI5MzN0ZGVseU9IYThCWS1GVldzUzJaTGZZNnFPZ3JJQWpISFctR1IxSTVLQ1N1aHNVLUc3a2pRNEd3TFVDekkwY25jekxBU1ZpbjJwTWxyOUtGVlFOWGNlVnRQczdSWkZXaVJQVXRvVU94S19EZTJnVUlnRXVHTTBodTM1T01ES1dB?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.948646605014801
+    }
+   ]
+  },
+  "005930.KS": {
+   "average": {
+    "net_score": -0.4140351707115769,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 1,
+     "neutral": 2,
+     "negative": 7
+    },
+    "n": 10
+   },
+   "updated_at": "2026-10-26T07:35:50.052348+00:00",
+   "headlines": [
+    {
+     "title": "Shareholder returns key to rebound in Samsung and SK hynix shares",
+     "publisher": "머니투데이",
+     "published": "2026-10-26T06:58:05+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ENVN3MDBiQm82YmJ5RlFtTTZ5cnVJcGx0djlqdk16RFNFVWdqVU9qdGJ3N0tramYxc085bjE0OEYzZ2JnSTZFQkxPX0JXaXBLcHczWnpJMFFuOVVlYy1XN3ZuSWgwWEQzQWppUkRWN2w?oc=5",
+     "sentiment": "positive",
+     "confidence": 0.8776162266731262
+    },
+    {
+     "title": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend",
+     "publisher": "TradingKey",
+     "published": "2026-10-26T06:57:14+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHlvYm9yQkJacmFKT0tLbWs0VnJHTFVvZ3dJZ2prVDRHWFdpdWpIcTNPSTBOZHl6bWtiNlZWWkR2S18wYmZmNlNhMDd1eVUtUzdXYWExNGdZQjJCV1huUnZQM0U1UHJ3aGQxc3dKVHpoekhQbndDWnB2Q3V6U2FCX1h2Y0xPTnBHQk51bHRmbWFsa0ZudUxBUXpUWVFRbmhNOFNSOVpYRE9KZ1huQWw1VG1jOXYyanBTTEhocndtelFpZF9Dem9rWmYtUF8?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.967573881149292
+    },
+    {
+     "title": "It was found that the top 1% of stock investment returns also bought SK Hynix and Samsung Electronic..",
+     "publisher": "매일경제",
+     "published": "2026-10-26T06:35:56+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kUG85UEVlMGNNZ2F0S183eEVDWnYxYUFqeXg4M21LQUJQUHpJY25Kem16Q1JGajBoMXR2SU9MbjBKVGsxT0oxSUxyVjRwUE0?oc=5",
+     "sentiment": "neutral",
+     "confidence": 0.9150363802909851
+    },
+    {
+     "title": "Samsung, SK Hynix Seek Investor Reassurance Amid Earnings Surge, Stock Slump",
+     "publisher": "조선일보",
+     "published": "2026-10-26T04:45:37+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVhmc0JseXdCSVI0WVhubmhjRWlPSHdRTDNLUDQ3Z3R3aXBEZS1iSmhJQ1pKR0d1T3NwVjNJd2hmcUU2dG82bUhwdWYzMGpTNVZ5TDJxeWN2b1QwcGJ6TWU5d1BTUG5FbHNOeGQ3ODdMVV9HUG9jU0lBSTRzbmhBRDVSVXV0dnVo?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.49650442600250244
+    },
+    {
+     "title": "Samsung, SK Hynix Post Record 180 Trillion Won Profits; Stocks Slump",
+     "publisher": "조선일보",
+     "published": "2026-10-26T02:48:16+00:00",
+     "feed": "Google News",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVVSNHE3UWRIMGYyZ29lZEFrUUMwZDRvWUowc1g3QUlrVEZCNzZQZ2lLZnpHdnhSamkzRndGUG5oMnhlNG9Cei1aV3UtTWVCMlE1WTU2UG5ZckVsT21ESDhSSGQyenlzWlVULWxtZ2dpd19XdEljV3BodWI1S1g1MHIyQXYweDZ5?oc=5",
+     "sentiment": "negative",
+     "confidence": 0.6826217770576477
+    }
+   ]
+  }
+ }
+}

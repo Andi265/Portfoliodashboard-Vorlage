@@ -1,0 +1,3745 @@
+{
+ "AAPL": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:32.464280+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Should You Pick Apple Stock Over Its Competitors?",
+     "publisher": "Trefis",
+     "published": "2026-10-26T06:40:49+00:00",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJjUk5oMm9nM3VVVXUySVRmNVR0RDdvamNfWWZ4X3FyazY2SHd0THUzSUVfX2NNNEpDUk1SSkowNkVrb2J5YTlnbmtaR21valFnSG0xdENqQkdoZV80Vm4zaU1oN1loVjJoMGw4U0lGa2NLdTViTUgtRldGX0VmTVNVZndXc01WTHJGYUc4QTBXd1NfbmNKdjZXa3hNRkNDY2NBY21UNlhHOEFlOEE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9149152040481567,
+      "probs": {
+       "neutral": 0.9149152040481567,
+       "positive": 0.06336497515439987,
+       "negative": 0.021719764918088913
+      }
+     }
+    },
+    {
+     "title": "AAPL Stock Hits Record High As Apple Tops Nvidia Market Cap Amid iPhone Duo Debut",
+     "publisher": "Stocktwits",
+     "published": "2026-10-26T02:57:42+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8515191674232483,
+      "probs": {
+       "positive": 0.8515191674232483,
+       "neutral": 0.07520414143800735,
+       "negative": 0.07327665388584137
+      }
+     }
+    },
+    {
+     "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T00:10:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUU5wSndoY2gycXFSMHRwQWlaSkpmMDhDRzdQdVk1T1BQVHo1d0MzYmI2Ukd5X1I2UjRvQWlDQWpyWWdFQzR4eHBuVVdCaVBVOVVjSG15ZGlCXzZuRG4zaGdCTEZ4RzBHaWlEbDRoY1Z2cXJZel81Y1ZfM0RVZUtlSjkyV2g3SF9PZ1RtRDM4Y2E5UW4wLWZJ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9386574625968933,
+      "probs": {
+       "positive": 0.9386574625968933,
+       "neutral": 0.048377204686403275,
+       "negative": 0.012965329922735691
+      }
+     }
+    },
+    {
+     "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T20:05:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXNzb2ZhakIzS1BBeGpYVHlKQ2pzNzJjMkxTZ3VHZFJxeUpTS3BKN3BuRkxCYzQwcFMzdFBOVXZLYVd2VnpndVBXM1h4VzJocDFRVF9GRXM3T0FiY19aRFFWTmV0MzJGQmdSV2NYMkhkb1B6YmxpTDhoanFoTjRaRXdtdkx1cmNYSWFfdEIwaW96X3NfYlE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9186043739318848,
+      "probs": {
+       "neutral": 0.9186043739318848,
+       "positive": 0.06613592058420181,
+       "negative": 0.015259665437042713
+      }
+     }
+    },
+    {
+     "title": "In 1985, He Was Forced Out of the Company He Founded. Months Later He Bet $10 Million On A Graphics Unit He Bought From George Lucas. By 2006, That Bet Was Worth Far More Than His Apple Stock",
+     "publisher": "24/7 Wall St.",
+     "published": "2026-10-25T13:27:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNNWZXS0ctWHRseUF1UlFGWXM4M2xJb2V6cVBHSWt0T0VWMXhRWWZDNkRTODExaDNxVUFIRFlhRFBlMFhXS1Y2WWlUVTM1STBHRGp1U3VqTTI4OXE3QlNoM1NGbG1oLWlCUmEtbTFuQUZxT05ELThUajRJamJJVnJrYWt6dFBtOVF4UGYwa2xrOWtNQWw1bEFjQkNtYlN5dkNMWjIzNFF4UUFTSV9fQzliaExjQV9selBpbEJiT1FTcUJmdnhNWFFUcFlBZjFtTl9LYzlnU0ladEJFQTdLSWVSVUZZeTZqNlRvdFZURFl6Q0J2d2hIVlp5MVFLX0F2SnllYzkzVEdNSUhnM2I1ODdieHBnNm5uSFkxZ1dhQXhkUlBNLTlHMW12bFI3NGVsSzlzRHVKUzloSnN3X0N5NnNoZlJfWUJlZVROT1Y1aTl0VQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8853783011436462,
+      "probs": {
+       "neutral": 0.8853783011436462,
+       "negative": 0.08107291907072067,
+       "positive": 0.0335487462580204
+      }
+     }
+    },
+    {
+     "title": "Apple Inc. $AAPL Stock: Generate Investment Management Ltd Trims Position",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:14+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2pLN3Ric2xHbjA4Vy1RbWZFd1ZzbUtmS0Y1dzc3Q2ppSDVUS0pWYW50RVBiM2lrN2N3bjg4bGtSLW5WWm1qN0hyTWk3SkhZOTk1VmxaX1ZrUGtCeTY5bDJjd0d1V2IwZ25yVS1WaW5pS0JqY28tbDZUZlBPS3I4T1hTdlRkLThpTVljTUlRT2Q2WVB1a19hNHR1TXhsTVZpd2lTNm9QUnRKSV9kVWZKYllvSW5EeWlDLXVxeExsZWdQaTkxWDgxWEFqRQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.7574636936187744,
+      "probs": {
+       "negative": 0.7574636936187744,
+       "neutral": 0.18623006343841553,
+       "positive": 0.05630623921751976
+      }
+     }
+    },
+    {
+     "title": "Apple Inc. $AAPL Stock Holdings Increased by First Citizens Bank & Trust Co.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:14+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOekdOXzJmNUlORE5xbzViNmNKOW1idnltYnp2X1dXZ2owdEwwQ3gzai1WbTZjSFFhbnBFX3pxeGd0TTV4VXlDQ1RvVGZkWTJfX1M1TEdGcGVCNTFhYndpMjR2RDRGd3JMdWhNS0JjeWM1UFZDV1c1eGJyY2NYbGRRY0phdnppZ1o1UGNjY0x6MFR4VE1lZk80TG92bmNjRURVSGl2Mm1IZWI5bjl3THREUXp1Mms3WUpsajVsbE9qeG9HeEFlSExUYVV0S3o?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.6512553095817566,
+      "probs": {
+       "positive": 0.6512553095817566,
+       "neutral": 0.3147174119949341,
+       "negative": 0.03402728959918022
+      }
+     }
+    },
+    {
+     "title": "Apple Inc. $AAPL Stock Sold by Fairfield Financial Advisors LTD",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:11+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR0lHYXh6RVpkNVpaYWRkaHlNWVNheXA4NUd4TGp5SGtmZUFCM09XZllXT3FPUXlrbXRiQm5xVFlJazRBeDJsM2c4bGszb2dPLTUwVDRIN2NGdmNscVcyQnkxYkNxRTFIR3V1dXc5MmoyNzhwblNCNnIzZnEySy00dzlTck4wcmk4N09jeDF1SVRVRk1nM2dNNHV5SFJNRXI1N3RPeHNiTkhxelI1dnhzQnhqR2tSaWU4NU12c0VzTQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9467422962188721,
+      "probs": {
+       "neutral": 0.9467422962188721,
+       "negative": 0.02787705324590206,
+       "positive": 0.0253806933760643
+      }
+     }
+    },
+    {
+     "title": "Apple Inc. $AAPL Stock Sold by Firethorn Wealth Partners LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:11+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXhuMmRPR3pQd1RMclJUN3ZNYWM5eHVYbFUxak1pUnBtYUV2WEVIVUloSU9sY0VMRG9NZjg1UXRpX3RLRktUM1VKd3BvS1Ryd2hTNHJ3WFF3R21IN2RYbkZIS3FEQzg4V2ZoV01vZUtJRnl2ZHhZQ3A3YU9fbzVoZjR5aUV2cUduamFObUY4cDNjV1VBMG80R0VJQXBGNExpUF9DWjRYbXpKbmJ0ZkYzLXFiWnNodjdaUHNJ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9369859099388123,
+      "probs": {
+       "neutral": 0.9369859099388123,
+       "negative": 0.032097719609737396,
+       "positive": 0.030916359275579453
+      }
+     }
+    },
+    {
+     "title": "Apple Inc. $AAPL Stock Sold by Navigate Wealth Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:07+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdC0wckQ0aDVmcXZnX1BPTDFuOVE4QmFOUVFPTFJna0hwRnBKaTFYTUZRYnVqbjljU0dtQkd6YThDTkFXc3Q3TDdsdm5FN2tqbzk0ek5va1hBOW1kTmtfemJueGJvY2xpMVE1WkdKVFlKQnU4d0ZIQWlNWk9BNEZ1UWItZG41a1EtTHAyN2JrWXN1dy04c25Ra1JxR05zQVBQMWVwdHVvRHl1S2ZyVUtsVmtDaUh4QW11ZG5KUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9444472789764404,
+      "probs": {
+       "neutral": 0.9444472789764404,
+       "negative": 0.030934052541851997,
+       "positive": 0.024618670344352722
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.1655009401962161,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 3,
+     "neutral": 6,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "MSFT": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:33.521762+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Microsoft's $525 Test on Fed Day",
+     "publisher": "Money Morning",
+     "published": "2026-10-26T06:19:36+00:00",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fbFkxZmZHNldnUW9heG9UNTl4WnlYQkpMV2RURVpWdEpZSmRzeUVTeEM4SEtTaUwwSWtKbVNiNUxLbVdodXk4UzJrQmthdDdCbno4aDUzOThSZERKWE1mdy1Ia0R1dTdzN3Voak9IUHVwazIyb1FoNWxCSQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.5471504926681519,
+      "probs": {
+       "positive": 0.5471504926681519,
+       "neutral": 0.4298805594444275,
+       "negative": 0.02296900376677513
+      }
+     }
+    },
+    {
+     "title": "Stocks trade warily in Asia, Brent off six-month top",
+     "publisher": "marketscreener.com",
+     "published": "2026-10-26T04:44:25+00:00",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkxUNElrVGx2UDJZdC1GaXgwUXRRQXFpY0R6MnFoN2ItbVdCSTZyVkJYTm52MTVpUE15LXpYRHBUYm9RaGVuV2U1N2QxQWVmSHkxSWdmS0p5Tmd1OVV5WldENXFqSXBrRzdxbHhUcG9ESmNadVl6WDdoRHdkX2gtQWNNWkp6aEtqcGdpeUE0Y29HQUJQblktai1GR3MyaDVqXzZFVEthTQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.5700547695159912,
+      "probs": {
+       "negative": 0.5700547695159912,
+       "positive": 0.40222761034965515,
+       "neutral": 0.027717621996998787
+      }
+     }
+    },
+    {
+     "title": "Anthropic's $750 Billion Compute Bill Could Delay Its Path to Profitability",
+     "publisher": "The Globe and Mail",
+     "published": "2026-10-26T04:30:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY0hwUy1TY3ZsbnpyYWRPaUdIVl9WOURBYWdBQWM2NUI1SGprWWI5RUxRemw3bjJiV1REN3JocnlIMEJnZUZuOHdRMkdveGlzaEc1ZkFfWDVuSFhCMkVxWU1sLUs3NEdBX2N3dTd4MXJxcTFobnBKVGh0Y2JmbWFDbEIzajM2SEVVUDlFSTNQM2xOc0FBdFRLeEthLUtUdERpSVBjVWtPTFZhR3owNFRPdGFmOUNsQ1hLZWZUUktjQ2p3eHlnRHNpcUc1WXJlemcxenJYQmVGVWY3d05ad1VhbDJtQnFsR3hMdl8ybVNkOA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9553223252296448,
+      "probs": {
+       "negative": 0.9553223252296448,
+       "neutral": 0.03591390326619148,
+       "positive": 0.008763791993260384
+      }
+     }
+    },
+    {
+     "title": "Three Major Tech Stocks' Earnings Impact on S&P 500",
+     "publisher": "Intellectia AI",
+     "published": "2026-10-26T04:10:57+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlM0ZWNNMDVqQkhMUjgtYl9zZm5NQlB4Tkc1ajNmZnlvRHkyRTRLdkpDcnJJSXpKaUp0bnBUODU4TnlHcC05VGZIUjd4cVc1VlR6N0VGOGJ4MXVBb3pGczNHeHozNTk5TmJtQUc5alBXWWFfZkxyZzFmdTN2c3VjSUJYalJoamdUODg4?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.7942640781402588,
+      "probs": {
+       "negative": 0.7942640781402588,
+       "neutral": 0.18715234100818634,
+       "positive": 0.018583573400974274
+      }
+     }
+    },
+    {
+     "title": "Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) Earnings: Can They Save the AI Stock Rally?",
+     "publisher": "Stocks Down Under",
+     "published": "2026-10-25T19:04:28+00:00",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG5TZHpqYkVsSTVEUDhRZGdualhHTnFTSTBtaHBrWE1tUVp1clNEbHFxWEVfNDZlV01NNjYzdjczM3lrSkFiN2E3el9NOHZKV1hqZEFkblVTdnZDN0lrd0tUUXp3Zkk1U3JmX0ZxbktGay0xMWlxdHV4SFY3cW0tcQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7837130427360535,
+      "probs": {
+       "neutral": 0.7837130427360535,
+       "positive": 0.19166551530361176,
+       "negative": 0.02462146431207657
+      }
+     }
+    },
+    {
+     "title": "Investors Are Worried About Too Much AI Spending. They're Not Wrong, But It's Paying Off for These 2 Tech Stocks.",
+     "publisher": "The Globe and Mail",
+     "published": "2026-10-25T18:19:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNX1diWG5sM0Z5XzFTU0h6Ty00TG5IUTlXSU8yLWd6UFJVM01ibi1SOXFzdGFwXy1BWTZIV191a2Z5a2dVY19USVljNVV6X0tOWUt4Z1B5UWNPejlGTnRuNElfMjhhWnR6N2dERHhObnIzcTZRZExsVEpJWW1XZ24taVExemFMc1cyblhZTnczU0xoOXFidl90ZDdqb3NkZ0tLNzRHcXdVMzFCa2pobjZOVlAxbkpXMGxiX1VRRnBLWDRLbE5tb05NalhBa3RyeGF6MkRzOEh1RU03QWdQbVpDMkg2VklmRnpqdldndjdYbWV4OUJpS0hwNjJWa1BJUVlDZ0ZFektBanlhbllrNmQ2c2ZUamtTM3ZaMEo5VkZRYjRqV2c?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7362304925918579,
+      "probs": {
+       "positive": 0.7362304925918579,
+       "neutral": 0.195648193359375,
+       "negative": 0.06812132894992828
+      }
+     }
+    },
+    {
+     "title": "MSFT Stock Gains After Microsoft Grows India Cloud Footprint In Battle With Google Cloud, AWS",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T17:38:30+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdE9IbEFXQ0RYT2hKYmM0bG96cmpIQ2wwUUFDRkJITzAxdHZxUE84Mi1Kc0xOc29vdmJ2YWVabzR1dV96Qk9mVXBSZEFaQ3lORVJSZTlwUlNndE9rR0dSYnVmaW1VbUdtdXFvYnNfNGV2VEI2Q1JOaUtwUXZzUmJobG4ycnp5MVVjdVl0QU8tcE1YbGh1TFFCZVkzUHhNbjNkeWNHS3pPdUJDckZEQjBXc0lfRHpuVEg2YnYyWGM1TUx5MVhmb2tqZW1oeG9JdHN2dnJBV0pBZmM?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9022836685180664,
+      "probs": {
+       "positive": 0.9022836685180664,
+       "neutral": 0.059788383543491364,
+       "negative": 0.03792785853147507
+      }
+     }
+    },
+    {
+     "title": "MSFT Stock Rises Premarket Ahead Of Q4 Results: CapEx, Azure Growth In Focus",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T17:20:33+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmFFeEcwcFVXRnlTTEpCNEhuMWRiZzlWV3pNQjczcmtqNjNRQllNMlNkenc2N3lEYzdrN2RncDlqcUJEa0dhR3g5T0h6b0ItQlJfVUhmczNsdlpEUUpwSGpOa3I4aUYtWmhId2hfdV9sM1VNZHRXYmNVZnNoSXdndEJKUVRUcUhDXzVTakpGUm1Ub3dIaFpQcldKM3J1Z0hVYUpUMVotMENveXp5TGxTd3lzZFVtM0UzbFZiVms1dDR3azhiNTBKX3ZWVWo4S19qbzhuMl9B?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8414660692214966,
+      "probs": {
+       "positive": 0.8414660692214966,
+       "neutral": 0.13056015968322754,
+       "negative": 0.027973774820566177
+      }
+     }
+    },
+    {
+     "title": "Microsoft Earnings Preview: Can Azure Growth Justify Rising AI Spending?",
+     "publisher": "Markets.com",
+     "published": "2026-10-25T16:04:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45OGJPSEFyRUR5YkZvdEltbl82QmZQanZDMEZTLUwwaUlpSnl6RHdkWlZ4cV9GMkNGLS1xSkRuQVJmUHRia19kbnptZWhtNUYwVlZsOHI1UGRmTklZNW83UEJjTk5yN01VZnpGRlpuVkdfZ3BvZmRGYjFYdG9jdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8429816365242004,
+      "probs": {
+       "neutral": 0.8429816365242004,
+       "positive": 0.11445050686597824,
+       "negative": 0.04256782308220863
+      }
+     }
+    },
+    {
+     "title": "Why Is Microsoft Stock Surging Today? Azure Growth Hits 43% as MSFT Targets $560 Next",
+     "publisher": "TradingKey",
+     "published": "2026-10-25T15:56:33+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3JQMng2OHFLNFd0RTRmZUpBbDBiVVlralZYbHU1TVFPcEdWNS1ZQ0w1alJDRDY1LXFDejZveUprMkVpa3RJMS1qbHpqbUpOYk9qbEZ3bXhoUW1iTWpuNUREeTZ1akxUQUQ5ZGhJWk9hcDJwb3pVbDRZblJIOElQQVl2Tmpma1VwS19oM1pIdnlXM3B0ZUpXX2RSTTA2YVZPUVhxOFJKekV3UXZGeXJUSEpxcE9zLVJPQzZHT01Lb3N2Zw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.6683406233787537,
+      "probs": {
+       "positive": 0.6683406233787537,
+       "neutral": 0.30840638279914856,
+       "negative": 0.023252958431839943
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.18640869595110415,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 5,
+     "neutral": 2,
+     "negative": 3
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "NVDA": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:34.526619+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "NVDA Stock Ticks Higher Overnight: a16z Data Shows GPU Rental Prices Rising Sharply, Even For Older Chips",
+     "publisher": "Stocktwits",
+     "published": "2026-10-26T07:06:12+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUUdfOC15LWlqQWlTdFl3cEhHXy1LS0hJdjg5Qi01NXZqbGpjdXFOemw4ZFhKbTZHbWxuaC1GZWl0V3lXNmlqZ0dXS2M4QzR0UDNWdjl5YlIwSWVESmh1Sk51N1Bmb3ZsRWVvWWhXNXhPdGRHRlJoVkJ4SlI3akp1Vy1RcFgyeWRUY19ySkd2REh1dEFlQ2RBZ0RxcVB2YjdQMkp6aUNtVV9VMlpmWFJva1UxUzBLYkRXOHdTTTlyeHNrYWZ5Z29OQjhzRWdhdDYzSldpTkdWT0s1UXlac0ZESjBWbVltRjdOYkpHbUFkcHZXVGh3Z1hUWXBhOA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9390006065368652,
+      "probs": {
+       "positive": 0.9390006065368652,
+       "negative": 0.03925028815865517,
+       "neutral": 0.02174912579357624
+      }
+     }
+    },
+    {
+     "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T04:20:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFA1bzFTby1DOGNCX2VmUEQzSUJoV1hRbjRxcUR3bmZ4Nk5jclRsdkJ6c2dXZFNYZHAtLVQ4emxnWE0zQUR2dy1rcHVPSk1CN2tVRklkNldSMTVXdWdFV21FNzJPV2FWZkJDNWppRnBaRU1mczhQMDBGLTFkWVl6ajhJSWdGVnc2LUlTYmZGS2NVSlJCR19ob1FB?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9090362191200256,
+      "probs": {
+       "positive": 0.9090362191200256,
+       "neutral": 0.0828297957777977,
+       "negative": 0.008134063333272934
+      }
+     }
+    },
+    {
+     "title": "AAPL Stock Hits Record High As Apple Tops Nvidia Market Cap Amid iPhone Duo Debut",
+     "publisher": "Stocktwits",
+     "published": "2026-10-26T02:57:42+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8515191674232483,
+      "probs": {
+       "positive": 0.8515191674232483,
+       "neutral": 0.07520414143800735,
+       "negative": 0.07327665388584137
+      }
+     }
+    },
+    {
+     "title": "3 Undervalued Stocks Trading Up To 46% Below Fair Value",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T02:09:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzFGMmVHLUJ1Q1JHejI5TDl3UGFmVVdWczY1eVpsVmxZb2d3T2NvQmt1WlBRcFJfeGpxMlpNSjlKTktqNzFvTGRuMDVHRDRQWDBGRVJ6TEJHY01Bdm5HdHhfR3NTRTRscUY4bkoxaXhoUm5Yenl0SnR2WEdVNXJTcnBPTmdvOGkwbTRxaFNpYUFWSU1EbUtuSXYzbFQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.7460922002792358,
+      "probs": {
+       "negative": 0.7460922002792358,
+       "positive": 0.22473667562007904,
+       "neutral": 0.02917107380926609
+      }
+     }
+    },
+    {
+     "title": "Nvidia (NVDA) Stock Still Looks Reasonable Following Its 7x Five Year Run",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T01:06:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnBEQl95MlE5aEpsbU9BdEZKTnVOMzdId0Z5UnloR0JEbmxmT1duNTB1SDl3MU9aeHQ5UmgzeVJYbUdHdFdjdHZRNFlMZGV0ZWF1RlljdWFWTEt5WHo2OXV5MlF3b3pFQTc4VVBEYnh2MGUtRGd3RHpoYS1iT0RHdHFqQU1mWXJ1X2dwS3RxaHBfOExzZG9lSmNn?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9504058361053467,
+      "probs": {
+       "positive": 0.9504058361053467,
+       "neutral": 0.03059084713459015,
+       "negative": 0.01900334097445011
+      }
+     }
+    },
+    {
+     "title": "Top 3 Undervalued Stocks To Watch In October 2026",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-26T00:44:51+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZXVIMjZJcTNkazZDREhXdlg5YTl2WmdPRWdDLTBuc19zMHd1dktiYXNhTHg5NDNLNVVpUjVTVjNOSS1MTUdqV05wZUY5X0lqOG1fU0ROS1FGc1g0YnNuVXBET2VQbXR4djI3R2lPQlY1RTZ1bGFOUGR4QnBJcTRjSEM5WUV1Umo3aXNpRVl6a3dvT3k1S2d6T25VLTlSOC1raUkwekJCdGFlbkxBUTE3YjZxaWRBZG9GSmg3dTZKQdIBxAFBVV95cUxNeUQ1YTJNVzY2RWJ1MDJFbm4walBsMlp3c3RFZTFOQ2hpMlNZYjZoY1hLdnVqQUJENHFkMGhPaU1GTnlPMTQzc1o5cS1mWGp4cWNUOTJJWkJtRjByRndhY0RmQklVZUlERnB4bUJMTVFteUE0QkY2VHV0RVBteG8tczhPZmRPblJ1dDNGVjFxdXVqN0pJbkhna3h0aUJlcWhrTXVKZXlCRUVQMl9EUWJoX3l3YjdSTnV5ekUxaGEzd01pbE1F?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.6373507380485535,
+      "probs": {
+       "neutral": 0.6373507380485535,
+       "negative": 0.18411657214164734,
+       "positive": 0.1785327047109604
+      }
+     }
+    },
+    {
+     "title": "3 Genius Quantum Computing Stocks to Buy Now",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-25T21:45:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3dEMVFyd21SYWwyRWlfemY5MXpOZVEtZlNZejRvMjlCUWdqRW5hMlpiN2dOLTEzcjJEYjRyT2xtWHZ1RWhPNUc4MzdjNTJUTWpmZ3VCdHdyb1lwRm91djVPdm5zdldNUzViaXlIRm1aVUF2M1FxV0hLM3kzeENiX1N6U1F4ckdQLUw4WnQ2b1Q?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9040940999984741,
+      "probs": {
+       "neutral": 0.9040940999984741,
+       "positive": 0.08203687518835068,
+       "negative": 0.013869022019207478
+      }
+     }
+    },
+    {
+     "title": "6,000 NVIDIA Corporation $NVDA Shares Purchased by Palogic Value Management L.P.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T20:14:39+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbU1oNklfTDRzcnFyRXBDZXF0ZWxIaktfcFE1QmFaVXJlNzBxRXRzdG90b3ZkZlRObFNqTGZ4Yk0tR1B0RE1YeGFBY3hjQ2l2Qlk3UTBZN2FweTNrWTBkN1lIbzFVODUtVXFIZ2tWRkdyYlVYZ2JHQlB3akZWcFV0WE1lV3p6RGhCMDZBeGV6TllUZ3BGVkZTUGRCaERqVFBseDJTUUdYdTBFUHllRlZ5TGhKQ2xlN1F6SFNzVGRfRWh2YVRqUVJnWmMyTmFBVUViRXE4?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9418889284133911,
+      "probs": {
+       "neutral": 0.9418889284133911,
+       "positive": 0.035984911024570465,
+       "negative": 0.022126199677586555
+      }
+     }
+    },
+    {
+     "title": "Amkor Technology: Nvidia's $3 Billion Vote Of Confidence Lands On A De-Rated Stock (AMKR)",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-25T19:24:04+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlFkOFVPOUpxTmpqYjkxaTh3ZHZNOUg2aFVPekk0TkVxVjBhRHVpVGdhaEJlbXZOODBVeHJ1TE80UjhFU2tFdFF0dnhtdElIa3FDSnVUOV9JdUZIRmQ5c1pxU256eFdqNlRaZ0NlUXBPSU1mckE3UVZHdFJzNFFlSER4NmNPTTlNZXQ4LVoyRXpHM3NLMTBRMnhaSUFUQk9kVzBWaG8xQjFDeGQxZVBPcDlUNEdkYTd4WGhJ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8500586152076721,
+      "probs": {
+       "neutral": 0.8500586152076721,
+       "positive": 0.135080948472023,
+       "negative": 0.014860432595014572
+      }
+     }
+    },
+    {
+     "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T19:06:26+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXBrdnEtYnZLWk95RmJjZlRTeFR2ZjZDaGM5dDR4VW9KNWdDZjRjTmJidlY0eWExNVJVYUZ2NGJlNlo3NXZYMzFTZkhYeUU4ZC1RSGUzMXhLYkdkRUZXMEt5bVJRY1E0LW52Z0QzaWFYRTE3bDh1SVBMWnRNZUs0dndHVXBXdmZkYjBoRWFsX0p6RG8?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.951200544834137,
+      "probs": {
+       "negative": 0.951200544834137,
+       "neutral": 0.038744669407606125,
+       "positive": 0.01005476899445057
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.22444593952968717,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 4,
+     "neutral": 4,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "AMZN": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:35.487544+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Amazon.com, Inc. $AMZN Stock: Annex Advisory Services LLC Trims Holdings",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:57+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlZzZWtoYlZyeFk0RS05SFdCbGpZWXVyYlRnTVY3QmUzMUNFUnZfRXdyNXI5OW9Sd0JrMzlWdTExUDNSOTZiTHVPNS1PMEhlT2Zrakl0bEVjUExaWE1EWnVWTkRNTUpRODBQNVVSZHhDU2Y0eTI5dTNULW85eUpOVkJsbVpmSmRRMVZINUcxaC1uSVBGbkRlQXprOF9aLThuUzVkaHVrUVN4Y2NjV0xXZGtqbGxOZnVrV253N3lOVk1HUGNSUVpv?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9209358096122742,
+      "probs": {
+       "neutral": 0.9209358096122742,
+       "positive": 0.05572573095560074,
+       "negative": 0.023338446393609047
+      }
+     }
+    },
+    {
+     "title": "Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) Earnings: Can They Save the AI Stock Rally?",
+     "publisher": "Stocks Down Under",
+     "published": "2026-10-25T19:04:28+00:00",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG5TZHpqYkVsSTVEUDhRZGdualhHTnFTSTBtaHBrWE1tUVp1clNEbHFxWEVfNDZlV01NNjYzdjczM3lrSkFiN2E3el9NOHZKV1hqZEFkblVTdnZDN0lrd0tUUXp3Zkk1U3JmX0ZxbktGay0xMWlxdHV4SFY3cW0tcQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7837125062942505,
+      "probs": {
+       "neutral": 0.7837125062942505,
+       "positive": 0.19166603684425354,
+       "negative": 0.0246213860809803
+      }
+     }
+    },
+    {
+     "title": "Investors Are Worried About Too Much AI Spending. They're Not Wrong, But It's Paying Off for These 2 Tech Stocks.",
+     "publisher": "The Globe and Mail",
+     "published": "2026-10-25T18:03:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOHNNYUhHbjI5RldudTJ5dXdKNmZDbkJJVHlxM3dLN2dCRld3VjZmSlQ0UmFPbF8zakxfWGE0a3lwcTN5Z1VUckZkbkpNeGtJQmVNNVZfelhqTk9JVElLeXhrellGb3c2YlI5cW5OWGFwMDRGUUEtSDR4Q1RldjZuTkFIVW95UEJaelo0d2pfMmFHNEJxS3o5YkhxbERTQnVaU3YySkNKMTZYT1lGMnJrWFh5THNoNUVBVU96TzBTY0MwU1FvV09mQkxpZHhSVDc3SmtGNS1TZmZtLTRkSXRRRzZOdHFHaVFsOWsxaHlib1VjeVZYaGFLNF95MUdzMWV3MEVVZEpDLVJxa2NMMWh4UWc3VE1FUjNNUGQ1cmFB?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7362300157546997,
+      "probs": {
+       "positive": 0.7362300157546997,
+       "neutral": 0.19564853608608246,
+       "negative": 0.06812148541212082
+      }
+     }
+    },
+    {
+     "title": "AMZN Stock Rallies Over 3% — Amazon Reshuffles AWS Leadership As Veteran Dave Brown Exits, Dave Treadwell Takes Over",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T17:36:23+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZEdCNG0zaXZFOVVKeWZuZkV3Z0ZtWEpxYkZFZWFKSkczMTVBcDlnYXlIVnZVbzl6WGhzSkl5VmFHbE1weGc1Zzg1UWQ0VkxyaXhOem5iQXBsSEIyNkJtTjhtX2NIMEFnS1ZyZjRoa2hsSUl5MHR2VmFVTVljVGozeGhwNFVvT01xd0Q4ZEFpb3JUMmJ1bHhxVzB4WjFIb1FnbjBnLXRmbXVINnRoM0hvVGhjcnpNczh2VW5QTnNYQms0MERucDlISi11UzN4UU9IaHFrQWtJZy1QWjNWdk85T3ZERmkxTElEN1ZWTXpBVkU2R0VEWWp3UU8wcWdZQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7285048365592957,
+      "probs": {
+       "neutral": 0.7285048365592957,
+       "positive": 0.1643325388431549,
+       "negative": 0.10716257244348526
+      }
+     }
+    },
+    {
+     "title": "Morgan Stanley Sees Amazon Stock Surging 100% with AWS Hitting $1 Trillion in Revenue Sooner Than People Think",
+     "publisher": "Barchart.com",
+     "published": "2026-10-25T17:30:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUYxUlc4OWhyc3gyY1dxUGJaZUhUSkJ2LVlHUzVvbXhObWxDWjFzbzU1Vmw2RG03R05TcTBJVG8yZUdLWHJsQlNTdDJLZmk2YUM2YUZ3bTFta2tjczVwbVE1ZE4tZFR6Mm9zOFV0Zm04ekRaWnY2TjZxSURhMWlfM1hPS1psUkgwTkJJSUZxdi1GUjBjQ2EyQUxfUWdNMjZuNFgzY0NEYXRISHVTWG1wT3RLQTBZdy1NS1c5TDY1ZFRaSFJGOGwxNFJsazMyaDdEZ2F5Uk9fR3lTZDZESktEckpn?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9274599552154541,
+      "probs": {
+       "positive": 0.9274599552154541,
+       "neutral": 0.05697203055024147,
+       "negative": 0.01556799840182066
+      }
+     }
+    },
+    {
+     "title": "The Hidden $496 Billion Catalyst Waiting to Ignite Amazon Stock on Oct. 29",
+     "publisher": "24/7 Wall St.",
+     "published": "2026-10-25T16:42:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRk5GeFJXSXF1aDliN0R3Rk80S0dNQm5sM3RDUW1mZ0c1NFVWVGlWMUpOSGpPSTBxS1B2cWlfNXlxX2ppZ1V1ajJHZlQ3OWtVcU90R2R0ZkFfaElIRU1VYkg4dk5ZbF9GNEpHMENQbm53c01iaE4zMkJ5eVpoX3FOV1BXakVKVkhKMG03R1lDUWtaT082NG1vZDhNckh5R3NrbUxOSFlBTS1iSUNSUmVIZGRTQjczTEU?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9270141124725342,
+      "probs": {
+       "neutral": 0.9270141124725342,
+       "negative": 0.042823974043130875,
+       "positive": 0.030161883682012558
+      }
+     }
+    },
+    {
+     "title": "What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T15:27:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkVZR3d0Ykt1cG5KOE9laUxXc2txMDJWdHFGYWw1ZDZmVnllWGotLXFjM3dqNm9za0xtNUhFMnlzQTRWakZmV2pNY29BLTdUb3RmSFR0bWw5SDZBdlRIVF80ZFBqa2ZXSnkyZkdid09fcm1MQ1hqbk04bkJ1UzJqaTNJYzJGdHBJTlVKaFBYZEg5UGhfRmV4V3l5QQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9273005127906799,
+      "probs": {
+       "neutral": 0.9273005127906799,
+       "negative": 0.0492713637650013,
+       "positive": 0.02342814765870571
+      }
+     }
+    },
+    {
+     "title": "Monolithic Power, Intel Lead 12 Stocks Priced for Big Swings - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ",
+     "publisher": "Benzinga",
+     "published": "2026-10-25T12:30:19+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUc4aUdnZ0MwTjRqVDVRNnlCak5YV3NoMm1QcEpVaGo5TmZEREhEdHBrNUNPNzlZUDdRVlhBV09DN1ZnaF9CY3hDRVdjY1hUZC1Vc20tN1VmRnQydHo4T014VVhqalJBakRCd3VQLVh5bkVCX1paQ0l6X2NJVndKUkd3bG9SakRYMmtaRjZIVF81a1N5ZUJxRU8wRFk4R1Njdk5sTjlBQnNzdHFjS1BuZEF3R2ZCeFZieTFNM3B3MTU1NlR2N3gzUERTNUpvUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8203409314155579,
+      "probs": {
+       "neutral": 0.8203409314155579,
+       "positive": 0.16955839097499847,
+       "negative": 0.010100705549120903
+      }
+     }
+    },
+    {
+     "title": "Amazon.com, Inc. $AMZN Stock Sold by First Merchants Corp",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:04+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3ZFVi1mT2xiX0hfMGRjMHBjc2xmWXNBaERaTmJYYkFmZEstRzh5YklyeWp0NXZyMFpGbTJuNjBLX1p4RzV2dXJHbS1GeWlMRW5kakdDalZqMEdzOTd2LXJDUFhmQzN2T3lrcGlUamZnWGNvakl3a0JobVZyMWRTNnQtNkE2UFRzbkFxVHl0RkNINWx5QzZWSHpkVHdHZlR6UmplWTFJSUtKSDRLRE9pNDc0UFc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9093557596206665,
+      "probs": {
+       "neutral": 0.9093557596206665,
+       "negative": 0.06155428662896156,
+       "positive": 0.029089907184243202
+      }
+     }
+    },
+    {
+     "title": "Amazon.com, Inc. $AMZN Shares Purchased by Weaver Capital Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:03+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjlFYkZLb0RsZ0g4dE02MkRrSm9mXzNZY0IxWjRGemZiWmJxWkplOGZPQnNYTUpKQldoNUVoVmRMQWRSejN4WEpHemR0TUc4dnhKMHBKZWltbUJTRVliV1pCWTF5ZzY4cWtRR0ZkcEotdUEwcHJJd2xhalpxZGtNU3FldnA5LU9iVXRBUHBybHVKalNpTGZ6c3lObGtmTDVZWHB6S1c2RDhuR0ZhbnhRNHM2UTZnUjh3MEZoQnQ5RHl5NmgxOWQ0Sg?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9304459691047668,
+      "probs": {
+       "neutral": 0.9304459691047668,
+       "negative": 0.037905655801296234,
+       "positive": 0.03164834901690483
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.1918833081610501,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 2,
+     "neutral": 8,
+     "negative": 0
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "GOOGL": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:36.443019+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T15:27:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkVZR3d0Ykt1cG5KOE9laUxXc2txMDJWdHFGYWw1ZDZmVnllWGotLXFjM3dqNm9za0xtNUhFMnlzQTRWakZmV2pNY29BLTdUb3RmSFR0bWw5SDZBdlRIVF80ZFBqa2ZXSnkyZkdid09fcm1MQ1hqbk04bkJ1UzJqaTNJYzJGdHBJTlVKaFBYZEg5UGhfRmV4V3l5QQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9273005127906799,
+      "probs": {
+       "neutral": 0.9273005127906799,
+       "negative": 0.049271341413259506,
+       "positive": 0.023428132757544518
+      }
+     }
+    },
+    {
+     "title": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T14:46:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWp2U0RzdHBRTFh6dVpHUlBqb3lxMXFFWnM1Mld3WndRbzRpbXEtbkxLbWw2aFhscGJJT3M5aWF5Q3lLaWJyOVRHUEtKT04yWWZNdUVHWWdhMklva2k3TF82YUs3RlBtVVhxTFBVTjRXc3NCWGtIWi1nX19uSzN5UzJ4TXVMZFJfYkoxc3JORDRhak5LU1lCWnFlbk9SZDRCN3pGYWJORUN6aTIweUE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.6542547941207886,
+      "probs": {
+       "positive": 0.6542547941207886,
+       "neutral": 0.33384907245635986,
+       "negative": 0.011896164156496525
+      }
+     }
+    },
+    {
+     "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-25T01:00:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhBVVFDckZ0UXZnXzdCM1g5NUhkZS16eVVBd29xYmNLcWZmRmRfQkhDSEktdi1nZlhxRkFsaDdPWHVVRVNGUWRMTjlzeXBQUkNDNU4zdmtHZldtZ1Y3NTQtT1dfM19XQjFvUkRYaDdFbFdwdmhMdzhKc01oaDhTdTdzbHV1eThxQndtZ053OXJjcnNqeUo5OA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.934262216091156,
+      "probs": {
+       "neutral": 0.934262216091156,
+       "positive": 0.04165937751531601,
+       "negative": 0.024078374728560448
+      }
+     }
+    },
+    {
+     "title": "GOOGL Stock Ticks Higher Premarket After Taking Big Hit As CEO Sundar Pichai, Analysts Downplay AI Talent Exit Fears",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T00:37:01+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT2d3VDlXOWtOWDQtaDMxVE5ueGgzQlYwRDJ3b25TdzFpcS1XUnl0Z1ZmV1k3OTZMRVZHb0Y4U0V0c2hxQk1wYjVIVTY3SG1ZSzNwSUx5OUVjdUNyTWpxakNZNmJTT3hkZzdPS2FPUnVOTnZSSzU5SFJkc1loUmp3cnFjN3pSTWQ3YjNCOTBTWmRVOUZIWU84YXFZb2NXT2NPX2p6UkxhVDEyc3E1eE5qcFNGR2JrQkcwbE5lSnNMSGhpdWFNS1c0V09sekJReFpYREZqNjA2bTlNRkdGSXVVWXAxUTM4QUVmeXRka01SdXZZcFphY3M1Q0U3SkVVT1NhbWoyN0U1bDhTQWs?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8309282660484314,
+      "probs": {
+       "negative": 0.8309282660484314,
+       "positive": 0.09876319020986557,
+       "neutral": 0.070308618247509
+      }
+     }
+    },
+    {
+     "title": "GOOGL Stock Heads For Third Week In Red: YouTube Reportedly Plans Mega Creator Push To Take On Netflix",
+     "publisher": "Stocktwits",
+     "published": "2026-10-24T21:50:26+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSUxIOE01VFloYzVGaHo3NHpmTjA3T3RfeGE5aG5DaHdzVldtNkJ2LVVlVlREVkV6RXY5T216UzhTZGoyajNWdnExUV9mSlB2aGNoSDctMG9qVzdLT0YwUGZFOTBQdVFYdkFZVDFMTldGQmw1MnhZdVRyQ2JIWGllUkNXTjFSOTVrZEZHeEpyN2RibjFkWW1fdVVPaUFlRGdDeFd2RGduN1lsdzdnaEp1LVdfUldscTdxRmN1bmtEQkxVUFhGLW01cjJsOHNqb1h4UnFtbmcxZi05WEFKN3lyQWtxaFI3YnBhbFZtX19BTzJhYUJ6d1Rzbmp3?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8182907104492188,
+      "probs": {
+       "neutral": 0.8182907104492188,
+       "positive": 0.16676175594329834,
+       "negative": 0.014947519637644291
+      }
+     }
+    },
+    {
+     "title": "Alphabet (GOOGL) Stock Price Forecast 2026: Cloud Hit $20B But FCF Collapsed — Buy or Short?",
+     "publisher": "TradingKey",
+     "published": "2026-10-24T20:01:37+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNna0FPVFVzVTBlNUM5NVVCNU9TLVhBazdFMVhkaFpBelZTMHBGV2ZqWTBwdFhwUVp3ajJLWXVaNTZURlFrRlhVQ010NDZzVTFhblZESDlvME0wWkhhemJBaXlyREZDLXhpckVRM3QxUlA2dW1idHlFQkEtT3FlbEdIb05UT1QtOFcySkRlc0pwRzc2Z25JQXE2YU8zS2JvLUh1ZUxEd3c5a2lETlItcXo3UEN6ZnA0c185SjNlN1J1QzI2VkE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8441494107246399,
+      "probs": {
+       "neutral": 0.8441494107246399,
+       "positive": 0.08765003085136414,
+       "negative": 0.06820061057806015
+      }
+     }
+    },
+    {
+     "title": "Citizens Cuts Alphabet Stock (GOOGL) Price Target Ahead of Q3 Earnings, but Stays Bullish. Here’s Why",
+     "publisher": "TipRanks",
+     "published": "2026-10-24T19:14:28+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHp3eVJETkVCOHpabzh6dEJlNEFyaTZmRllMaElYWjluWnhVWFh6Q3FCdzNYLWZ1N0tncHlMSlg3ZkR0XzJRbXZYMXRldVJDQTZJVjcwdGxHd2Y1VUFZNV9JWVhQZl9MeXJUVXZnLWhxUl9ycVhTVE9teGJwaE5uMnJTeGR1V1Rnai1hYk1JWEpZdTRYRkFBdHdxUDRFQWRTakFTWGZwU2hLeU1WZlF4dUpWbERkV0RXbFFXclp3dEpuWGpC?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.6547057032585144,
+      "probs": {
+       "neutral": 0.6547057032585144,
+       "negative": 0.28203636407852173,
+       "positive": 0.06325790286064148
+      }
+     }
+    },
+    {
+     "title": "Alphabet (GOOGL) Stock May Be 37% Undervalued Despite Fresh AI Capacity News",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-24T19:07:46+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkVxRnNvSERzR1k3NTZVZDdyS29PNm84WVJER2xLdGpaRTY0VEMzejZER2ttZ1c1aTJTa1hhenhyZlN5TXFkV3JTemt3NFFuU3JoREdZaURfUDVkR0tyc1hOeEdMdTJoNUF6RHV0VXF0S19mQWdfUTJTMGlUSmJEajdaZmhpazRGbWRaZ214djVMWGhCbjFYUGtkcW1VMWQtNFNSWGJhNlN5N2REUmtoV19XdWZHZ0tGUXAzclpZX0h6d9IBxwFBVV95cUxQZXctMkhhWkhmSGJOd0NRTVBiRUt2ZUtjZHpPbHprSF93SEJabnpjbFVSa2prdzB0MVlQOEhXbUkwS2M0NHJxUExybFFDZ19IX2NwMDVRNGtMbk5MeWRHOEFiMzdlWGVYaW9MM3U1b1UzNjVQTVRSRW41NG14NjVKdEJMdEU2MEJGODNTaWlaM1NTZnBXeF9ITEpWblhWS2dmc0tkWDdLek0wd0xZR28xbmc1VXE2UTlyVHU1LW5DV256c1BwdU9r?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.6257786154747009,
+      "probs": {
+       "positive": 0.6257786154747009,
+       "negative": 0.3410126864910126,
+       "neutral": 0.03320866450667381
+      }
+     }
+    },
+    {
+     "title": "GOOGL Stock Gains Over 5%: Google Locks Major Long-Term Solar Power Deal With RWE — Retail Sees An AI Infrastructure Play",
+     "publisher": "Stocktwits",
+     "published": "2026-10-24T17:18:16+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdzdiVGMyV2JkbVZWM3c3cTQ1YlFMQUxGOXQ1Wk9YMUNVSlFGWDFhQXBkZzhmWFlUeTA2UGtqUjhSVXJ2bFlvZVhqMGpCZHlFRVhpb2F4TnI0bjJ2bHV2Y1ZobXUyWWRfTGxMS0tNUHhpVl9BS1h5YmwzU3hVMzE2RE5LVk9lNUVaMWh4TndrN3JMNUZJcmFtOHJKWmZ2NDNWVHlXZDJ5ZW1QQU5WYl9ZZEU2RU53YnpHQV9rQ0NzQXpneDFRM19PYzY0Nm52VVU3b1h5T0Jfd0lVZ1UyTTE0b3A3Nld4dHdGZVJLYURDSVBBOV83VG1jdmEzM2hjbkZYVklFaGNCa0JtVF9xZ0wtUy1qQkZhRUw3?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8926185965538025,
+      "probs": {
+       "positive": 0.8926185965538025,
+       "neutral": 0.07864682376384735,
+       "negative": 0.028734607622027397
+      }
+     }
+    },
+    {
+     "title": "Alphabet Stock Forecast: GOOGL Breaks Triangle Support as Capex and Cloud Face the October 28 Test",
+     "publisher": "TradingKey",
+     "published": "2026-10-24T12:03:41+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnpPbjRuMmVRVXFxYkdUS2NYak1jWjRsWUwtUV9BZVdtWVdEWVZSa2k4cmFaU3BDN1MzZk9TLWx3eWJHYmg3a185eVl4NHZaYnBUNkVkMzZIckR4TkJwdzVxaElxeEdfZTNWV3NHRHVrLURpVHZCNTR5aGpuUVFSV3JRTkl6a2JEVnlKZFZPSDdyQVJsOVpRUk53TlR4ZVJxVXM5VlE0ZDdrUkIwWW1hbUxLbks2Zk5JR1pYUXdOdTZjVXBRdDhRekQzbjRpTWNlZ0FlVlBmZzV2TXhSbldJckE3SU56NmFkYzBPTlRR?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.5956743359565735,
+      "probs": {
+       "negative": 0.5956743359565735,
+       "positive": 0.30931800603866577,
+       "neutral": 0.09500766545534134
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.07167101316154004,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 3,
+     "neutral": 5,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "META": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:37.413650+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Meta is giving all its shareholders a new Class C stock, it comes after CEO Mark Zuckerberg told director",
+     "publisher": "The Times of India",
+     "published": "2026-10-26T03:17:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONHM1Y01SdmN4aER5X1VXMjVzZWpwSTdxcHVFOXZyLWU2S25Ma1VmMWtpMDNzMUJKc0xZeUFfeTRqRVNRbmo4TXRwS3F2cVFOY2dTLWw5dlpTOFoxeVNFaTMybGhibWFqeFhTckhMVU1sQ19MVUY4QkxOOWhMRzdtUUxIdzFzSURBMExnUHp6STNlenVKdm1HS1lMS1dOVkNubzBxZVpuOW45SWJNRGMtNVBQQkZ5LUQtY2ZzUl9YTUp6dG82SUMxTGF1ZWFWbm9rcHhESFI3Z3J6TUpNbUExTHdqeE9lS1BnN2dIczVtRTVsUmpkQ0tOYU9PbWFBMTRVSGdFUGlyODRkVWcxSHViX0dMM1h0eGtVbWtEZHlNc0JHNzcxZFpDMtIBrgJBVV95cUxOMl8zbl90MGo3UWNyci1tRlFZT3JrVFJOWVd5Tk1ESXlBV0tGX3NjZmgyeVljSWhmdmdDZ3hZR01jM1A3S3pHb0tmalVLMVVnTE1OUXhhcll6eUQzUHZhREhnQjUzeDlFUl9xVENSY090aFdSalA3Y2FEUEJDQmt5UGNSdjNUZ3NvUHpaNzhKamI2ZTZYRVNJYUhCRE1UZWUxMDAzWUNBenFIYnI4VnFHMmJ2eTJVeFF6dG9rLXFIem1LWC13cW1tLUdRcHoxRXBoM3FKU3pqczZNTTRiSkVFeFdGQ3kwdjNBbjRocjlJVUdsdlpBMjlDTHg3ZDUtMjJrbnpYWVZVcUx5VG01emNEUDZYX0pVVzBqMWlzOTdnaHBTY25sdEJNZ2ZVcENRdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9218283891677856,
+      "probs": {
+       "neutral": 0.9218283891677856,
+       "positive": 0.0666470006108284,
+       "negative": 0.011524568311870098
+      }
+     }
+    },
+    {
+     "title": "Meta’s Cash Flow Turns Negative as AI Spending Surges Despite Strong Earnings",
+     "publisher": "THE ELEC, Korea Electronics Industry Media",
+     "published": "2026-10-25T23:12:31+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSmV2UGxmRkt6WF92UThqeGJETHZCNDdIOWlLcmdhLUZSN3RWb19pVXhqdjVpSmplckpWdjl3MmExWjUtNnhBd2tfcHBDUzBkRUczTUNLN0lEUVJ4WVZxZFBsNkRpcHM?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.972794771194458,
+      "probs": {
+       "negative": 0.972794771194458,
+       "neutral": 0.019225209951400757,
+       "positive": 0.007979974150657654
+      }
+     }
+    },
+    {
+     "title": "Down 17%, Is Meta a Buy on the Dip?",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-25T23:10:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0kzdm95RXlwYjFqSHRxVFZEbTZSRi1uWERiQU9wMmkxQjBQcjN0bzZMcUFHTElYcThtSk1XTHFxX3BxY09aM1U0dHRLRDNUd0gySHJLWmdOV1VEMzdTODcwU0ViWXFONVR2M2J4X09CVng0b1ZuaHVoZmp4WkdQZA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.7331722378730774,
+      "probs": {
+       "negative": 0.7331722378730774,
+       "neutral": 0.22133910655975342,
+       "positive": 0.04548860341310501
+      }
+     }
+    },
+    {
+     "title": "Meta Strikes 8-Year Deal to Keep Mark Zuckerberg in California as Billionaire Tax Looms: ‘Critically Important’ for Him to Remain in Leadership",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T20:30:15+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGFNMjlqU1VtUmwxSGRCcTNubldJbEV1MEtsbDJvdURXMnFOeGU1VUx3OVVjLVBtZVNNYmhURms2eDNreVhjU0k5VFk4THdnTVpxbi1peUMxNi1mSnYzbnFnaUdiZjFoTVI4M05GcDlXTy1ENENzbk1JNjZJcWZNekRYQW9Bdzg3d29ld29tV0cyekE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7282835841178894,
+      "probs": {
+       "neutral": 0.7282835841178894,
+       "positive": 0.2595968544483185,
+       "negative": 0.012119511142373085
+      }
+     }
+    },
+    {
+     "title": "Meta Q3: Non-Recurring Charge Hit GAAP Earnings, Q4 Capex Will Jump Sharply (NASDAQ:META)",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-25T19:13:49+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHJrYjlDRFJXa09tQ1lVX1RKT2VPZXV6SG1BRVlxVGVxbjVYOFlEaWFsbjBkT2FEVUI2cTk2QVh0Zm1iajJrc29wZjVMM2dLYU9OSWVTSUxoa3Z0VkNLdHVKblhTb2NTVXJ3VGVEWDBfT1EwbUNPS3p4QXBzVTJHeHMwNjBsTFZtaHg0OTdyN1h0T2ZRdVdBcUlqLUhSNmNNSVROZS1ya3N0RWNiRDlNQ3FUV3E?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9039052724838257,
+      "probs": {
+       "positive": 0.9039052724838257,
+       "negative": 0.05964381620287895,
+       "neutral": 0.03645085543394089
+      }
+     }
+    },
+    {
+     "title": "Cathie Wood buys $24.5 million of tumbling megacap stock",
+     "publisher": "TheStreet",
+     "published": "2026-10-25T17:30:03+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlZBRkU5RE52Nm0tbXZabUFJdjhLbFZnUy0zYmZCUl9VNDFRRjRqelZvb1JNSENMTVE5U0N3TmhlN2Q2UHpFNEFFSmpfMkxOdWNGSl9COTB6dC04YmdfR21LMWhvVG5YVWxGSzlhUHllcmpaR25ISjlON1pQZ1RIMmhwNjBGTlA0bG51UE4xT3A1b2ZWUmRiTQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9112404584884644,
+      "probs": {
+       "neutral": 0.9112404584884644,
+       "positive": 0.050055138766765594,
+       "negative": 0.038704417645931244
+      }
+     }
+    },
+    {
+     "title": "What Has To Go Right For Meta Stock Now?",
+     "publisher": "Trefis",
+     "published": "2026-10-25T17:00:32+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm4yZVVyZWVlTEtUaVRSUlY3TW1xaENFaUR2RUFCa0NibHh4akluWUdUTHRIOEdRSGlNdW9seDBoRXpCODRyYjZzYlA2SjA5Z3dnU2F5ZE9BX2pULVBLb1pLeTJxNzdNRFI2S1ZZR2xMa0hrQnhnbWFtbjJ2OHhLT3dobU5LQmUtVEdhR0xsTkRWSVBPT01NSklKamxhRkhDRXc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.840713620185852,
+      "probs": {
+       "neutral": 0.840713620185852,
+       "negative": 0.13127829134464264,
+       "positive": 0.02800809033215046
+      }
+     }
+    },
+    {
+     "title": "What Is Meta Platforms (META) Telling Investors With Its Sundial Deal And New Stock?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T16:07:15+00:00",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQellpUEtWaVd5djc3TllEamtxdENZMlFLQnBsanVmZjlpeTRWSjVpTEtzUDRkbzhSVHE5Y2hPQ3ViS0ZtSDZveUNnTHU0RC1jY3hKUEYxbGd1NzRjbWZFal8zR0FUZy1uczROcmVna2dqY2wtdl9lSlA2bE9adk95T01NVV9HbWdxWWpUWkdYc280cmRMY1YweGZKWjRzZTY4bkFpNA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9395219087600708,
+      "probs": {
+       "neutral": 0.9395219087600708,
+       "positive": 0.037388868629932404,
+       "negative": 0.02308918908238411
+      }
+     }
+    },
+    {
+     "title": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T15:57:32+00:00",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDJCNmxsUXlncFRuMjBCTTJ1UVFyRWdjSzBYUFdycDNRcXdMcUFLdnZYLS1MS3NwdGhEVi0tMGhXZ1F3X1l6RHdWM1E0bVdob285UWFYWmdRcHYwUjRZOHBSeld1T2w5cUtGSXZXbFBZaEpQZlNnclNubFgySWNQeWNzXy1lRjFfSlFVLVhRLVdsUl9ZYjdBTExaQm5VUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9065235257148743,
+      "probs": {
+       "neutral": 0.9065235257148743,
+       "positive": 0.07710913568735123,
+       "negative": 0.01636728085577488
+      }
+     }
+    },
+    {
+     "title": "Meta Stock Price at $642.62 as Barron’s Reports a $40 Billion-Plus Equity Raise Within Weeks",
+     "publisher": "FinanceFeeds",
+     "published": "2026-10-25T15:54:10+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VnOUVIUFJ5UWp5N242LS1ERGNRSG45WnRYVng0NjJBOHNQMnhjUFJEcUpQS3ZlYzZDbFVuV1d1Y01VLU1OT0JDd3hhOU9tX0dlTGttRWZULWdieTByelIyZE5ZNGJLMkNUWkVMR1AwdzliT0RUOE5pUWlCOEwxVjB5V3h1Q0V3R0RYYnNYbkZSQmkxUWFXbXN6ckJNRTdmZEh5bXI4enp0VE1Scmd1bGc3QlBKdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8732894659042358,
+      "probs": {
+       "neutral": 0.8732894659042358,
+       "positive": 0.09412229061126709,
+       "negative": 0.03258826583623886
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.046098112035542725,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 1,
+     "neutral": 7,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "TSLA": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:38.473932+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Tesla, Inc. $TSLA Stock Acquired by BG Investment Services LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:59+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0xXcXZLNU9RYk1kcnhhVFY4cEJBY3EzclFRWFNUU0xRZ3d3T0RBRlZTcnBzVmlWS3RCQ3RiWDRIbXBkZVM5M0lxQmpMSEYxYXlvNEpPckZyVnJiWk41NlE4VmN0UjBKMTkyNHhrN1g3UXN6ZldLbC1aVDN0ejhycmZLN09ienhQMzlkVXc0MWJlU2lueFpfTDVSOW9ENWtxVnRUOUh4TGk2WG5wNmx5R1dmdF96bVBmZUd0Sg?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9184129238128662,
+      "probs": {
+       "neutral": 0.9184129238128662,
+       "negative": 0.05478134751319885,
+       "positive": 0.02680576965212822
+      }
+     }
+    },
+    {
+     "title": "Tesla Stock: Fairly Valued With Little Upside (NASDAQ:TSLA)",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-26T06:25:46+00:00",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmVhdFhBT0JoZlY4RlBaZ3VfaFc5QlFSMFM3ejNmeDI3MGlUWEFabnl1Zlh0NmNsVXFtSUNjUjZYTTZHcjRXREJMZndnenZicnNqMkZtelU5S3JObk1HeXdhVVltSTgyUzRZelpxQ1g4TDYxMW1YNEFKNEdkTnFmOTYzODU5Zw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8529444336891174,
+      "probs": {
+       "neutral": 0.8529444336891174,
+       "positive": 0.11069657653570175,
+       "negative": 0.03635898977518082
+      }
+     }
+    },
+    {
+     "title": "TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside",
+     "publisher": "TradingView",
+     "published": "2026-10-26T06:00:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOclVsWVZ6YjYxRmdZazFOR2VkODZFZHhFeTdBVFZYcExqQUg2MC1rNDRSUE8tQ21CWENxeFdmUHFpVlRFVlJnV3FjbzZXTGZMQzB5YUc4azJjZ21RWEd1bFVLQUxvZDFwWndTb3A5akQ4bUhaX2RTNW9tRmhqWGhEMzFVeUpMWE9Fdk1RenoxVGl3N2FtdEt5cmZDN1RCWFJkUFZ1YWtwLWFxYm5lRllxZnFJUjdMMUlzVl9VUjlQb2RNNmFNalZhdlE0SkYtWTlSSzIwOTNpWEdqcWlCcTlEZ1c3VGo5TlpIS3ZtRWY4LUM4dEFISGFFT2xhMVhCMXV3cTBZ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.5066505670547485,
+      "probs": {
+       "negative": 0.5066505670547485,
+       "positive": 0.4508524537086487,
+       "neutral": 0.042496971786022186
+      }
+     }
+    },
+    {
+     "title": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T02:02:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2MwYTVleFZJRHljd2RtR2NWQ2dzMkdteFBTZDNwQlRzeXpuNDNCT28xQmp2VEdDWWoySXhuX3NCM19yM1dmZnJQMHJ2VkFzV2lPcWdocDFCUy1tOVQyOUxVczV5b25vSU13c1VZZ2tjZ3JSWGNXWmRUZ1F5cGRkTzNxaUktRTBtUG9HRzdQSnlmUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8611022233963013,
+      "probs": {
+       "neutral": 0.8611022233963013,
+       "negative": 0.10816463083028793,
+       "positive": 0.03073311410844326
+      }
+     }
+    },
+    {
+     "title": "Tesla Is Betting on a Flying Car to Combat Its Stock Slump",
+     "publisher": "Barchart.com",
+     "published": "2026-10-25T20:21:14+00:00",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmN0ZlRySDZ2S1hCeW1QNHJTNmxRMmY3RmhVbGFteDNkRXBoc2dUU0JWOWxrX1FodDBYbjFtVmdEQzJURW5WU0hHN01uUEpQUkhYTElwbmhnRE9zSzRBSmpaZUZ5aUFjN2xybkt4a1hmcTUwQlotNlc4ZGxjczZMT1JnRDBOSmZMZFhEQ2k1dGw4ell1X1ZGdmdueE5tT0VOTVpwaw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.6778229475021362,
+      "probs": {
+       "neutral": 0.6778229475021362,
+       "positive": 0.29764509201049805,
+       "negative": 0.02453194186091423
+      }
+     }
+    },
+    {
+     "title": "Tesla (TSLA) Stock Gets Fair Value Bump As Analysts Split On AI And SpaceX",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T18:09:49+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVdoNUZtT0EwZl9WNXZhcmE1U09aYjV1RXAzaUpnMUFBMXdsaEhfRkx4V21TbUI5dXp0Vlk2VC1IUU5CUjI2Uk5XeWFlT09kV053UnUyQnh6VHdTaTh5cFNZZmNxUmFIWVN0S2J4aEJ2YnJvU0VNaEl6T1UtM05HY1VUeHNWNnk3aDhma1VXdmdnNDB6eHc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9283835291862488,
+      "probs": {
+       "positive": 0.9283835291862488,
+       "negative": 0.036525871604681015,
+       "neutral": 0.035090647637844086
+      }
+     }
+    },
+    {
+     "title": "TSLA Stock Trades Flat After Hours Following Drop In Q3 Revenue, Earnings, And Heavy AI Spending",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T17:26:46+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGY2WEE3QzFiczVJeURsbmdYNXFWZ0dHLVJ1aE5UR0dTbHJwWmRDSjNKTk9WOU1kckFxcTRGeUtjTnlOWVFxazY0SG9Xb0tKM1lHdWw0TTVCRU4wSmtLblZzMXV4dnIwRWYzM29mY3VuOTl4UFhGV09vRDVsVlc0ckFFZ0o0Wnc0b3dvSTVtNVJiQkhKSXZBSzBxVnFBYTlhQ1Nib3drRTdmOHlIVGUtWDdaQWhnVF85X0ptdlI2SldLLTdyTjk4bVhfVmxyQmhYRElZa3N2UUQ2TTUwMmpxeVJXTU93WFhMRlpLdFAyQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9714075922966003,
+      "probs": {
+       "negative": 0.9714075922966003,
+       "neutral": 0.01895885169506073,
+       "positive": 0.009633535519242287
+      }
+     }
+    },
+    {
+     "title": "Tesla Stock Is Down 17% Over the Past Year. Buy Now or Wait for Merger Terms?",
+     "publisher": "TIKR.com",
+     "published": "2026-10-25T16:08:59+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0xHbWtzRXl5UjFaVDY4Wm1nS1E0eE5rTDJPOV9YOGZiTWhlcDJmcmF2YnJXVzcxM3NLbUZiZFN0OUxGQWF4MWVLaDBncnk1YTVCUl81UnZ1b0FsOFk1NUpGNUpWcVJ6cHFXbG56T0ZDck5SVnRFaW5PSVEwUDluQkRlZmRTQTRRSXJ6djl6OXBINDJjUXdvM1VweW1YYWZTQjBDYmx4MXdlVHdUcWJISzYwaF95Vklp?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9384512901306152,
+      "probs": {
+       "negative": 0.9384512901306152,
+       "neutral": 0.05288733169436455,
+       "positive": 0.00866136234253645
+      }
+     }
+    },
+    {
+     "title": "Tesla Delivers Strong Free Cash Flow, Surprising Analysts - Is TSLA Undervalued?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-25T13:30:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa19OYUhRNW5TOHU4cGx2WmVDckNKcnFxOVhQVGhXVWdSZ3ctZ2xPV3ZRSHVDWHNwNjIyaUhKZUhDbi1uYUxuY18xRWstMlh1LUNWOFBmbHdXWVdWSnNhdUxMeWFfeWJfTTJFVElxMDRfTHh0NktIY0h5djNXYkR6R3VadUpUdUxWNS1yMGtVWXI3a1NYcklrMTd5Nnk?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9319378137588501,
+      "probs": {
+       "positive": 0.9319378137588501,
+       "neutral": 0.04567013308405876,
+       "negative": 0.022392133250832558
+      }
+     }
+    },
+    {
+     "title": "TSLA, SPCX Slide Premarket: Musk’s Merger Talk Reportedly Creates ‘Mess’ — Rivian Exec Urges Tesla To ‘Stop Doing These Calls’",
+     "publisher": "Stocktwits",
+     "published": "2026-10-24T23:52:58+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMC0tenhkSzRDcklQNzg1M0Nsd0tYcERtVTRFNGJtS291by1EVXgwTWZqcmVxa21pZkRFa3pFUFA3RmJNaXBfaWxxQ3ktU0pBTkR3UjV5VHMyQWlQWTFoWnBDSkdscjBFbzRveWx6RXNwR1VwOXR0ZFBvODFreU8zZFZ6eS0tcW5zM044Tm1CMHhWT3JpbTBfS2E5X0NYTWZ3N3dCeHpyRzBOSTY1aTRoRHFLYUV5bXl1eUdoVzZzUFh5dw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9515132904052734,
+      "probs": {
+       "negative": 0.9515132904052734,
+       "neutral": 0.039259493350982666,
+       "positive": 0.009227265603840351
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.0846201142296195,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 2,
+     "neutral": 4,
+     "negative": 4
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "JPM": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:39.385587+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "What is Erste Group Bank's Forecast for JPM FY2026 Earnings?",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T05:42:15+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWkwOGpZQVJ2Y1hfWXdCVFJfMlluNmpGVF9PZkNXVGwxdHFleDlXYW1PUGhqb0xENUZOTjhWWVJFcFVlSVVhNy1yZ3FJZVlXcDBEMFdXMkJrRkV4TzJNX0VCRnc0ODBBMXJ0MkRXUnkyNVFOXzczbmNnRVZSckNSUWVQMWhQUjZJZXhIbjVIRlBYYWZzT2xIMkV0eTNOUW5oMWFobnRhS1A3VmhXN1l4NXA2RnE1NjVpWWZpSE1rOA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9231353998184204,
+      "probs": {
+       "neutral": 0.9231353998184204,
+       "negative": 0.050628844648599625,
+       "positive": 0.02623577229678631
+      }
+     }
+    },
+    {
+     "title": "JPMorgan Chase (NYSE:JPM) Share Price, Forecast & Analysis",
+     "publisher": "Stocks Down Under",
+     "published": "2026-10-25T13:06:33+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwLUpETVcyQmJZN2RZVUdCRXdCOXlWVVVHbW95anpvZm9HbEhmTnN2MWFsM0JpdTRUQ2pXLTBZOWY0ZDRhSERTbEhRSzVLQVdoM3dhdGMzUWQ0WUVnbE5Gcg?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.92684406042099,
+      "probs": {
+       "neutral": 0.92684406042099,
+       "negative": 0.052226319909095764,
+       "positive": 0.020929576829075813
+      }
+     }
+    },
+    {
+     "title": "Crossmark Global Holdings Inc. Acquires 3,114 Shares of JPMorgan Chase & Co. $JPM",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:42:15+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGFYYjN3TWc3cUxNekxTblBjNDZHZ0haYWl4ZUxGaXNQYml6ZTl1MWRReFJub21wRVg5SnRyUld6enZtYTl4cEY4R2dWVWNWdldnWXlxNDFuNXNxeFpUam9uSTJrZE9NcndoUl9scDd5WFFZYjZiMHRxYlJFS1pKVC1XdnZPbEZHX0ZNN2ZDUDJFV0pDWEFvRll6T2lBMm14SFZzb2lWMlY2b3JYV1lfV0l1eGJqYWlFYjc1M3k3bTJLVjZTRVV1WEFHZkwzX1JlQUE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8406221270561218,
+      "probs": {
+       "neutral": 0.8406221270561218,
+       "positive": 0.12933099269866943,
+       "negative": 0.030046887695789337
+      }
+     }
+    },
+    {
+     "title": "57,078 JPMorgan Chase & Co. $JPM Shares Sold by Axxcess Wealth Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:52:36+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVF9MNVhBWjhZVlA4LWtzSGJEbVNuNy1hX09Vb0IwUjJvdHM2UXZrZVJFR3ZkNElNYzVLZkltNjlFcXpKd0Zsekc1TTh1eE43T25Ua3hBbVpqT3p3YWJrek5iLUY5MlBlYVRWNkpqZWFhRXA5ZjZEM241Q010TlZRRnpzNFBoYWd4WUlfdVY2Zm1qaHVHUVNQaDRxRlNETkRWVUhZQXhYY0tqWFJCRHVNZGdOSDRPN2hmY0pkd3psRnNGZ254RkEzVHVJS2ZBdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9357942938804626,
+      "probs": {
+       "neutral": 0.9357942938804626,
+       "negative": 0.03995778411626816,
+       "positive": 0.024247853085398674
+      }
+     }
+    },
+    {
+     "title": "JPMorgan Chase & Co. $JPM Stock Sold by Hosking Partners LLP",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:19:53+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVBTZmJ3Vk9acUQ5M09uVjA3V3plM0xwOWhkcURiVkl6cE5WY2JMbXUyTmkwTkE1RmltaGM4MkQ2VzVsYl9xdkhBbS03NGh3OTY4UllVSkpzbWVocWpkcElOQTQxQ1hDQUs3cG4xdzlwQThOMjZ5RU1KYVVfZEY1MFFLSWhvMVNoeGJzWHZQcHBESlVfSXc0LThNLWMyd2hjQTBVXzg2VXlFamh4bW5WcW5STm5nMGlt?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9281399846076965,
+      "probs": {
+       "neutral": 0.9281399846076965,
+       "negative": 0.038117002695798874,
+       "positive": 0.03374304994940758
+      }
+     }
+    },
+    {
+     "title": "JPMorgan Chase & Co. $JPM Stock Sold by Arvest Investments Inc.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:07:39+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHhtUGxlUnBQcWJhTC1BdnZtaS1TMnJJUVpqZkQ2VkhpWDZ5OUlXWUJQRnpOM0pROXhwZXQ3TlFvZkE0cnhxbTgyc2ROczFZNHROWG5UUU5BTUQ5YWVzSnNyWW11YUt4d1pQTGpqU2diUy1JNmtTU1NrWWI5VVoyd2VZam5OQVhpNnBTRTVidTI5OWdOZU5sOEZFcDJUNGZWLUg3Y0M1aGJvenZCVTgzY09SclRlSEZ3b0Jz?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9281912446022034,
+      "probs": {
+       "neutral": 0.9281912446022034,
+       "negative": 0.044484205543994904,
+       "positive": 0.027324629947543144
+      }
+     }
+    },
+    {
+     "title": "8,807 JPMorgan Chase & Co. $JPM Shares Sold by Guardian Partners Inc.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T07:59:07+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0hXVHVwZXRuTTVVaWt6amQzb0cyc0M2c3NDakJHVFlhMmZLUFhCNHlYWFpRM2l3bUFhYzItNFpSQ2ozNGwtTnRiZllQY3hWcndwWnVsX2JhTHFWZ3FaMFBfMDVXMmpUMFpJOXNpWUZRSFNHczVqQ3lZNlpKMGhzZEdwVDBQeFczUFNEOWh4RWh1VjVVN1VWeTdCVTVMZmdndmwzME9KeXJ0bERvQmhWMjJPLWRPZWFON2taU2JWQkdqdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9288988709449768,
+      "probs": {
+       "neutral": 0.9288988709449768,
+       "negative": 0.048888564109802246,
+       "positive": 0.022212523967027664
+      }
+     }
+    },
+    {
+     "title": "JPMorgan (JPM) Stock May Offer A 33% Discount After JPM Coin Expansion",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-24T14:59:23+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGRQOXFfcmRrU2w1NW1SLXdfM285X1BYUVp2VHNhQzNmbmoyc01FLXVMc3oxd1FXdW5rVDJzS2hvSV9VQUlOMlN1U2tnX0I3RVBJdER1SmlqNUR6Smg0aXFkOGEyNzFRd1JZYjk4d215bXJEOTlMUE9QSTVWYl81TERhNXlUOGJZMWFPangydEhYVEoyMnY5MDBkUm50RkhxaUNzQVJEUEV2VDRjSzlFVEx4QkhteW1fbkZYZzZsUF9ueXg4UUHSAcsBQVVfeXFMTkpaWEJ6RFNjdFRpUXNjQlV4VHVRN1Vua2FLemFycVJUS3ZfdXViWi0yUGQyZzVWNXFKNkJ2eml3LUphWmY4SzR6Q2xiZ2ozUk15TEktejBmU2dqU0JuTmVvTFAyZE1QalZhUDYtekFvNXZqZUVadmZXa3phUV9rM0Z4X2dnUC1jNkx0Wk1Od0pGa2hPQTMxSE5zaE5KV2xxV2p6SWNDcjBBY2lmc1FEbWItZEt0MEJnWnRnTDlmVVQ1cFN4NGd6NF83cDQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7068482637405396,
+      "probs": {
+       "neutral": 0.7068482637405396,
+       "positive": 0.2785724401473999,
+       "negative": 0.014579246751964092
+      }
+     }
+    },
+    {
+     "title": "JPMorgan Chase & Co. $JPM Stock Holdings Cut by Pinnacle Associates Ltd.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T13:15:14+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTkM2bmlrQjZwX2ZHNko4eEhUZGZvTm9CUDNXaWVLdUJOVVRfa1huZVZxRUdmcGRjZzl3ZGtSc0x2Q05zczI5TUpWMGcydVJMbTJYUWR0R2ZtT1hVbHctNlExNlRPVnpFOVZ2RTZHbXhEUTVSUUlWWXI5aHlLXzNEOWpfMkNyX0hTSW9qdVo3clRIZVBBMGFhTnNnY05tQW1qOTUyS0VtSnNxSXRkVzl0WU04QVRla01idlpHLWZ2c1JUQWZNeFVv?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9431589841842651,
+      "probs": {
+       "negative": 0.9431589841842651,
+       "neutral": 0.04328865930438042,
+       "positive": 0.013552377000451088
+      }
+     }
+    },
+    {
+     "title": "JPMorgan Chase & Co. $JPM Stock: Carnegie Investment Counsel Trims Holdings",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T07:23:38+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWRoUlFSZEtLTnhOSVNTM214TDlNSVV1ZXdQdFdYb3BJU0lJSnlhMGdtNHdSS3Q1UXpwRmdPREhvWExQZ1Y5QkQweDM0VF81TVduS29IbXZvNnlrekZueWV6UTc0YTlYX0Vtdk9Yam83VmdBc2dwVFdjdTgzR0N5MkM1WHRNdFFjcTdSQ0pCMklhQUV2ZWkyNGNibjhCeTkyVFJ1eldTS2Y3TUhLc1V5bWRVTl9pVm9pYnZTNzA2UjcwSGU0c1R6aDhIaw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9274314045906067,
+      "probs": {
+       "neutral": 0.9274314045906067,
+       "positive": 0.0448167622089386,
+       "negative": 0.02775178849697113
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.0668873650021851,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 0,
+     "neutral": 9,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "V": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:40.291482+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "16,874 Shares of Visa Inc. $V Bought by BG Investment Services LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:18:54+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVVYwWTZCZ20wYmluREN6SW5sOUIyN2lQTEI3T0JQQlN5YTduU0xtRUFjSzlUQ0NKZTk5NnQ3elRWeFdxUDh0bW5tRzFPdm5xNmMzWkZ5Zld2dmFackx3aTl2b2dnaXp4RUhWYkNzVWdQMmcyNzctTnpXLVNXR3BPLWdhbGZiNGdacWlZdDVPSG5HVkpfTURpMUUzajA1d1NvaFZVTnVEYXhIalZoUDZUTF9iNWpNMXhBQlNJRVJxamVjUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9387781620025635,
+      "probs": {
+       "neutral": 0.9387781620025635,
+       "positive": 0.040570322424173355,
+       "negative": 0.020651543512940407
+      }
+     }
+    },
+    {
+     "title": "13,803 Visa Inc. $V Shares Sold by Sterling Capital Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T11:17:44+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTBjM3RPbVpSQjVtQnVCcWNNczA0bjl3aDBsUi0ydUtlQmxLMnN6Y0RCSjVFMFBvSVJDejB6c0tzZjlwZDdQcGk1cnpkVGtWSGFOWTQwTDdBWm03UDNLU21yMzR6cmFvdlBOZ05xVHQ4Mm51U1FFdmhraVNGY2lZNmYwX0dPUUV1bzBCZ2kwQjF0QTVNT0NDQ2Q4ZllwT2Vvc240X1ljdXV3cjh0TVUzSl9zMm1Qc0VPZW56UElJTkllQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9400719404220581,
+      "probs": {
+       "neutral": 0.9400719404220581,
+       "negative": 0.03377380967140198,
+       "positive": 0.026154275983572006
+      }
+     }
+    },
+    {
+     "title": "Visa Inc. $V Stock Position Boosted by Yousif Capital Management LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:24:23+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFl1dUtaWGRjZ2NHbHVTN04zR1VDM0xZMWM4ZmJfcGQzbXMzYkNWbjJESXJoaEZIVDFYb1FYZVhUb1RHaEY5eFJUVmNPLVNKbkI1eFg4ODdab09uUEJ5UzJoQl8yYXpVdVBLdTNaN0dGNHFKbEhYcFZvUnZOZU9OdnBsZTc2QXJ0QTBIRWs5Q2NfcXpxN09Ya2xfTmFtN2RCWWZncVJmNVJUbnRtVEllYmxoOUNJNFc5aWpVX2V4MlJPd3VMemc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8442673087120056,
+      "probs": {
+       "positive": 0.8442673087120056,
+       "neutral": 0.117185078561306,
+       "negative": 0.038547683507204056
+      }
+     }
+    },
+    {
+     "title": "Visa Inc. $V Stock Position Increased by Gibbs Wealth Management",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T08:07:43+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWxmWlVwcnN5TlRlUDFUSGVaUVlIUFIyVXVVeC15ZHp1SUFlaFB0SDJOMnh4bnJPUF92SF9rWVFPcTNyYWczM01STU9Ca2g2TEVjU2hFUkE3LV9GeWtyV2ZTMlpmWkcwS2dnU1NSSHZSUmtNTy1QZ1FFY19mVGRQaUZTeTJqeXppcEs3UGJ5STRSejN4emNFR1lVamZiSUdZS3NSdDgwU05WMGxzTXh2QVFJMTBGbndYcXhpYlI1eWw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7625797986984253,
+      "probs": {
+       "neutral": 0.7625797986984253,
+       "positive": 0.18389180302619934,
+       "negative": 0.053528428077697754
+      }
+     }
+    },
+    {
+     "title": "Visa (V), What Is Drawing Fresh Attention Now?",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-25T02:52:46+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3ptcmxRV0wyZm81b01YSnhVM3BVaS1XTzNrdEQtQTd2ZG9NZFR6Y1FnMHNTbU1fS3VrVENTX29yUFUybjV6X0hHSnFyUTBIeHE0TDVvNUZhVkI4MkQ5RXpTYnViNG9wMEtOVERYWVVub1k4OHR1Z05lOEJPUXR1MGdlOUp5TGhwaHJfUDc0N2pDWnJHTnd2RWZxbTJOcUVlN3hYOFJGdzZPbmRFZFhBYTF4N0FaVEFlYlHSAboBQVVfeXFMTm96bXJsUVdMMmZvNW9NWEp4VTNwVWktV08za3RELUE3dmRvTWRUemNRZzBzU21NX0t1a1RDU19vclBVMm41el9IR0pxclEwSHhxNEw1bzVGYVZCODJEOUV6U2J1YjRvcDBLTlREWFlVbm9ZODh0dWdOZThCT1F0dTBnZTlKeUxocGhyX1A3NDdqQ1pyR053dkVmcW0yTnFFZTd4WDhSRnc2T25kRWRYQWExeDdBWlRBZWJR?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9176411032676697,
+      "probs": {
+       "neutral": 0.9176411032676697,
+       "positive": 0.043883468955755234,
+       "negative": 0.03847537562251091
+      }
+     }
+    },
+    {
+     "title": "NBT Bank N.A. Makes New Investment in Visa Inc. $V",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T19:43:53+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazZ0dVBPaWo1UE02QXVVLURBTkJaTjkwbXh6R3VmWG1LOEVYc0Z4UkRMdE0wTUdSTDJscGQxcnpJR2VnMUZaaV9GN2tNQWFxbl9iQVBnSXhreWUyX1dSX01LVjFmbXVCeGxpUlNFTE9KNVlJQXdwcW4yY2Y2S2tsWnlGdjZMZmItTko2Mm5LclgtRm41Z2JxclpzSUpzVkFSNl9EMmhsQTlxNkk?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.5200620293617249,
+      "probs": {
+       "positive": 0.5200620293617249,
+       "neutral": 0.46421724557876587,
+       "negative": 0.015720779076218605
+      }
+     }
+    },
+    {
+     "title": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce and more",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-24T19:15:10+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbThUYUxzLWs1bFMzb0NRRkVKbUh4TGs4dXgxX2tnRE1MZEoxR2RLSVU1Qzd3cWloa085SkZjcTNiVEpGVDZvaGM0SlNlWEdiN3hfZHotMUJWVVhsTXJmaDFfNEVhT2ZfemdOUTFZdXdGTVJMbG5BX0k0UEV0T2NINmFCNW9LYU1oNFN0bTRDQWNGM0p0TzF0MGlORHllOHI3bC1aMS1GYkh4d1VZcWNrWUI3azJlLUpDWGh0Z05B?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9502134919166565,
+      "probs": {
+       "neutral": 0.9502134919166565,
+       "positive": 0.029296999797225,
+       "negative": 0.020489538088440895
+      }
+     }
+    },
+    {
+     "title": "Visa Inc. $V Stock Position Lifted by SBI Securities Co. Ltd.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T15:01:46+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlktRjFIODlhWlBfQ05UWll2UmthS0Q3NUs0d29qa0N3eFIwc1UtZkdsUmUxaFgwZTVCMHI5blZWekJFUm16V2Q5Y2VNdjUtMmpwRC02d0U5aV9EV1lndmFPVElSZDFicXNqekw5MGFpS2J6T0MxYklLZklMUGtqSy1IS0FuVUoxM1RUeDIwNmVMaTR4d1JXa3hFT0s4d1FlN05vMXBpWUprQzgtMmJkTlJwU3FBcWthb2c?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.5785343647003174,
+      "probs": {
+       "positive": 0.5785343647003174,
+       "negative": 0.2949603497982025,
+       "neutral": 0.12650521099567413
+      }
+     }
+    },
+    {
+     "title": "Visa Inc. $V Stock: Sepio Capital LP Lowers Stake",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T14:13:35+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0JiWGVuZ1drazV1bzVoMGRObThoQnRCN0JEWmR6WTFRWmVCalZZTmstWXBFQzZZSWphZTJjUGxKQkx6cnVOcWR0dXdhX3pwaUhBakhRcXJNODBmVS1KTFVPMTBYTThyX2hjc0FGSEUyVDh3VHY4Tk96eERVMllnaE5sY1lSMnJyNFg5WGlncFVvWmxrNGk3NWV1VEdYQ1NnblVNeHdPc044N2M?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8545224666595459,
+      "probs": {
+       "neutral": 0.8545224666595459,
+       "negative": 0.08904049545526505,
+       "positive": 0.05643704533576965
+      }
+     }
+    },
+    {
+     "title": "Investment House LLC Sells 13,266 Shares of Visa Inc. $V",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T13:49:26+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOal9vZHBuTVYtU0Jla2JwMWdIR2pvQmhMS2dTOUpwZmhJZFpzUGN2ektibWtJR3dUOHNZSENLYXI5NmhfaUY3TzB1WnpKSTVPMTR3eVFzbDczSkRQdmlQVTRxZ0Z0T2hhUkVOVXc4dzRjOGFxLWlKTGJ6eVZmSnlDdV9wRnRaS085OXFPX0pCbU12MTMtMnRlTWFoNU9CQnhmTEdsUGtKdHpmbUdfOWRFMk1QT28?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9370145797729492,
+      "probs": {
+       "neutral": 0.9370145797729492,
+       "positive": 0.04519873112440109,
+       "negative": 0.017786676064133644
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.17453216705471278,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 3,
+     "neutral": 7,
+     "negative": 0
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "AMD": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:41.208579+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Advanced Micro Devices, Inc. $AMD Shares Bought by BG Investment Services LLC",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:59+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWmdrUDdXTE9tU2dYWkxFTXkxZEpiRXpQYnFVVDdnS0R1dktzWDN6MmYwZ1N4b0lVZGU3NndlWXJFZnI2eU5OSk9GZzRqUjlUUGFEYzMycFBFZko4b3h1aERTYTVQRXU4RmY0Zk1nY0wycXVsMXFSeTd3MDdVNXFzTFRNb19COUNwZHpvMkhRZEdBSV9oM1lHNXdDX2VWa0RhMFBjdkE1N3MwWnJCLW9OTW9VWkVpZ1pjWW42bFFvNjBxNzZNSEMtYkZvcEZWcVRF?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9315234422683716,
+      "probs": {
+       "neutral": 0.9315234422683716,
+       "positive": 0.039465852081775665,
+       "negative": 0.029010716825723648
+      }
+     }
+    },
+    {
+     "title": "Advanced Micro Devices, Inc. $AMD Stock: Bernardo Wealth Planning LLC Raises Position",
+     "publisher": "MarketBeat",
+     "published": "2026-10-26T07:24:58+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFhjTEd6cTBRVXRDY2xYcDRCNV9EWGFQWHpXVWNiSlBkRW4waC1lMlVLVWFkbWV6aS10M0dVVFh6OGM1Ym9DV3ZUMGdmNU42OG1HbWo1SjdLd05MMWtHU0U3MDIzZlN4SlpSRC1kblVyWExTS2YyVXFoT3l0bG1JZlRvZlpKaEUtNzdrNVl2UGtCUG13dHYxbWJVXy12OWRYb2FleXAwZFlLM3dzclo0X1FJT1ZiN0hJem9BNkdreEk2U2owWDdnWTcxYmNPbDF0OV9RckJuZmpUdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7924796342849731,
+      "probs": {
+       "neutral": 0.7924796342849731,
+       "positive": 0.16900654137134552,
+       "negative": 0.038513850420713425
+      }
+     }
+    },
+    {
+     "title": "AMD vs Amazon: Which AI stock has the stronger 2027 payoff?",
+     "publisher": "www.techi.com",
+     "published": "2026-10-26T06:39:18+00:00",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Na29BV21DRzJJZU16THlCOGdfbXBMZlZJNnRsLTZFT0F2SnBqclNwbHFjVTh6VmVCMXJNTEJIdXF6R09lSEVkT3JFQV91a1FvRUQ0VkFsanBWcTB4Qm1QVVlNMG1mV1NKS2pMUEthZG9KbXVodkdZZThfMEtDUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7801985740661621,
+      "probs": {
+       "neutral": 0.7801985740661621,
+       "positive": 0.20398172736167908,
+       "negative": 0.015819640830159187
+      }
+     }
+    },
+    {
+     "title": "What Changed In AMD's Story?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-26T05:06:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmdVR3FQaUh0QjNmUjhYLUlmelVaZ083ejN4eDhfTU1zdHlEZ05hRTFOZ1M5SFZtQ1YtZWN6VHBOaDZNMTRET3Z2ZmF5WDRFU0l1bDRMMTdFemNXOU15QkF4MVp2QmZMNHh6N1BCVUoycHlZZl9uUWU0UjZldUV6dnUyOGRLNE5EdVBn?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8729389309883118,
+      "probs": {
+       "neutral": 0.8729389309883118,
+       "negative": 0.0939788818359375,
+       "positive": 0.03308219835162163
+      }
+     }
+    },
+    {
+     "title": "Chip Stocks to Buy After Their Worst Day Since June",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-26T04:17:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2FDNHZJTHZoRkN6WElrMzhmREJXRzI1WTh1cmN0c0dYZmYxRVdvZFZ2UGhkRDEtTDNxZzRybnpTMVVzbUZCMVNsOG9YcXJVRFZGSEQ5WXJYYmlrYVRkTVFsc0pHV3VPZENjcEtjSmNJSzNLYTRWWllnUnc1R2pCQ2xzVGJrZ0VWdDVSY21MbHF0Sk90TjQ2MzVR?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8230321407318115,
+      "probs": {
+       "negative": 0.8230321407318115,
+       "positive": 0.13829289376735687,
+       "neutral": 0.03867490217089653
+      }
+     }
+    },
+    {
+     "title": "Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-26T00:00:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjlOLUREU2p5Y1VMLTFCUEgxb3pETFdmWmRua0RrV2E2VDIyb0MtdXZERDBBUVJjTWlBNUYwQXZsSm0xTXljZXNRRkVlUHhGbHBZOGJqbzJqczBFYk4zV29GZm10a1NkYlEyQ2NtSXpuNGhraVNwR0VNNkZnVnZMX0dPLU81ZGpiX2ZsYzJEd2xELUcyWk5rUw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.630951464176178,
+      "probs": {
+       "neutral": 0.630951464176178,
+       "positive": 0.3600754737854004,
+       "negative": 0.008973119780421257
+      }
+     }
+    },
+    {
+     "title": "AMD Stock Is Up 131% This Year. Here’s Where It Stands After a $1 Trillion Run",
+     "publisher": "TIKR.com",
+     "published": "2026-10-25T14:37:30+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa20wTUltekdDZHNEeXlhNjZacjhrZE5jLUdHY0x2eWExOEswbWtsU25yU0huYV9hT19icWVrNC1YRGZaYVVJc1E5U0JrSENsMnFudGZYdFdDTmJlcEdud2t3QXdHNVlldW1RN0pNYzFuLW9yTjNOY2w5aG44bFZma3FiM3ktTVZVTWhoZHhEMkJhSWZ0M0JFWUY1SFRYcS1fYUE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8119437098503113,
+      "probs": {
+       "positive": 0.8119437098503113,
+       "neutral": 0.169464573264122,
+       "negative": 0.018591685220599174
+      }
+     }
+    },
+    {
+     "title": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-25T14:15:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV19lUHYwU1N2d0lVanRvN1I1UzNSMVZxUEdlcGJsZW1VVUdwbUhvTkVPRTJVY2lnMHRmOFlpN3d4VXRqcHBnWVg5N2lLYmVZTVR0TUJwMHZCcWxpVW5PcUd6ZENIeXJhZmJiMDRWeW5rYzNrRDF1Vi00VkR5MF94SUtZd3hmMHc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9292362928390503,
+      "probs": {
+       "neutral": 0.9292362928390503,
+       "positive": 0.05888275057077408,
+       "negative": 0.011880998499691486
+      }
+     }
+    },
+    {
+     "title": "Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD’s New AI Blueprint Has Everyone Signing On",
+     "publisher": "Barchart.com",
+     "published": "2026-10-25T14:00:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2diNGt0TW1ZUUlXdjNzdnk0SkF3MTd3cm1taWR6dkUwNlZ6OTBFN2YweTVDbFFDcDBjNExrRFRRVVBMVEdxd080YTlrRUhxVVN3OUFsUzFwM0JkRkNaVkstcDlFdS1Mc0VWVHlJM09xSjAxeDIxU1E5RGVCNkVZWF9ES0JycVdSQURTSHBodWJVVXNLYXZJTGJKS0lEZThSVGNuNnFoTUhoZmZ3dFFxTnRRRmFETnZtaDVrSGZTeERRRW1j?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8655971884727478,
+      "probs": {
+       "neutral": 0.8655971884727478,
+       "positive": 0.12314426898956299,
+       "negative": 0.01125852856785059
+      }
+     }
+    },
+    {
+     "title": "Advanced Micro Devices, Inc. $AMD Stock Sold by Wedbush Securities Inc.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-25T09:46:32+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpsX1REUDctRzV1NlIyUnBjS3ZzVmtGd2E4RG0wNzVDOFZ0VjB4VG1KTEFBeU5UbXpmWmFrSVNPMEI4Z0RpV3lPb3dZRXBrdmZyUXhUTThNbHRPWllzS3FNVlNSZm9jZnVRalBfUERTWUU0VWM5dUZzMkFVSGZza09ndGpNZlJfa1RkWkZDVHUzaElKUlVzQVNLXy1Hc1ZkUGRjUklHeWx1cnc2dXRBZmtHSFRCV2ZLNkNzd0tpNkkxLXZtdmV3?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9337920546531677,
+      "probs": {
+       "neutral": 0.9337920546531677,
+       "negative": 0.04110543802380562,
+       "positive": 0.025102537125349045
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.08708129525184631,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 1,
+     "neutral": 8,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 102
+   },
+   "sentiment_error": null
+  }
+ },
+ "SAP.DE": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:42.087503+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "SAP stock at EUR 213.60 ahead of the Xetra open: enterprise software slightly lower",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T07:20:16+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUMyNlFfWl94TXREZXlrcWZfQmFKMTFSTUFEM2Vvb05VQlJLUVBRTGU5YmJ0OW02czRZUWlzV2pqZnVqeTZfWmlIYnNKVEN1MHZzTWliRElLNFVxbzlOdHFjRFZ3WEtCVWZxSWt0TUIzblB1dHdyTDNmWjFwOFQtVk1lMjdqcFhaaW1nc2VEYWVQMVU3eXhwOWpkb2trNmEtLXV5c2ZMRkFRTUVQcHppX1RBcUtLNUVnU3JibkZlLThaWFZEZDhsa09wQXlkV3hFLTVMeTVFdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.7663002014160156,
+      "probs": {
+       "negative": 0.7663002014160156,
+       "positive": 0.17161397635936737,
+       "neutral": 0.0620858408510685
+      }
+     }
+    },
+    {
+     "title": "SAP Wins Two Broker Upgrades and a 2030 Support Pledge — Neither Moves Its Earnings Guidance",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T19:11:11+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1R0UGFOY1l0bXp6RldpWnpvMlBGT3VWTndXSzVjTzhMQjVibE1vU1N2U25zSlkwbVdoMUNSYVVVcTNDTXBhYS1SaUlRcnJyMVdBUTRMQUZNS2pVcFo4cXFrMElsOUJXeS12X0taalJiNjZfTE5yRktHTmItYnk5aXJMS2N2c0x1aVg3Qk4yemdjUFhQMzkzR0JabTJFN1pUOHRiVUp3dG5XbzIxZFFGQmhXVXI5eGJLcERBSERkOWRQM05DVUR2c0tzTThaZjgxdkdJLUpab19zSFdlcWhqNnNLd3FhRkNSR0haWEtXZmtLcUNE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9210547208786011,
+      "probs": {
+       "positive": 0.9210547208786011,
+       "neutral": 0.05112419277429581,
+       "negative": 0.027821121737360954
+      }
+     }
+    },
+    {
+     "title": "SAP reports third-quarter cloud growth as SAP stock trades at EUR 212.93",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:12:48+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWJHLWprV3VINVJ5MUU3M3c4c1UxdmZLTWlmMFNlMlU4aG1FZTBwOVhzNTl6UWc3LUs3Y0RYVFA1SkF5YVVkNFltRjYyVGZPYTZ5emcyZXpFR0QzbzBtQ1h3TEVaNTZZSlUxaXFwcjZsMExEa3FaeHRWUnZLRERQc3l0SEFuMVRaVVV5WXF3c1lxSjZlcm96Ml9NaVljWGtMUGtYSEg2NVEzNUU0Q2cwSXFEWDdLT3pkXy1Hc0FRdmhyOWJrcldscDd6Q2Q0VjRG?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9358503818511963,
+      "probs": {
+       "positive": 0.9358503818511963,
+       "neutral": 0.03420313447713852,
+       "negative": 0.02994650974869728
+      }
+     }
+    },
+    {
+     "title": "SAP's Cloud Order Book Swells Past €24 Billion, but the Profit Line Stays Exactly Where It Was",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T13:01:12+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMUJ3N1hlYW5kNVN6ejViaFFVcFVWMEk2RVVWdldFN09KNUlZVmQwTkUxNGh6LTdLa25IOWxtbFYtQm1iMUtnMjZjd2NZeDdvbkpzMlRaTFRYSHJjY05Xc1hteWcybHZXUF9hOTVnZmZWeFJsQWxvOTZzOWd2RWJxTEt4NXJaSlJmbUxrcWt5X2JieDRDMnRMS0JvT180UFBTWGtHQ0lMR2I0NzdLSVNXSS04TzJYRmlDZ1otTUJZX0NxVkM4U2xwVGRIWDNsTDRZU2wwdUhWcEZjZXROQWZBRXRkTTNSLUpMUzZwMHk5NDVOWGZvSmxR?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8960450291633606,
+      "probs": {
+       "positive": 0.8960450291633606,
+       "neutral": 0.062235794961452484,
+       "negative": 0.041719187051057816
+      }
+     }
+    },
+    {
+     "title": "(SAP) Equity Trading Insights (SAP:CA)",
+     "publisher": "Stock Traders Daily",
+     "published": "2026-10-25T06:29:55+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVlNZmdSSVJMQUMxZmMwRlVsM2FhYWxFZ1VsR2ZIZkJVZFdtdUkxenplOWZScGZ6ZjlXdmRpZXBibm02NnVxUmJscEkwZ2NadWpSaThodnNwZE5tMWc1MVl6SDIyRUMtVkEydmNfNXVEdGxZanZMS1pObVM0U3k0UWNFeHNHV0xCLWdTQlpR?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9442063570022583,
+      "probs": {
+       "neutral": 0.9442063570022583,
+       "positive": 0.04018976911902428,
+       "negative": 0.015603805892169476
+      }
+     }
+    },
+    {
+     "title": "SAP Pairs an AI Guardrail Story With a Cloud Beat, but the Payoff Stays Unpriced",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T06:21:04+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWkpnZ0FRb09BV25abWhuVzIyZHNzY1MxeWJQOUxucHFXa1hVR1Frdm5QNWl6R2xEanFNTjQzRmRyRmxBQ0t6Slo0bXZ4TDdfcWJDcmt5SXBhZFQ5c2xuTEZ1aFV5UnVlVmUwXzNraVN4ekJMVk9iYkd6akdIcHZobzlVcEVSMVZzaFNVMTRfdUlSbzFuVTZBcFBVRzZwbEJpRVpxRFdrNUZPTkJFMmR1UVU0UlBSOENlMmxNYUVINTB3MTRvczZmbmVyS1oyWWp5cTQ0ZVlCYmJMZjNoVWV3ZktiYzBmdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8656697869300842,
+      "probs": {
+       "neutral": 0.8656697869300842,
+       "positive": 0.09382039308547974,
+       "negative": 0.040509775280952454
+      }
+     }
+    },
+    {
+     "title": "SAP: 3 Key Takeaways for Long-Term Investors",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-24T16:40:37+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeWFBdjB3eEZOZy1UaXNsZGtudFpKdDVLeTMzVENwb1dQakNoTDc4ZVhDUmxPcGhHT0RhWFhXY1hmTjhNc3REVmdNMGxmUWRFQmpSemt6YThBeXZCN0loMEJmR1g4alloYlByTlJWOVFQX05MZmVFN0VDMXpMTGt0VjNxU1NRcVdUQ0VRd1VIdUlnMkU?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.829901933670044,
+      "probs": {
+       "neutral": 0.829901933670044,
+       "positive": 0.15777257084846497,
+       "negative": 0.012325495481491089
+      }
+     }
+    },
+    {
+     "title": "SAP Lifts Cloud Guidance to Top of Range as Backlog Growth Faces a Fourth-Quarter Test",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-24T10:51:42+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOURFTHg3REc1V0ZsTTQtVTRXOG0zY2gydHNuR1dfdW5FejE0YWhRSk1MQXhRMHNQbE5rS29jR0NyU3JFVHZHc2NtU2xzeVhmZWcwbThwZ3pQUV90ZVZTS1hkM0ZYRTB5TlZCQk5UUkxSZ29LVkM2eXpZX0dQeVlNR1dqbTJHNVoyQlFrVk4tOFFhZ1VwNFJ4NFJKUXFvQ0NBa250dnVZNnptelpoeWg2SDNfYkFSVnJjb2tqdDdtRjZvb3Z0UFRyWnVDZGxudlpaM253Q0M3SGJSVk05eEh1M2ZyN2lxMEZIeFVwOGlEcw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9142600297927856,
+      "probs": {
+       "positive": 0.9142600297927856,
+       "negative": 0.057881519198417664,
+       "neutral": 0.027858469635248184
+      }
+     }
+    },
+    {
+     "title": "Vertex (VERX) Could Be 11% Undervalued On SAP And Oracle Tax Engine Wins",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-23T20:22:39+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1JoX3RNYlZvSWNWUGZfa0VXdUx6X0FrWmFWNjJlM1ZWdXBvYXV6S0RaQURmVVhranhQRElfTmMta0Q0TjJtbnF2U0h6Tm5lWXdNNVRVcEdNMU1SeGFSeGh6bFZMak1GMm4tem05ZUNDVTZlcmF2LWxWRUEweUJ5aEJlc0YwNnh1R3diOHNqNE12QW84Vm1PQkJMc0hwcFVjV2tTZ1FWZFJqNUttSklWdU9hN2hwVDdCSXdkSGQ2c3V0MVHSAcgBQVVfeXFMTXljX2o3UzlSQWRFYlVHc1J1akJCRFpUMHdLNXZOTE9GX21MaWR0S19HRDRVVFNUSjJzNDBEM0k4bENzazgxLTJRdUpyR2xoeG9mRHVqd0dHeFRhakpCSnhEcHlremJDUkRzSzlsRnJEZGNXWFlNVC1kcTdrUEF2dUMtaENBX3V1Y1lyOTJ1dGRaTDNpMjR4YWkxSWtUaVhWWEhXcnJGZW9MQzVIVk1pQ2U1ZklkdnZtcnZfakpqRGY3ak5oOTdKekY?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.6506356596946716,
+      "probs": {
+       "positive": 0.6506356596946716,
+       "neutral": 0.21927832067012787,
+       "negative": 0.13008594512939453
+      }
+     }
+    },
+    {
+     "title": "SAP Puts Four-Fifths of Product Development Into AI, but Won't Put a Number on the Payoff",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-23T11:11:10+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaFlVb2hiXzJVN0hJejNvaThlOS00VmQwWWhEZ0JZa2NtWERva1J3RHIyWFFQcmx4VG50eDNSQ0F5UE9ZTW9JOWI0aWVMTDBUUXJCdGFyX1hwQ3gxTFNLdG52QTNGUkU2ekJQVjNTOUVhcEpKVUJRb2ZxSU04bXE3UkJqazV1T2hOcWgxemZmSk56UEQ2Ul9mcUZOVTJlZUFuRUlYeThndmJLQi1CaDk2TXJiREx6Wk1FNG5nR29penVlelN0czlhbEduRFlTRERYeGh1MTJYN1FnZVhHS3g3bFZrQ1dUcjl4S0xLdnlDQmw3dw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.935111939907074,
+      "probs": {
+       "neutral": 0.935111939907074,
+       "positive": 0.05232289806008339,
+       "negative": 0.0125651266425848
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.3698806741274893,
+    "label": "positive",
+    "label_de": "positiv",
+    "counts": {
+     "positive": 5,
+     "neutral": 4,
+     "negative": 1
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 96
+   },
+   "sentiment_error": null
+  }
+ },
+ "SIE.DE": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:43.177002+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Siemens Healthineers stock little changed pre-market ahead of November 5, 2026 results",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T07:20:45+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ1RoLTBfWFE2RXZPNnZEUHgwbHZ1UFhpYU9jVUIzZ25HdGdyOFUzdTMybkdjWW4wYUlTd055UlhTNkVFRzJmNDI4V29fN2lxU1d5RFJUS1p3ckkzNXQ1UmVLdUxlWk9xZEZKazdNV0tOTWk5T2JuZkk4QjdXSi1rc0hQVzAxYTF5VFNSaGlBNFRyRzdjWXRRNy1tcVlaY2pXeWpLU08zWmFWSFBuQWZvNTNtNlF6c0w4Z195Y3d0RnlCNVZQNlZUbTVKWWZZNEQtR3o0U1NxRTdpaTQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8840020298957825,
+      "probs": {
+       "neutral": 0.8840020298957825,
+       "negative": 0.07633120566606522,
+       "positive": 0.039666809141635895
+      }
+     }
+    },
+    {
+     "title": "Siemens Energy stock pre-market at EUR 118.21: energy group slightly lower",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T07:01:34+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTlpbEdIWklRUXZ1ejlzZUM2NWx4WHctemdWX2pmd1hKNUR1dkxLbmJFU2dfZ3dMSDdQZzFwTzYyWkx1TWl5Qm9vZ0dkRlgwNXg1YmlTdWdRbEgwTzJreDBMUnJOb2dTTU9pWm5tZ2Q3LXY2TW9HZm5lSC1Sb3NWY1FqWEdQbm9DMmt6M25Ma2ZqX1FMSGtPWXJOMV9kOW95RmlCV0tZd0U5VUVNQ2dzN2EtYUp4RTdjQkFNek9aLWRfTHZGbWtqcVhQQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.93310546875,
+      "probs": {
+       "negative": 0.93310546875,
+       "positive": 0.042208828032016754,
+       "neutral": 0.024685628712177277
+      }
+     }
+    },
+    {
+     "title": "Siemens Energy: A Multi-Year Turbine Backlog, a Steady Buyback, and the Margin Question Analysts Can",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T06:20:33+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLVRqLWxGVXRVeml1dk4taVVVWXlZUER1SzQ0QmpSclJKNjUzcGFFelBmcS1SbUtTZ0ZSZXRzazJsVzVMRV9tSkZyeXhxeDF2WXppOFh2WHdib0Q2cC1vRmVqSkNReE5jQzBlWlB4WFBWSzhVWEJzMlZuOXFacmRSWjZRejZaSWFwMk5YSU9GdEN4bjhLdS1SWHlCWGZISUdkVnc3dnFMRTdfUTZVZzdKSHotLUVCaXZ4R21ZcF8zMUwwLUpVenVnT1ZZVVE2Sl9pREJKTFZkVQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8538821339607239,
+      "probs": {
+       "negative": 0.8538821339607239,
+       "neutral": 0.13055361807346344,
+       "positive": 0.015564272180199623
+      }
+     }
+    },
+    {
+     "title": "Weekly Recap: Erlangen €500M AI upgrade and XETR buybacks of 4.86M shares",
+     "publisher": "TradingView",
+     "published": "2026-10-26T05:00:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHdjakhCYktNM0VXeXlraWFYQ2J5eFFld2d5SWR4WGhmTnpHWWFuVEVDY2tGSjZRQmRVMkczc3M5ZTZ1aWZ4UVJsMnBmUjdLaVdnMnE4ekVxRXlVZ2UxRDRjNW9QYXctR0ZTZjlGYzY5WUdDVkxDa2J3MHNyOGtnUGdVcXFpZE5NSkxzeS0yZ3ppSjd0V19LR3dweGZaR1l6RDFHNEdsVVZWRzRoQjJpa0t3Um1sQ1ZmSmFFaTFkWDZUc2JQb3M2T1I0bnBOUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8986181616783142,
+      "probs": {
+       "neutral": 0.8986181616783142,
+       "positive": 0.08109203726053238,
+       "negative": 0.02028975822031498
+      }
+     }
+    },
+    {
+     "title": "Siemens Energy: Multi-Year Gas Turbine Backlog Meets AI Cost Discipline — and a Buyback in Between",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T03:21:03+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWXdZeTdzTnprSUFxUjF3cjRhai1WU212YjV1NnBpZW5RRU1wUHdzcVVhWmV6RGxjRGl0WEtKTnFLOUNoRXZzNFJuQTBtRFZ6U2dISDlzRm1yUC1VcjNoWEc3eXIzc3lZYXBBUzl1T0xTR0pXa2MtSFdhOXpxSUxnQ0dSUTBvUGJWM3RLZUlMb0k2WG1xNXRodGFZTlhiSW0tWWtWMDVPdEZna3BMdktid1ZOSzc4dFBoU29kNmF3NnU4cjg4bzlsb185NERsVXlVNVctT0lhRkxCVnBqajVHeVZhbXFBUUlJRm90SDRxc3VDb1ZoeG1jWWZiQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7865080833435059,
+      "probs": {
+       "positive": 0.7865080833435059,
+       "negative": 0.11129650473594666,
+       "neutral": 0.10219544917345047
+      }
+     }
+    },
+    {
+     "title": "Siemens Energy: A Nigerian Transformer Order, 3.2 Million Shares Retired, and the Sector Cloud That",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T19:31:28+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZmpUa0xlZF83N1hzSlFDa2p0ak10YnEtcXJqek83dm1mY2o5SWNENDdfQ21oRmlUZXdBRElJSDQzUkl0dWpkbmFsc3RNR3Y2NU1Ua2hGcDdSVDRqZ19zLTZiUTRaMjM4cU8tMnF6eDlRenZ6elFBS0lFckpGbnZQd3U3WWk3S04zaVpXQjlxMDhibmFvbkVMbzhpT1ZUbHhKcl9ZRFFabkFHNHBkd3Ftc21pbTg3RE1qT1J6ZnpndWw5Si1pQlVSYV96ZUZ0d09kNXg3UXRTQl9POE5hOVdOVEtCOW5ORkdXMzF6bWJWeTFMY3E3RzZGaW1yT2o?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9092339873313904,
+      "probs": {
+       "negative": 0.9092339873313904,
+       "neutral": 0.08014869689941406,
+       "positive": 0.01061736699193716
+      }
+     }
+    },
+    {
+     "title": "Siemens unveils AI factory tools. Siemens stock trades 0.29 percent below its Xetra close",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:35:35+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSnhFTjhveU5VSl9aNHZ0VkZ1b1d5cVJ1MmFqOWh1aWU4enNzREQ1MHYwQ3Y3OE4tUm5aUHhlS1B3aGtESFlrY2ppeG84Yl93cUY4SFVfTTBqbVNjOHJLMEN3SU1xNTlGNHJNMjB3LXNuQm16QnJzUDZ1bHd1YlR6OFNJNEpoVHJZTTNNc3JxM1VIZWU4MV9HWmt4QmV4SFB4bGM2dHNFR0NURVNnM1A0bF9yYUlNMEpPRXMyOWt5TmJDdzZacjNOLXVCcGFGdkpnNTdNZmZudkVrXzhSeDJBMnRuOFJCQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8659963607788086,
+      "probs": {
+       "negative": 0.8659963607788086,
+       "neutral": 0.11169326305389404,
+       "positive": 0.022310398519039154
+      }
+     }
+    },
+    {
+     "title": "Siemens Energy announces buyback of Siemens Energy stock",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:15:01+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEh3eDJnQjhiYU0zZ08zVzkwN3BGMVJiOFVHbXdQVDFZa05ZLTg3R3ptcHY4bVlSa1FaaDVjOFZVU01uRjc4M19GT1RhWUVaOEk1OXlpblhCQ0pUaXZIcUNRTFZzbzM3dkRkSl9GYUc3Z0ljV0E4RnF6aEFwT2NfRHJFMmNNY0VLQzVqd2otMU5aQWZsYzVHTU82OV9UZ3N5MGM5TkFyUkptX3AtQ2RDN1pjOFRSOTRwNEtF?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8996940851211548,
+      "probs": {
+       "neutral": 0.8996940851211548,
+       "negative": 0.07041828334331512,
+       "positive": 0.029887616634368896
+      }
+     }
+    },
+    {
+     "title": "Siemens Energy CEO Sees Data Center Boom Lasting on Power Needs",
+     "publisher": "EnergyNow.com",
+     "published": "2026-10-24T14:01:09+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG9NWHo3c3FtVHkzbmxwZVEwcnJpeElka3czUTlpbjJkZFBiYXZGN3dlYjhKZ1pPOE1rVlotMVFoaFNKVEljSldhek5sX09KU3lQRDFCNGdDU2taVVR2RTY5RjBvWldXQ045WTY5YlZxOENLejdibnJpUkg4eFhhcVNjX3A5TTd4c2N2M0VyaUJMX2trN2ZRdzBn?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7704228758811951,
+      "probs": {
+       "positive": 0.7704228758811951,
+       "neutral": 0.21724027395248413,
+       "negative": 0.012336808256804943
+      }
+     }
+    },
+    {
+     "title": "SIEMENS CDR (CAD HEDGED) (SMNS.NE) Stock Price, News, Quote & History",
+     "publisher": "Yahoo! Finance Canada",
+     "published": "2026-10-24T01:28:19+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yRTR2cGxuUDVyOXlKZGgtdl9VVk1USVoyZmRfelJDWGZGM0NpQUVfVk1MbHVvZDNRaDh5YUtyYS05b3RLaHF4VEE3YWVxblloNmNBUFhR?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9406485557556152,
+      "probs": {
+       "neutral": 0.9406485557556152,
+       "negative": 0.03706313297152519,
+       "positive": 0.022288251668214798
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.20693871043622494,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 2,
+     "neutral": 4,
+     "negative": 4
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "ALV.DE": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:44.091169+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Allianz Shares Slip on Bond Market Pressure as Barclays and JPMorgan Map Out a 109-Euro Valuation Ga",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T03:50:47+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT2h4WUNyNEs0dHZabElkaEdXR2E1VEhLckJzSDNPay1JVVd0WTY2cmdjeWdQSGRyLXhQZ3lxd0JnU0YyeFRNZHl3SEZmdDJwSjY2WDkwcERoVzA0WUNUdUg2TFBJRjFHMG5lcHk4cVROeHBQZEd1ZWJNZjNURlZyZEJxeFdhVUExcUpQajUzSDNCclBTc21HZ2duWW5DVW1iUFV6bmptdVhvTUE4TDN6WVhzaFB6MWlzd0d4ZVdGTUdvSU9xVXZsV1JWZzh4eEdCRkY5WmpPSTNITGpjejJ5T01fTkJSOEJoV2NqQ1M1OXJweGdhbW91LWljTDhfdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.934884250164032,
+      "probs": {
+       "negative": 0.934884250164032,
+       "neutral": 0.04929179698228836,
+       "positive": 0.015823844820261
+      }
+     }
+    },
+    {
+     "title": "Allianz Credit Outlook Brightens While Broker Price Targets Stay Miles Apart",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T20:30:38+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaGpVR2YtM1J0bDN4N050bmE1c3VuZmxQZGZEOUh6VWFHZnNQYm1mZFBYbFpMbzNpUDJ5X0VBWWVDOHd6SnlsMUJqZ3pJZmhYT2JrNTlYWUd6N1l5elFJRHdGZmNFcTdKMVg4T0kwU0RIQmktaUk0TE45czYzdWV0SzBucnFkLUh5dXozZHRpY1dqNkhQRTdSYlBwMEZVOGNaMFZTWWNWWlM2cjV6QzBWZk5QcmxkQjcxRUFmSU4yejl4ci05ajBIal9pdHZLVWRTNDZJRXpJaC1MZHkwMHRNSW93?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.4492564797401428,
+      "probs": {
+       "positive": 0.4492564797401428,
+       "neutral": 0.33941760659217834,
+       "negative": 0.21132588386535645
+      }
+     }
+    },
+    {
+     "title": "Allianz stock trades 0.19 percent below its Xetra close of EUR 427.90 in weekend trading",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:55:15+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR3h4TklOdUgxMjFnQng3TGR0T2xjR1N5WkdvNmVKTjllN3RXdFBfSFo1T3daU0Zmdmd6U3A4RkxpdHRFbngwNFhwRU9EcFhjRVdtWW9rUVZBeThxcHV4bHdfY1BRZ3c0bXVPeWxQUEMtaENFWHVhZkpKSkZKVXVtSEQwbENZYXZaSXJFMW1XckpJT2JlaFItS3JvTm5IUWRudHFlOTFpYjJQbFl1bFhPVzZkUmZSY1czSlV1cGxyVG9wZ1ZzWUk1ZHZlLTd0Uk9EU2dkQzhKSEJrZXhwM2E5VWtLN1I3Zw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9716998338699341,
+      "probs": {
+       "negative": 0.9716998338699341,
+       "neutral": 0.02041402831673622,
+       "positive": 0.007886133156716824
+      }
+     }
+    },
+    {
+     "title": "Allianz Overhauls Home Cover and Sales Leadership as Barclays Trims Target Ahead of November Results",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T11:50:32+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWlhWdVdzeTRsVHV2QVdiQ0VHbTF4MUliZ241NG5tQjJhU1doS1FxX0dzbVcyUEktTHlxZVNhc0UzeTNSMmJMcy1RZ21kbVN1UEotMXhqRG1tLVRRajNiLU9lR1JRdnFyMmJWSXFFMXJrTHJDTllVME94RWpyYXl5eDROQVNqbTB4MTc2VWg3eEtRVFlkWnZqcUR3LUh1bWdLbkx3MmlaS3BrZkNuWGRwbzhLRjFPZWVLN1pQdmdIUTRHd3Q2c1J0SGRhaTlTX2NYRnNkUlQ4ZzV0a0NGekFxM2lMdG5TcmROQXh5c3U1SG5QSzNwa3BoWVNtVENqakljdnc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.911026120185852,
+      "probs": {
+       "negative": 0.911026120185852,
+       "neutral": 0.060787394642829895,
+       "positive": 0.028186563402414322
+      }
+     }
+    },
+    {
+     "title": "Allianz Reshuffles Sales Leadership and Home Cover While a Bayern Stake Shrinks and a Greek Bank Dea",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T08:21:28+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeXpaVjBwNDZxUS10Rk91bklqdlBwSXRNcEpuZWMtLW5JUzN0WS0tdHR1Vldod0ZNakZSaXZpZ2NtZlViTGpKbWlqMzBOMy1YZ20wdTFwcmw0WVUwQzktZnN1QUdwRFBrOC1jQmZpbTdXeGhyUWhyM21UcmIwV21GcDdUZ2NtaUtUeHd3Y1pWSW5Mc2hkUFJjTjVWblZVN1pqOGMxdkYtNnBwQjFETFh6aml2NTNLWmpmV2dWODFwYlJzTTNFS3VmM0l3S2pCTmp5M2xOTktyd0s3QnZjMjZxNEJaUTZLS3pQM3A4S0QtRGt3R3ozMGhhTVlSN1E?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.898137629032135,
+      "probs": {
+       "negative": 0.898137629032135,
+       "neutral": 0.0712631493806839,
+       "positive": 0.03059922717511654
+      }
+     }
+    },
+    {
+     "title": "Allianz Redraws Its Sales Map and Home Cover as Broker Targets Diverge",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T04:40:53+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ1d6ZkNLQ2dWVXhSaEYtYnY1NE9Rek1Db3VWeGJPeUtvUnFOR2ZUekF6Sml1QkxMam5PYW9EY2tIZERXU2xtbV9rbU5xZWlJZmFoUmx5MmFDVW9icFRMRHBaSTdMWWRrVmpFdzZPT1hFNGlKYWRSVFJBSHVxTDFYUG1aa1RBZzF4V3Jrc1JPVFVXM1BXLUljbHBIeDdJN1VtSlBMeE5tWnRBUGxPSEliYU00OElaTEpyTHo3TVpGVjRWY2F5a0x5VUJmRmg2eWxsSTRHRFZYYy1Pdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9409486651420593,
+      "probs": {
+       "negative": 0.9409486651420593,
+       "neutral": 0.04385601356625557,
+       "positive": 0.015195361338555813
+      }
+     }
+    },
+    {
+     "title": "AGIF-Allianz Glo.Eq.Insights I (AZHB.DU) Stock Forum & Discussion - Yahoo Finance",
+     "publisher": "Yahoo! Finance Canada",
+     "published": "2026-10-25T03:14:19+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hZDhIeDdqQWtKWUtQLUJrb3BGbnpzQTBYSlVsZjlJcXN4dXI5T21zUm1ZNTRsQjVyQlFHQk93OUdPUnVoYUNYcG1MN3F4RnhsQVA5Z0RRTHJIVldDLUxYdERKNA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9533209800720215,
+      "probs": {
+       "neutral": 0.9533209800720215,
+       "positive": 0.026388170197606087,
+       "negative": 0.02029084414243698
+      }
+     }
+    },
+    {
+     "title": "Allianz Fonds Schweiz (DJF2.F) stock price, news, quote and history",
+     "publisher": "Yahoo Finance UK",
+     "published": "2026-10-24T21:51:27+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zdmlOM0ZJQnZxNnBRcDRNZURuckl6b24tTGd0R2pUaXQ1V19EanVITXktQVRQUGF3VmJOWld1cUZGaHBucWRCd2EzWmhpTWNfNk5sb0thSllJY3k2MElSTWQxbkY?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9375240206718445,
+      "probs": {
+       "neutral": 0.9375240206718445,
+       "negative": 0.04218416288495064,
+       "positive": 0.020291784778237343
+      }
+     }
+    },
+    {
+     "title": "Allianz JPM Emerging Markets Opportunit. (0P0001ICS5.F) stock price, news, quote and history",
+     "publisher": "Yahoo Finance UK",
+     "published": "2026-10-24T11:06:15+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdGNWTk9PbjJ3RmxhMWRkYzRjbGRrWHRLUVhzeHRHS0l2MHdNSTNXNVZRc3NIQmwzYXZfNUdrNHRobV9WQ1hReGhEN2k2RGtycmxLQllJTjkwSmdndFdEeHAtcVlDYzJEcGc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9420796632766724,
+      "probs": {
+       "neutral": 0.9420796632766724,
+       "negative": 0.037532977759838104,
+       "positive": 0.020387321710586548
+      }
+     }
+    },
+    {
+     "title": "Allianz stock trades 1.27 percent below its Xetra close",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-24T08:35:47+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEJGQUxyZXNJcHh6aGxEN0dSemJWekszY2Zzb2hncS1zRXNqRndRa3NWcUtjbTlaXzlhY3pReS13UFdwMmR3MEsya0c0RE5jR1htQmY4d3RYSXYxMUxKeFozeU9NX0F2NTdBRHoyZTktU1ZrUE1GR0pIV0VEdXJFV2lqN0FNUV9rcWZCYXh0RExoTkd6bDlLYlRlc0dVb1ltZWtQaUs2eEQxWFBlRm5FaU9wZ1FONmFNeEE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8872551321983337,
+      "probs": {
+       "negative": 0.8872551321983337,
+       "neutral": 0.09504742920398712,
+       "positive": 0.017697349190711975
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.5223573263734579,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 1,
+     "neutral": 3,
+     "negative": 6
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "MC.PA": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:45.073575+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "LVMH Moët Hennessy Louis Vuitton stock pre-market at EUR 383.50",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-26T06:55:50+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDN2TTFLMF8wazg1QnRROTBHUnJiRzlLMDVTcTJSWC00WVJiRFh2U09Qa0J1eWdMWG51d0Q2OVdWSjNJcnhPRXdWQWVlU1o5U1pyazR0eVV4bFN5LUlsN21rSTdaN0x0QjF0NVdmdWJ3RlZ2aVJFcUlsLUJRZnp3OUV1UWwwVjRkcy1PdDF6bnRETHlTZ3JGUWFWeDZHVHNlU0gwaUVxS3lMbDd2dkc4Y05QaTdpR3RobTAyY3dB?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9450226426124573,
+      "probs": {
+       "neutral": 0.9450226426124573,
+       "negative": 0.031871579587459564,
+       "positive": 0.02310573309659958
+      }
+     }
+    },
+    {
+     "title": "LVMH (ENXTPA:MC) Faces Fresh France Riot Risk To Tourism And Luxury Demand",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-24T11:12:40+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUlEaDV3N3NNeWdFUDJQdEJ1NU50OGNEVmtzbEJuLWlFYU9JXzNOVUhvSkQtdmRlejFNR2Z5ajlkc2pZdnk5dEZqcDZxa0xzZkR3cTh0UHpTZl9XaXBrdEp5WnkwRXczeDJiak9TaUkxR0Rkd0RFbDhWUHNxdDBGeGZ5QTc4bW1XQnVEZjZKVEdpLXcxSnc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.521490216255188,
+      "probs": {
+       "negative": 0.521490216255188,
+       "positive": 0.3346030116081238,
+       "neutral": 0.14390678703784943
+      }
+     }
+    },
+    {
+     "title": "LVMH, Kering and Hermès shares fall as France riots damage 3,000 shops and bond yields surge to 2002 highs",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-24T09:15:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVhfTkd1UzBZWGxSOVRKTDN6TUJqYmc4TlllcUJMQnd2OHFHT1VSWjlueEtkSEdINmwxRG9aMVVYME5XeXNYNjBtelhySVdVUlBhVXZYQnVHWFpRM3BQbERXR0ZkaC1Vc3F2Y0Zac1RSLWFHSlhxUzdqcnZfeG1fU2VFaXdEZGNGZHJBbXF2WlUxYzVpNHA0NQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9634649753570557,
+      "probs": {
+       "negative": 0.9634649753570557,
+       "neutral": 0.028587929904460907,
+       "positive": 0.00794709287583828
+      }
+     }
+    },
+    {
+     "title": "France riots damage 3,000 shops, sink LVMH and Kering shares as bond yields hit highest level since 2002",
+     "publisher": "MoneyWise.com",
+     "published": "2026-10-24T08:46:01+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEdUZEZHS2ZXdkJEc1liTkl5UWYwb2pRMkVfTUNhd0xHRkd2NFN5bTJYQlptdVZjN3lBandLYkVud1U1UEd0d1ZxYVZEcUVIZmphRW5WUS1EU2VDSXpnM09SdkhTdTVLT1NwX2lfMkpZd0IyQm9UYzZHS2pucExtNHhPVDk5LWZwSjhxbA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9474656581878662,
+      "probs": {
+       "negative": 0.9474656581878662,
+       "neutral": 0.03811371326446533,
+       "positive": 0.014420557767152786
+      }
+     }
+    },
+    {
+     "title": "Gucci Plunges 16% in a Day as Chinese Wallets Snap Shut, European Luxury Stocks Tumble",
+     "publisher": "BigGo Finance",
+     "published": "2026-10-24T03:35:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhRnpTU3JGd2NRUDNYRk5kMDBSYXplOHQ1NGhWRnlTSG40WHhybnNmZ1lQWVJFc1NiaE1KaDg5U3NBZHVXSkZ4M3hQTXE5T2NYUFlyWUNRNFZETE5Fb0xGeTZQZXBtcTBzNjFRWG1GT1BJdVlSLXc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9472395777702332,
+      "probs": {
+       "negative": 0.9472395777702332,
+       "neutral": 0.03844336420297623,
+       "positive": 0.014316953718662262
+      }
+     }
+    },
+    {
+     "title": "Luxury brand stocks plunge to lowest level in years as LVMH, Kering and Hermès hit with sales declines",
+     "publisher": "New York Post",
+     "published": "2026-10-23T17:17:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS3pHNE1YbW9KZ3QwRWFFb3poMkV2RDN1dE94NFFnZlBPdmg0eHpmVi1ucGlpTVlmSzVPVk9sZkx1MlJTd2hyeUpEc3pnb1RscGNHa2kwcDFpYUttYUczOV9Sc0gwZ2tvazRmWjI4bndZeWFmMGJUMWZwUGg5bkR1RW83aHdjZHE3aDNqOXByZzVrTTYwTnJKbkQ0M2t3MmF1c3JCYlRhSnJVX3c2RFBwX081WTJZLW1mTVlRR2t6OFllTzJUblE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9674913883209229,
+      "probs": {
+       "negative": 0.9674913883209229,
+       "neutral": 0.025186561048030853,
+       "positive": 0.007322070654481649
+      }
+     }
+    },
+    {
+     "title": "Europe’s Luxury Giants Trade at Lowest Valuations in a Decade",
+     "publisher": "Bloomberg.com",
+     "published": "2026-10-23T09:18:34+00:00",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUZPY3JPZVhDLVZfWklNZGJwQ2x3M0lleVRJSmhfRVJJdG1JdmR6YVM5RjNBeHZzMW5kSnMwVGFraEdkVXdUZGZiZDdIQmh1eE1HazgwV2FIQjJISnVwVGJjWTVYYUJMbl9Jam5nQ2kzR3hUU0dGZ0lybWlFWV94a0N5bndQXzBPcjYzMVBMQUhiV05TYU5QckJZNkpsOXVEaVVDcHFNNVlWWGRfcl9B?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.963539183139801,
+      "probs": {
+       "negative": 0.963539183139801,
+       "neutral": 0.028915680944919586,
+       "positive": 0.007545103784650564
+      }
+     }
+    },
+    {
+     "title": "LVMH Stock Loses 20% in Three Months and Approaches Six-Year Low",
+     "publisher": "Idéal Investisseur",
+     "published": "2026-10-22T09:15:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2prUy1KYWFjdzJIV3JKVEpTRVkxVDFBQnVELVVNWDU1aU1qRk9vUkwwNWkzM3R2Q3h0TkhmTWN3aHJPNXktQ0RkUk9fNV9JZHN4T3U2SndwR3FZdG5uejVUOV9IQlMyRFE4YlpPdERVeFIwZVZMZXhjWDhaV3RkRmt1bExHUHRZTnZabE1JX2hOOFVtQUlwVEk5ZDhjRnoySE1nbENYWjJxX1pPdm9HclVQVmZvYWRXQUF4RVB5TQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9732581973075867,
+      "probs": {
+       "negative": 0.9732581973075867,
+       "neutral": 0.0172494538128376,
+       "positive": 0.009492278099060059
+      }
+     }
+    },
+    {
+     "title": "Top Stock Picks for a Luxury Recovery",
+     "publisher": "Morningstar",
+     "published": "2026-10-22T05:01:21+00:00",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEwtUzN3RmdiclpsTU4zOXBwc0RhV2pzV1NMd1k0Z0F3c2d5WDZ6UE9INm1EcVNaZkQtbEwzanFRRTl0SGVfWkd5d3dNSFZNYzNiYUtxdGk3VWJ6aUxpSV84TlRlc3E3ZDFkbWF3UmQxRTJrbzdENUpwT1M0R1dKTg?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7442578077316284,
+      "probs": {
+       "neutral": 0.7442578077316284,
+       "positive": 0.22694514691829681,
+       "negative": 0.028797045350074768
+      }
+     }
+    },
+    {
+     "title": "LVMH (4MC.TI) Stock Price, News, Quote & History",
+     "publisher": "Yahoo! Finance Canada",
+     "published": "2026-10-22T03:03:17+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NGZJYU9STDFGc1VqX3p0dDhpeEFGLWkwdDVTT1k1UGVPamIyUGVzZmVYazJyc0VuVHl5dHd1Nm9SdV9ldkVWQmJNNjhpVXlSbnlnczJMWl8ybFFuMTQwZnBKRDg3WHM?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9303523898124695,
+      "probs": {
+       "neutral": 0.9303523898124695,
+       "negative": 0.04832446575164795,
+       "positive": 0.021323107182979584
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.5725921231321991,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 0,
+     "neutral": 3,
+     "negative": 7
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "NOVO-B.CO": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:45.987869+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "SRRK Stock Gains After Company Drops Troubled Novo Nordisk-Owned Plant From FDA Filing",
+     "publisher": "Stocktwits",
+     "published": "2026-10-25T17:22:32+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdnJGMk9lcF9CTXVJRUNBdk1BendvU29Gbm5pME80N3hnaG9zcnNiR011YXNxYmhLa3RCalJXSkY0aDRCMktJNGoteFV1M01iMUR4T2pXZVVYWDhacHA1cVFGTllCOGVoWVQ1UmhkUVlmWmtoVjROZTRCLVJ2S1FLdmYtZTU5UWlPbzI5U2VRdzdEYzh4dlgwOC0wTEdObFdjb3ZHeVZLOGxSaWNVZUlGeXlOY0kzcjVoWFFRTnJoRG5FempUd1dNNjVnN3pFSkNXMWN3Ml93U2FhTEJoNGQ1UDVzZWI?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8210992217063904,
+      "probs": {
+       "negative": 0.8210992217063904,
+       "neutral": 0.10307355225086212,
+       "positive": 0.0758272036910057
+      }
+     }
+    },
+    {
+     "title": "3 Massive Catalysts That Could Ignite an Eli Lilly Stock Rally on Oct 29",
+     "publisher": "24/7 Wall St.",
+     "published": "2026-10-25T16:35:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGdVa2ZmLVRyWmdHMUJCYW9uVFBZXzdNamtnQUFZZGE0S3pESHJpZHRxckFiNXJpam9kZkVEbXNPUmZkSTgtZV9kcC1ub2VyaHQ2RUo4alZIMFBScGtxMFI3eWFMd2xPOTRHeUdsbEN2bVJuRDlGQ0lBQ3A2aldTSVFCQW1Rc2lueDFFSW1XR3VvRTFYZG83WEZKSkdHQ09MM2xuQ0w2VkNZLWQ3TmhEVWFlcWpielU?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8739972114562988,
+      "probs": {
+       "neutral": 0.8739972114562988,
+       "positive": 0.08284658938646317,
+       "negative": 0.04315617308020592
+      }
+     }
+    },
+    {
+     "title": "Novo Nordisk (CPSE:NOVO B) Deepens AI Drug Discovery Ties",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-22T21:08:47+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZjJodTB2YXM2c1NxUEFvZEhDd0FjLVgwZFFzbENwbE9SZno2WWc1Q293ZFE2WWI3dnVRaEgtTzNJdE81WE5zbzEwM3RQVlAzVVN6a0ItWl9SRHY1bi1EdVFQZ2NRTHNUd25adGZmcVVTS0hpUmE4UzcwSDZCZjVKU19RV0laYkxBblRuRHFB?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.6492806077003479,
+      "probs": {
+       "positive": 0.6492806077003479,
+       "neutral": 0.34121260046958923,
+       "negative": 0.009506802074611187
+      }
+     }
+    },
+    {
+     "title": "NVO vs. VKTX: Which Obesity Stock Could Deliver Bigger Gains?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-22T15:31:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXljMmR4bGhMQ2U3NTNxNmxOM0FTbUluX2ttVWx3aFVob0diTWZwbWMtWGdnZDdod2FkTzB3TFhlN1Z4TUdWd1FOM0dMRUNDSTB3MUh6T1BsZnFaWVNMZWFnaTlfYU9mblNlcDRkbU01U3FBcUVnU3RhTVdxQzRaVEwzRHNsTXhrb19TM3B1OA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.6003952026367188,
+      "probs": {
+       "neutral": 0.6003952026367188,
+       "positive": 0.3865572214126587,
+       "negative": 0.013047571294009686
+      }
+     }
+    },
+    {
+     "title": "Where Will Novo Stock Be in 10 Years?",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-21T20:28:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVlLRnFPYU01ajZlQUJPSzJNSVVYdlRLWVI4Y21kazFJLS0yRG9tM0VQamlvUnpIcHVKRmVUU3RfRzFFc0ptcWVBMm9zOVJrS1BBbm5OZVhGVS1WV3lvVE0xMmRoZnBxYzFPU2QzOEd1czJfVnRjN0RHdHpLa0RGdGNqX2lkUQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9423364996910095,
+      "probs": {
+       "neutral": 0.9423364996910095,
+       "positive": 0.03354555740952492,
+       "negative": 0.02411794848740101
+      }
+     }
+    },
+    {
+     "title": "Novo's CagriSema Delivered 25% Weight Loss in Women. Could It Help Turn Around the Beaten-Down Stock?",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-21T12:45:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNnFMeU9QYTBVcWl5RVVyaDF6WktMS1hQVXZvWURJUWhlV1I5VHAxcW9EMG4tY0lyUlN4WXg2LTE4aHNRSHd1b0ZPT2plLWhrZkxVekdkNlZ4N2J3ZEVRMTBQVVdvbzlQbG5UOUhkZXphYzdESmVLUFMzQ2doaVNSUGVENkU3eUZWWFpIcW9ycG40cUZQTkJVNmNFQ29qb01UcEVzUDU1b3NOTi1rdy10VUFBQTc5RHhWV0UyckVBZGFISm1mU2tmbzY5YWFOOVlkZ29qQlo3Yw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.6698706746101379,
+      "probs": {
+       "neutral": 0.6698706746101379,
+       "positive": 0.30705440044403076,
+       "negative": 0.0230749249458313
+      }
+     }
+    },
+    {
+     "title": "Novo Nordisk (NVO) Stock Sinks As Market Gains: Here's Why",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-19T20:45:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEhRXzZRNW85RXdjRWtWRG5HZlFBNXdrbHNlUHcweEl4OURKRjB4RkV5WG1EbDRiZ2JZVmFSeTVUZTd4MFVxVXBLUEIzaW1naWFDb2hkeUFyMlowZ3lua1JGT2tVY2UtWE9LVnd0TmpMdG9QMzhabi1ZMzdjU0lZZmp0UTJTRDlPdmo3VnRKc3M0QXB3OUc4Tg?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.6286645531654358,
+      "probs": {
+       "negative": 0.6286645531654358,
+       "neutral": 0.3009646534919739,
+       "positive": 0.07037077099084854
+      }
+     }
+    },
+    {
+     "title": "Is Trending Stock Novo Nordisk A/S (NVO) a Buy Now?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-19T12:00:03+00:00",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMk05enBqZlExVmU4OFc1aDZiV0dCQ2hCTzlmQ3lpY2RVVkRScjM3MmppZXI1V2YwSTctVjRqMmtpaHFGYktDQ2t5elpxcWlzUUlhME1WVWJjbzlzV3BfX1FnMWxmREFTeGNvSE5jYm9CS3BOVzhyMklmMzN4Q0pEQWpJLS02UkZFaFNEb3djSDA0SzRaUDFnRVRRRmo?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8816738128662109,
+      "probs": {
+       "neutral": 0.8816738128662109,
+       "positive": 0.10097239911556244,
+       "negative": 0.017353836447000504
+      }
+     }
+    },
+    {
+     "title": "Novo Nordisk A/S - share repurchase programme",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-19T11:53:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR3BOcXBENGRJU0xSRnc1UmVJWDd0bVNoVWJHUkJLcXI2N2lYc24yWGpqR1BfX09LRVVydGlfWU1PZUg4UnhuTjJhZzBmZU9yNjlDTHFIakF0V0t2MFJ3QWNYRHFSanN3YmlxRlR6ekF5R2N3NTZDel9qblFzREdxQ1B3WURfMHM4U0hqTHpGT3BYbTBrcG5SelNBcGJnRUR2Umk2d0d4NA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9377121925354004,
+      "probs": {
+       "neutral": 0.9377121925354004,
+       "positive": 0.048209305852651596,
+       "negative": 0.014078497886657715
+      }
+     }
+    },
+    {
+     "title": "Novo Nordisk A/S Stock (NVO) Moved Up by 3.38% on Oct 15: What Investors Need To Know",
+     "publisher": "TradingKey",
+     "published": "2026-10-15T07:00:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXlkTERDZ1FlU3lEZkRzZXN3VFR4Tk10MnZDWlZ3NVRvYkJkeTdvYUt0VlFWZkdXR29Zdlh4cVA1MkdtcXNhMl9zM2RqN1BqQm5iT0FaTzBFbnJPSnI4XzlfRnA2djhrQ05LY1VtYVJ2V2RZZlRaQ0FoeDhVLVRvRnVSbHlYbVFhcWc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7379966974258423,
+      "probs": {
+       "positive": 0.7379966974258423,
+       "neutral": 0.24283188581466675,
+       "negative": 0.01917143538594246
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.087938978895545,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 2,
+     "neutral": 6,
+     "negative": 2
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "ASML.AS": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:46.900459+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "ASML Holding reports third-quarter results for ASML Holding stock",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T16:48:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3Q0VExfWUt3bmVZZkJRdExRdHV3azlfMkp3Vm9nclBfQ1hJTk5QLVVsYVhxeUdVSFFQRmRBMHFvT0dWVlhUanVwc1UwZ0Y1NGRDcTJMMGhFcU85OGl5YnhGbGNjU0RVendJYmpsLTU3cTdYeExVblN5enlfRTFSYUVFQVdFMGpkZGExc0NBUTFpOXJwZXJ5S19tZlRWSkhHY191NWVnWEoxS0t0WGxnSG9YRkxESzN2YXZzZ0ZZMnVCTmJvcnNv?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.907156229019165,
+      "probs": {
+       "neutral": 0.907156229019165,
+       "negative": 0.06334356963634491,
+       "positive": 0.029500218108296394
+      }
+     }
+    },
+    {
+     "title": "ASML's €352 Million Buyback Lands as Supply Constraints Overshadow Demand",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-25T15:20:29+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOazlxMm1Wb1NDSEQxbC1FbEV0RVR4RXYyTFJSY3VjVi00b3pOWldxaGZYbTFIVjhTZHpFTWg1aHlIWFFKblctTzVpNG5uWjRTLWlZeUpIVXgwOVo0Y1FzY2Zka3UwMXUtU2g2VVROa0NyLW1ROHB0dVRya3RKbVFBbjhUR1ZLNHh5b3lhb3BKeEFOVndNQU1wQ2E5WmYwTjRuaC1LRDF3WjR2ZWhEcFFmYnVyZkJseENFQXB6cGg3bDczSFhKSEFxUzdZOXBOSXh1cmhZZU9wd2E5cFJi?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9634270071983337,
+      "probs": {
+       "negative": 0.9634270071983337,
+       "neutral": 0.021931666880846024,
+       "positive": 0.014641323126852512
+      }
+     }
+    },
+    {
+     "title": "Your Easiest Way to Crypto - Trade Bitcoin, Ethereum &Most Trending Tokens",
+     "publisher": "MEXC",
+     "published": "2026-10-25T13:33:45+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSVNUaDAzbVpyMGRjd2Ftb05CemdUV2xhNHFvR1lUeFpYNmRGQmtuSXljdzJ0NllJNVVkcElHVU95SEtNMEhSZ2tSUkM5OTJvVlRLOVZiR0ZpYXFLT1FpNzMzSVRFeTRNeFJ0SVJObHFhcWYyN0Ewa3FBRlVYampadmJ5TWlPSVJsRkY3aVJGWDJHZDdXVmZrZUFUanh1eloyWVBJemtkNmZweGxraVI2MGxpcWh3UGtPamFKQVh6eXF5ZEV5aWc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9378626346588135,
+      "probs": {
+       "neutral": 0.9378626346588135,
+       "positive": 0.043686412274837494,
+       "negative": 0.01845102570950985
+      }
+     }
+    },
+    {
+     "title": "ASML Holding N.V. (ASML) Stock Price, News, Quote & History",
+     "publisher": "Yahoo! Finance Canada",
+     "published": "2026-10-25T05:35:37+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYTJNLWlrdEl5bkZ5REJDbzVqREU2amNmcFY1bXp3TU5fQjJfaWtlTUN2NHViZUVtTmIxV18zWUZ5QWx4Y0lRWTJmcHhXQTREcHc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9288864135742188,
+      "probs": {
+       "neutral": 0.9288864135742188,
+       "negative": 0.04886084049940109,
+       "positive": 0.02225271239876747
+      }
+     }
+    },
+    {
+     "title": "ASML Ties Executive Pay to Staff Sentiment While Buying Back €352 Million in Shares",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-24T13:02:11+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHV1Yms3ejVpRnpMRFhRSGlQd2txTENtMHhMeG5TNTMyaFNUVkx0YW5ya1RvV200NVhzRDV5eUNFdnF1TTl6QTRON21sSG9oMGhPVWkzdGkyV1dnbU1KSDdvdlZidzNBcW9WaF9vNFdrWXhvOHloc0NheEs5d2prLTBhZWtWWE9iUHljcDJKdmZNZGk1dnFSY2FZQ1ZCcjl1OTJzWjN2Mml0VVZ1UTJUM3RrT3ZXd3RtQmJUVGVtNi0waEhxVzBRaVpXakFnblVYZHJhNnpnMjVnTjh6QTZ2LXZPYU1uX0hfOWc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7860723733901978,
+      "probs": {
+       "positive": 0.7860723733901978,
+       "neutral": 0.19892586767673492,
+       "negative": 0.015001795254647732
+      }
+     }
+    },
+    {
+     "title": "ASML's Buyback and the Terafab Headline Are Two Different Stories",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-24T06:40:27+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSEVpSG9hYlRyazNQRFQ3YTRZNHJBSS1CNk9kSG95OWo5T1pjVDNMWWtiR1FTNTJQeUZFWktHTmxEUjBOVlpMaTZOQnFkRlNNbUdRZ3AtUF93Qm5jamFPWlZILVNidXpnUEIwdEszOUEwNnFMS1ZBaFhNLUFjOEVLcVFMeERwcWlQREFGRDNsMkJCaVJ4V2ZqUjQ4VHFUS2tEMHZuMnAxNTR4RjZVWVJuNE5fcjdzeVhOV0RNZHhEVXFPNnRDUkRVeXJDMXVWOHVBdHZJ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.913386344909668,
+      "probs": {
+       "neutral": 0.913386344909668,
+       "negative": 0.05807682126760483,
+       "positive": 0.0285368449985981
+      }
+     }
+    },
+    {
+     "title": "ASML (ENXTAM:ASML) Stock Fair Value Edges Higher After Mixed Analyst Revisions",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-23T17:12:17+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkVrQURlczl2Y3FFNmFtVHhLOUpreEQzc0RPZ1JqbU9LNjYzaE82Q1hQRUoxcTI5RTI1dUNTODdRTld2cVpBVzg3SWRjbjRVaVFFd3dfZkRTbEZ0ZGV6eHk5QmlwZXh4MWxIZTY5ZzRRZTg5eTFRcGhnUFFhVG9ocnljdVZiMmM0LXV5X3cyTE9VZHlSRjVJ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.9431178569793701,
+      "probs": {
+       "positive": 0.9431178569793701,
+       "negative": 0.036228541284799576,
+       "neutral": 0.020653555169701576
+      }
+     }
+    },
+    {
+     "title": "China's new lithography machines threaten ASML's China revenue within 3-5 years, challenging its market dominance.",
+     "publisher": "Pluang",
+     "published": "2026-10-23T15:06:18+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmQzbHNodmNDaGpVWGlrdC1OR1h3VC1XQVpEbU03VFFrNG5adFJQSVJlSGwtcENNcVh6VlphX19EZzRyMEtIWnB3Nm1reUhoWElVU2hTR0U3WXIyWE9rSWhKNWZ5Sko0MF9UUHppZE5jT0NkaW94SUJ0dkFTSlgwTU1TSUdaVHZIUDB2VzMtR3R2R1U?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9580066204071045,
+      "probs": {
+       "negative": 0.9580066204071045,
+       "neutral": 0.026776766404509544,
+       "positive": 0.015216575004160404
+      }
+     }
+    },
+    {
+     "title": "China’s Mid-Tier Emergence Threatens ASML Over the Next 3-5 Years",
+     "publisher": "24/7 Wall St.",
+     "published": "2026-10-23T14:45:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEFEaTBMUEI0TTk2Qi1jTnlsenpuRzlGYldXVmFPTVctdUFva09UN3ZCdHFYb3QxZzFaNEpSYzlRNVVPSkFxckVlbVlzQlFpbHVFc3BGMTAtWDZKUXNudk9SQ3kwb2V3NUFZT1Bod0FlVkltQUltN1pwSVJvN3pTRmZJUmVEWXlfUmNlOTRLV1FDRFROa2tHcmNHMU1Jb3Y1cEhtdUtFd0RzdlFM?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9504191875457764,
+      "probs": {
+       "negative": 0.9504191875457764,
+       "neutral": 0.03607669845223427,
+       "positive": 0.013504031114280224
+      }
+     }
+    },
+    {
+     "title": "ASML Holding stock: Barclays raises target to EUR 2,500 for ASML stock",
+     "publisher": "ad-hoc-news.de",
+     "published": "2026-10-23T13:06:07+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPell1U2xZblNvSGxiMTBaeEpYakRKWlJ5OXQ2U21qOC10eFN5dFVQSUE3ekVFNkFsRUFDUjlfRUNpaWVQUDJEOVlyOTl1NEdXeDMtUno2X2ljb0tQRUFxdTRfQnA3NFI3SDBJbl9jZEp3RWx2eGxWY0JPZWUxX25MTWlHUDdhS1p6U09mQjYwX0hQaDU1TkluN1VtblozSUl6NDJYbDRjcHg1MVdwY0xncWhaa0Y5RzlMNWxleHlJUm4xYWE5eFdJSnVUZGI?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8147352933883667,
+      "probs": {
+       "positive": 0.8147352933883667,
+       "neutral": 0.17164163291454315,
+       "negative": 0.013623054139316082
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.04141748221591115,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 3,
+     "neutral": 4,
+     "negative": 3
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 86
+   },
+   "sentiment_error": null
+  }
+ },
+ "7203.T": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:48.201117+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Form 4 TOYOTA MOTOR CORP/: Kumi Fujisawa (Director) For: 25 September",
+     "publisher": "Investing.com UK",
+     "published": "2026-10-26T01:16:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmNXcy1Pc2ZaRUU2WXZHX25COXBwRl9jWVpCUmx6NkwwV1B0TVkwQ0ZBeVJNWHQ0ZjhWLU1HNG9nb1B6ZlpMY3FQWWU1enZlTWk3cDJjM01McnEtbDZ0a19pdHhXOEZXQ3lpdHBoZnJzQm9iLWZrLVhKcHQweHRSU0dkX1c1aVZhdDBkM3BSRGwwemlSZ3dqblhFQnFzcm9OY2E2LUs0OXg2b1FzQUJMTjRNMzFOVV9HZHJ6ZXkyWG5lQzQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9447592496871948,
+      "probs": {
+       "neutral": 0.9447592496871948,
+       "negative": 0.02768230065703392,
+       "positive": 0.027558447793126106
+      }
+     }
+    },
+    {
+     "title": "How Investors Are Reacting To Toyota Shares As Solid State Battery Research Expands",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-24T23:54:43+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR1FVbVFYZmhSY2pRV0RBdlY3aVBROWZpWm1GRENUNmRGS1lVaE1QcnJ5ZVdEQ3lXQm44UXNRMHpMeS0yYzJabkw2QVlFQ0hkVk5IS3E0UWNXZm1OM3Jzb3BaNGNMUVhvMUwyd1lIYy1HQk1pZmxvSS1kMEo5S0FTVFFmT29VUXhxbF9BVHU5cTRuUTctVFM4eGlLRDdZdkQtQVFpN1g4M3hzQ0d5TzdicElOQm1LNE1OZlFYNFRlSTZNTFlkX1dtWUFLYjU3Q1ZOTlgweHJ1VUlOQdIB2gFBVV95cUxPR1FVbVFYZmhSY2pRV0RBdlY3aVBROWZpWm1GRENUNmRGS1lVaE1QcnJ5ZVdEQ3lXQm44UXNRMHpMeS0yYzJabkw2QVlFQ0hkVk5IS3E0UWNXZm1OM3Jzb3BaNGNMUVhvMUwyd1lIYy1HQk1pZmxvSS1kMEo5S0FTVFFmT29VUXhxbF9BVHU5cTRuUTctVFM4eGlLRDdZdkQtQVFpN1g4M3hzQ0d5TzdicElOQm1LNE1OZlFYNFRlSTZNTFlkX1dtWUFLYjU3Q1ZOTlgweHJ1VUlOQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9139196276664734,
+      "probs": {
+       "neutral": 0.9139196276664734,
+       "positive": 0.06888968497514725,
+       "negative": 0.01719067059457302
+      }
+     }
+    },
+    {
+     "title": "Issuance/retirement of stock (net) of Toyota Motor Corp. Sponsored ADR – LSE:0LG5",
+     "publisher": "TradingView",
+     "published": "2026-10-24T22:01:13+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEllcEhhZUpiNnJUS25OZnVweTd6emhwRW1YWU9qei1uMzdmbzBJclJNeDFXNVN3UG1mckR3dHBiMkQ2a3BkQXpmYmxabzN2djg1T0NLcmpneGZIOG45cWdoVWZ6NHdrelRpa0R6UVRtUTRFM2ljMzNoUUxjeU9MVzRMSGtndFpEX0F3cWNzMVNEdw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9392085671424866,
+      "probs": {
+       "neutral": 0.9392085671424866,
+       "negative": 0.03488592803478241,
+       "positive": 0.02590547315776348
+      }
+     }
+    },
+    {
+     "title": "Toyota Motor Corporation (TM) stock price, news, quote and history - Yahoo Finance",
+     "publisher": "Yahoo Finance Singapore",
+     "published": "2026-10-24T10:25:20+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URU1oUWk5R3dvdndESWRyR3pfdGdvZzhtU1M3ZmZCeHFGSThkaHRvcjhLa0VlNXpXM2hCdDh1Qy00eWMwT2huU1g2ajFLeG5NRmdFX1dGU2x5WHBmN25n?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9486189484596252,
+      "probs": {
+       "neutral": 0.9486189484596252,
+       "negative": 0.030532123520970345,
+       "positive": 0.020848946645855904
+      }
+     }
+    },
+    {
+     "title": "Toyota Motor Corporation $TM Shares Sold by Crossmark Global Holdings Inc.",
+     "publisher": "MarketBeat",
+     "published": "2026-10-24T09:30:16+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZXNod3ZBZVFzMVhOazU0V0RUbi15UFdXY1dvY2duU2J5c3FYLW1KZVJBNUJrWERFZG5ma0piRjlsZG90eUNmbXloZkJuMmNCa1VzUUtkTjBiLW9xN1ZFclFWci1IdTFKZElpeTJlZThZSXJzT1Y5bG9IVnVuVG9jaUhYSU54UWoySTd4ZnF0WTRxQXliT2p0aGNnWUFfTzZ6R2RGN09BYmdabVpURXJ6Z3pJRTdkbk03dFFtT3ZSZ3JucHhNNmdOZ0lDeHlYZw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9341210722923279,
+      "probs": {
+       "neutral": 0.9341210722923279,
+       "negative": 0.03749949485063553,
+       "positive": 0.028379419818520546
+      }
+     }
+    },
+    {
+     "title": "Ford Plans to Overtake Toyota in a Critical Business. Here's Why It Matters.",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-22T12:45:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3Z6ZU82NXEwbUFuNDJFLTQ3SWZxeExrOXMzYU9fdDhKbV9SRWd5eVhrYVBYck1WaXBOd3o0cUpnUHo3RWdPS25aZmZVcXdhU2xmRkl4WVQ5aVdrS0FFczNGUXRtbVFfRW15cnJDTElEdUdaeW13cDRBQWppdmx0WGRRTHBuLXVieFY3b20xVVJoUmRIWVE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9042456150054932,
+      "probs": {
+       "neutral": 0.9042456150054932,
+       "positive": 0.06340847164392471,
+       "negative": 0.032345931977033615
+      }
+     }
+    },
+    {
+     "title": "Toyota to start Thai hydrogen Hilux production in 2027",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-21T13:40:10+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWZVdXB0b19VVl9wc2d3bm9oTXRhQThCUWxVY3hkUW1EbnFrazYybmVRSWNwWDlIcTJTTzF6aXhQV2p0N1N3Y25BOWFFUFY2c18xbEszcmp4TkVvajR5X0lRaHV2dmgwNHJJWHowZEhrTk9pVlc2MjZmclV1bnZGTHo1MjQtMVVXVnhQLWlLdGpoZDA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8502088785171509,
+      "probs": {
+       "neutral": 0.8502088785171509,
+       "positive": 0.1408904641866684,
+       "negative": 0.008900608867406845
+      }
+     }
+    },
+    {
+     "title": "Should Value Investors Buy Toyota Motor (TM) Stock?",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-20T12:40:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEtXZ1RKN3JOOXpibU5RZDBhel9XQzBfSnNoLW5iYldQajJBTUkzakxMVmsxeDhKdF92M2l0OE12Z1E0aThULXQtTmNKQ2FUUVcwTmdtZlk3eVZZYUtVVWVWU0p3NXZzVlR1cy00cDZTbklSblM4Y19EWlVEOFZtMmpNSFFISTNuSERRcktPcmJMUEtlQnFtcE0yUGJVQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9329625964164734,
+      "probs": {
+       "neutral": 0.9329625964164734,
+       "positive": 0.05030479282140732,
+       "negative": 0.016732674092054367
+      }
+     }
+    },
+    {
+     "title": "The 2026 Toyota Land Cruiser Costs $75,789 as Tested, But It Shares Its Hybrid With the 4Runner and Tacoma, So Here Is the One to Buy",
+     "publisher": "Torque News",
+     "published": "2026-10-19T21:35:01+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWdTcGRUV1lPdURjckxvN1BiZ2psNm8xNndtZ3lRV2d3Mlpjb2VVaWw3V1hNSU91MVE1S2pDSElHMW9EWUR3MTYwdzFqdHBqdUxRVTFmZmNLQjhQNWkwQTYyUndLUVVTYlliS1FoVDBaalJPeC1yOWUtR1N3M3FJQWVRR1NlY0pWOVZvNEpELWhHS2otTDhSWXdJYjJCSVI3U2R3VDJvSlRLcVhaSlpfM3ZDaw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9322341084480286,
+      "probs": {
+       "neutral": 0.9322341084480286,
+       "positive": 0.052440956234931946,
+       "negative": 0.015324940904974937
+      }
+     }
+    },
+    {
+     "title": "Toyota (TSE:7203) Stock Could Be 39% Overvalued After EU Rules Push",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-19T18:13:26+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV3hxb1JTT0lnOS1sNTQyUFRUNWVJWk52TVYxQUFnQUlHS1Nabm9USnIzbmFYRFhyUnpxbDFtRmd0TUkwMFVHYzNNOTZMR3k2YnMwYTVxUDVqQ25CbUJGcWhjX1dsemZYZ2V2M09MTXo3MHA1aWpNa09zWkxjU1pKQ083NEFObGlGdVZnVlAwRk9SSWdQbHBV?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.7441532611846924,
+      "probs": {
+       "neutral": 0.7441532611846924,
+       "positive": 0.22770966589450836,
+       "negative": 0.028137100860476494
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.045710454881191256,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 0,
+     "neutral": 10,
+     "negative": 0
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "2330.TW": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:49.102298+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Nvidia Drives Fresh Interest In TSMC Stock And AI Packaging Plays",
+     "publisher": "Simply Wall Street",
+     "published": "2026-10-26T04:52:30+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNblFXNFIyVFo0MnZOTXE5RDdNRE9NS0RqQW1DRFZQTDhRR3RVN05INjYxNUE1NXJBb0VTczhGNDNyQnFNWnJtS015VWREQjBDR1RMZkliNWQ3WGVuVExHQVJzZ1Z1RDNJT0JGT2lVVVc2c0lCWTVWdjlsTDBtZUdWYmZHaHdJbkZpSEVYMllIZE5NeEhTTFpGSHpVU0N1S2IyMnZNaDM1c19fQldQOTlGUnZLOFZwcWwybWIxejZibHJPZUV6djVvR9IBzgFBVV95cUxOM3VHMTBTZm52eXdYMExtNWo3eE1sVlZIa2JnNm5WT0NMcmZiZ2M4b2hJR3lTdnBlRWxHNnc2QU9sN01YN3VWRkpqVFlmWXk3UzlZUGRkX1RtWFRHMDdpVlBnVkpWOVZibFIzM2t2eXV5Um1FQ0lpVHVfb29YWkpZQk1JRkhNRVZMamx5eUJDaEc1anhWVTdTWENGcDlGMHRPc2pDa0lseG1vWUwtOFd6MEZLN0RIdDVwU2NIN0NxSHJJV3VWN2N2b01XY1RSQQ?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7835323214530945,
+      "probs": {
+       "positive": 0.7835323214530945,
+       "neutral": 0.1966257095336914,
+       "negative": 0.01984201930463314
+      }
+     }
+    },
+    {
+     "title": "Taiwan Semiconductor Is Set to Cash in on AI. Here's What a $5,000 Investment Could Be Worth by 2030.",
+     "publisher": "The Globe and Mail",
+     "published": "2026-10-25T14:15:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcWRNaUVpX2FjSFpZTHR0OVVNY21LS01PZmJ2M2NxNVMtRmY5aVN4TzlIRG5BSWpVeGdYaGpPZ1JrZi1WN3RBcUtoTEJ4cDVNZ3Z0RUx3N1pEcDE4NzY3ZXFKMElxM0ljdkRieGU0MnZtSUV4cW1QaTNGdWdSYnNPczZfOUNLSDUxU2hEVmd3S0hHMzVfOGV1SWhkWWFXUUZPUVhzSDdyWmtuNFhHUTJkOGdENnhhQ3hBd1hBRlBSNFY3dmo4SDFxX3JxUHdxOUxCcE9JVktCSndodEhfSWNwbjhwOVJoYVFYZHZES3IxMFF5SUFYeklydWNCYy1qMUJPcWhyT2RObmVOdlR5dVJyZjZ3?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9205958247184753,
+      "probs": {
+       "neutral": 0.9205958247184753,
+       "positive": 0.06648761034011841,
+       "negative": 0.012916571460664272
+      }
+     }
+    },
+    {
+     "title": "TSMC Faces Revenue 'Uncertainty' In 2028-29 As AI Investments Need To Prove Their Returns, Morningstar Analyst Says",
+     "publisher": "Stocktwits",
+     "published": "2026-10-24T23:08:09+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmFsNzl4TU16dUxqTXhCMVlNcXZvSXJ0ZWJKSU1OcDRpTnJwdkZxN3RHTmpGSUV5Nnh0Um12SG5ibTJGZUhQUVN4ZmtXQUdheXJmcVVzRm9qZWdNQWdmTG02dFl5V2dQLXJuUUVBeTBjZ0hhZDdhc3FqRko2ZVg2TEljNE9lV0pTSjlIUVBvYllOY19BQmZDME9KMHduZ2RWVWM2b09XQlNveEYzQnBJUzFSWXRZU0ROUXNhbkZvTE5nbEFfSnc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9512075185775757,
+      "probs": {
+       "negative": 0.9512075185775757,
+       "neutral": 0.032810915261507034,
+       "positive": 0.015981538221240044
+      }
+     }
+    },
+    {
+     "title": "TSMC Debunks Irrational AI Fears As Pricing Power Expands (Rating Upgrade) (NYSE:TSM)",
+     "publisher": "Seeking Alpha",
+     "published": "2026-10-24T12:19:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVhFdlg4SFFKQ0sxVVcyMnNvdGxFYVNKOVRpMFRXNnhjV0txOGphTHR1Q2N5S0hRbUVoMWhKcE12Qlh4MEFjb2hKWDR0dUREb3Ywb1p4ZWFLcW8tQVRxdC1Xd2ZwVlRQRXpLS1MwUURibmxDYk14Slc3UV83NlNLLUl5ZVJGUUJWa0VKTl9RaFlUR3ZjNGpBSl9JX21kbFo5VVRVaEYzckRGZnVUYVhtVTZ1cw?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.7558143138885498,
+      "probs": {
+       "positive": 0.7558143138885498,
+       "neutral": 0.22338898479938507,
+       "negative": 0.0207967571914196
+      }
+     }
+    },
+    {
+     "title": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-24T05:00:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTRfalhnWXlGTDVmTnI5MzN0ZGVseU9IYThCWS1GVldzUzJaTGZZNnFPZ3JJQWpISFctR1IxSTVLQ1N1aHNVLUc3a2pRNEd3TFVDekkwY25jekxBU1ZpbjJwTWxyOUtGVlFOWGNlVnRQczdSWkZXaVJQVXRvVU94S19EZTJnVUlnRXVHTTBodTM1T01ES1dB?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.948646605014801,
+      "probs": {
+       "neutral": 0.948646605014801,
+       "positive": 0.033761512488126755,
+       "negative": 0.017591839656233788
+      }
+     }
+    },
+    {
+     "title": "TSMC Stock Outlook: Terafab, AI Chip Demand and Valuation",
+     "publisher": "www.equiti.com",
+     "published": "2026-10-23T19:18:38+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1oxdVNWWU5zeWNMeUlUZXVQcXcwSkwtaVEwSnF2cVVZZ2RPeUJRS3ZUN1VRREprLWtsejRoeVNqN2lWYVpKeEJ5MXNVemFJZ2FJSmVKMDNiZzI0RjdRNFllM2VBZk1wQnN1akFhb1JzMEhWeDFhZ0gwdWFBTDNBVlI5U09hWERpUDBOQzFZUTZDVlk?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.937935471534729,
+      "probs": {
+       "neutral": 0.937935471534729,
+       "positive": 0.044802386313676834,
+       "negative": 0.017262134701013565
+      }
+     }
+    },
+    {
+     "title": "TSMC Stocks Rise as Record Profit Meets 2027 Caution",
+     "publisher": "Yahoo Finance",
+     "published": "2026-10-23T19:04:14+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEJwQmJUaWZkenJIYk1KcFR5TzZMTDM3WDNFVEkwX28xUHA1eHNkWi0tZGJGbHZJNVV0TENJUTl0amJ0ZkxvOXdSMV9JcnJpbVplZVVIaHl6T1BYNXZpeVdHU19za2VRQWNSRTI4cFZUSTRGV3dmR2dSU0dLQnBfdWM4SGE2eVZjSWQ1NHlNN202SWU4UUdXQTVzOA?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8038131594657898,
+      "probs": {
+       "positive": 0.8038131594657898,
+       "negative": 0.14438621699810028,
+       "neutral": 0.05180064216256142
+      }
+     }
+    },
+    {
+     "title": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
+     "publisher": "The Motley Fool",
+     "published": "2026-10-23T18:15:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUC14clR2aXF2cVFkUGpJWjYzNEFKYTlWQVBySmdMdUY4Y3QtQmNXbVlaVjVyWEpuNjNzbXlCRER4WVRyeFFwWGFHcXJPOFA3UGc5R1pNb05CX3V6ZkM4VWRibmdaRG9GN3NXbVBDTkZYZ1J2eUJSSkd5OWlza05OSnQ4TUE0VTNyOXhNTGtiSkRxd05xTmhB?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8212082982063293,
+      "probs": {
+       "negative": 0.8212082982063293,
+       "neutral": 0.15489819645881653,
+       "positive": 0.02389358915388584
+      }
+     }
+    },
+    {
+     "title": "What's Going On With Taiwan Semiconductor Stock Friday?",
+     "publisher": "Benzinga",
+     "published": "2026-10-23T17:50:03+00:00",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1hWNFFIMUw3cmE2SlhnZUJYcXgtaGVjYV96SjJDWjBaV1JWUlJxNWw1WGR0VTNreXRaS09MTGxCdWMzc3dfa0tsd09FdE5LeVA0aWdMQmV4eFRqMjNXM21kNmRHVnlFb2Y2OEVjTy1tVVVMVUJ1dkxDaFc0SlhkRmZZMGJNN1hDYl8tSlc5eVkxdDFjQ1d1b19KaUtOc1ZhSjl4bnJZS2o0Q3Vi?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.5919930338859558,
+      "probs": {
+       "negative": 0.5919930338859558,
+       "neutral": 0.3849201500415802,
+       "positive": 0.023086747154593468
+      }
+     }
+    },
+    {
+     "title": "Taiwan Semiconductor Will Transition Into an Indispensible Utility of Global Computing Within 5 Years",
+     "publisher": "24/7 Wall St.",
+     "published": "2026-10-23T16:45:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblNIRms1YWZKSjN1WENrYkttcUlzeDkwaVkyR0VBSFpDWlFtTktTSU1NNDM4YnJxRzJvTm9pbnEzZFV2UWxlYTRsa3BHMGNPZ1VkMVcyNW0zQm5BellRM0RMczZCZzVpeE5LYVFsVXZjeVVCSzRZWWY2ZU5zeDg4OG5uMC1yWlVidjFRU1VaMlh0T3VnSDNCdm1SbmVST0pRVTc5emJLN2wwU3JhQVM5TjJjdUs4d25QdWR5bjBzaHBGYlY3UTNOYjJWWlJoemxQTHR3XzQyY0NQczJMZFE?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.6769304275512695,
+      "probs": {
+       "neutral": 0.6769304275512695,
+       "positive": 0.3153197467327118,
+       "negative": 0.007749806623905897
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": 0.026153872860595583,
+    "label": "neutral",
+    "label_de": "neutral",
+    "counts": {
+     "positive": 3,
+     "neutral": 4,
+     "negative": 3
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ },
+ "005930.KS": {
+  "available": true,
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T07:35:50.052348+00:00",
+  "error": null,
+  "data": {
+   "items": [
+    {
+     "title": "Shareholder returns key to rebound in Samsung and SK hynix shares",
+     "publisher": "머니투데이",
+     "published": "2026-10-26T06:58:05+00:00",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ENVN3MDBiQm82YmJ5RlFtTTZ5cnVJcGx0djlqdk16RFNFVWdqVU9qdGJ3N0tramYxc085bjE0OEYzZ2JnSTZFQkxPX0JXaXBLcHczWnpJMFFuOVVlYy1XN3ZuSWgwWEQzQWppUkRWN2w?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "positive",
+      "label_de": "positiv",
+      "confidence": 0.8776162266731262,
+      "probs": {
+       "positive": 0.8776162266731262,
+       "negative": 0.09569965302944183,
+       "neutral": 0.02668410912156105
+      }
+     }
+    },
+    {
+     "title": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend",
+     "publisher": "TradingKey",
+     "published": "2026-10-26T06:57:14+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHlvYm9yQkJacmFKT0tLbWs0VnJHTFVvZ3dJZ2prVDRHWFdpdWpIcTNPSTBOZHl6bWtiNlZWWkR2S18wYmZmNlNhMDd1eVUtUzdXYWExNGdZQjJCV1huUnZQM0U1UHJ3aGQxc3dKVHpoekhQbndDWnB2Q3V6U2FCX1h2Y0xPTnBHQk51bHRmbWFsa0ZudUxBUXpUWVFRbmhNOFNSOVpYRE9KZ1huQWw1VG1jOXYyanBTTEhocndtelFpZF9Dem9rWmYtUF8?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.967573881149292,
+      "probs": {
+       "negative": 0.967573881149292,
+       "neutral": 0.0233378354460001,
+       "positive": 0.009088304825127125
+      }
+     }
+    },
+    {
+     "title": "It was found that the top 1% of stock investment returns also bought SK Hynix and Samsung Electronic..",
+     "publisher": "매일경제",
+     "published": "2026-10-26T06:35:56+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kUG85UEVlMGNNZ2F0S183eEVDWnYxYUFqeXg4M21LQUJQUHpJY25Kem16Q1JGajBoMXR2SU9MbjBKVGsxT0oxSUxyVjRwUE0?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.9150363802909851,
+      "probs": {
+       "neutral": 0.9150363802909851,
+       "positive": 0.07432042807340622,
+       "negative": 0.010643181391060352
+      }
+     }
+    },
+    {
+     "title": "Samsung, SK Hynix Seek Investor Reassurance Amid Earnings Surge, Stock Slump",
+     "publisher": "조선일보",
+     "published": "2026-10-26T04:45:37+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVhmc0JseXdCSVI0WVhubmhjRWlPSHdRTDNLUDQ3Z3R3aXBEZS1iSmhJQ1pKR0d1T3NwVjNJd2hmcUU2dG82bUhwdWYzMGpTNVZ5TDJxeWN2b1QwcGJ6TWU5d1BTUG5FbHNOeGQ3ODdMVV9HUG9jU0lBSTRzbmhBRDVSVXV0dnVo?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.49650442600250244,
+      "probs": {
+       "negative": 0.49650442600250244,
+       "neutral": 0.3961490988731384,
+       "positive": 0.10734650492668152
+      }
+     }
+    },
+    {
+     "title": "Samsung, SK Hynix Post Record 180 Trillion Won Profits; Stocks Slump",
+     "publisher": "조선일보",
+     "published": "2026-10-26T02:48:16+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVVSNHE3UWRIMGYyZ29lZEFrUUMwZDRvWUowc1g3QUlrVEZCNzZQZ2lLZnpHdnhSamkzRndGUG5oMnhlNG9Cei1aV3UtTWVCMlE1WTU2UG5ZckVsT21ESDhSSGQyenlzWlVULWxtZ2dpd19XdEljV3BodWI1S1g1MHIyQXYweDZ5?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.6826217770576477,
+      "probs": {
+       "negative": 0.6826217770576477,
+       "positive": 0.20853514969348907,
+       "neutral": 0.108843132853508
+      }
+     }
+    },
+    {
+     "title": "[Opening Market] KOSPI Opens Lower Below 5,500 Amid Investor Tug-of-War",
+     "publisher": "Businesskorea",
+     "published": "2026-10-26T02:41:25+00:00",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PX012YnRzLWJsbmRoMHRxcUc1d0czU0V6VERXbkt2MUloNndCUVRlWHVKQjQzT2x1djhialFQNF9qcXFxb2lJVmdYbmJsbUwxNTd5NTNXUHhTRmdCUXVLMWtLWWxXY2t0MnZvMnlWR1RNdEJk?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9611293077468872,
+      "probs": {
+       "negative": 0.9611293077468872,
+       "positive": 0.020293066278100014,
+       "neutral": 0.018577566370368004
+      }
+     }
+    },
+    {
+     "title": "The top 1% of stock investment returns bought SK Hynix, Samsung Electronics, and Samsung Electronics..",
+     "publisher": "매일경제",
+     "published": "2026-10-26T01:31:23+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mTmhTcHdnSGU1eEdVOWRlcWwtQTM1d0xkTEdHUU1OR1g0TFhIUVpIYkliaHVjMnBQV2JPQzVHdUo4NVFsRWwxcWRkQTFIa0E?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "neutral",
+      "label_de": "neutral",
+      "confidence": 0.8844334483146667,
+      "probs": {
+       "neutral": 0.8844334483146667,
+       "positive": 0.10690849274396896,
+       "negative": 0.008658058941364288
+      }
+     }
+    },
+    {
+     "title": "Samsung, SK Hynix Stocks Drop 30% on AI Concerns",
+     "publisher": "조선일보",
+     "published": "2026-10-26T01:20:35+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkVfa3dOYlpEVXc0cGpUdms4MERqOTEzZ1FldTlqbWxjOF8takdGVHFYb1o0Z3RORnJDaFdsbzUyNUVtcGlvdHhLYXpGTTFLNUM2WlpBZHR1MDg5dTBpdDlWeWU3d3hmVG9uRUc5MnZyMDhySEZPTHBaT1VqZWFkeFQ2d0ZQdlp2WkVTeU9R?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.9580205678939819,
+      "probs": {
+       "negative": 0.9580205678939819,
+       "neutral": 0.03405158966779709,
+       "positive": 0.00792788341641426
+      }
+     }
+    },
+    {
+     "title": "KOSPI Mixed in Early Trading Amid U.S. Rate Decision and Q3 Earnings 'Super Week'",
+     "publisher": "머니투데이",
+     "published": "2026-10-26T00:49:31+00:00",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcndNcTFZSTVPQjdITHFNT0xOWjB5NkJ1N3hMRHZmOEROdXkyX2tTRmVpdXYyVUZkdVdEVkc5SEI1TWtQaHFtdFFpTzBsTVpxWUJubkxFOVFrUG5LbjJITWM0d2U3N2QzRUNkeg?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8460968732833862,
+      "probs": {
+       "negative": 0.8460968732833862,
+       "positive": 0.13465677201747894,
+       "neutral": 0.019246304407715797
+      }
+     }
+    },
+    {
+     "title": "Kospi Opens Lower Under Pressure as Samsung Electronics Drops Over 1%; SK Hynix Surges More Than 2% as Kioxia and SoftBank Follow",
+     "publisher": "TradingKey",
+     "published": "2026-10-26T00:43:37+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUtsZkFIMmR6V2NVdDBiY3FiUnJYeDdJU3o5OVhmSGJvS25jekVhaTFxbXB2di1IU091UVN5ZlBZSGVLSjBMQTVudUY4UTI2SzUwUUM5YWluekU1TVphdG9TbFA1NjkzS2lUTzRrbEdRQk9CYWpnY2FYWFFTTEk5UVRlTUw1OVFsNFVQMXlocXMtUEM5T1NLSDFNcGQwVnVBaEd0QWUxSE1xa21jZzhSQnk0V2tDckd4bG5uc2ZJa1VwcHc?oc=5",
+     "feed": "Google News",
+     "sentiment": {
+      "label": "negative",
+      "label_de": "negativ",
+      "confidence": 0.8197508454322815,
+      "probs": {
+       "negative": 0.8197508454322815,
+       "positive": 0.15965403616428375,
+       "neutral": 0.020595112815499306
+      }
+     }
+    }
+   ],
+   "average": {
+    "net_score": -0.4140351707115769,
+    "label": "negative",
+    "label_de": "negativ",
+    "counts": {
+     "positive": 1,
+     "neutral": 2,
+     "negative": 7
+    },
+    "n": 10
+   },
+   "feed_errors": [],
+   "feed_counts": {
+    "Yahoo": 0,
+    "Google News": 100
+   },
+   "sentiment_error": null
+  }
+ }
+}
