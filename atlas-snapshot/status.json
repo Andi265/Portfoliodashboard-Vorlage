@@ -1,0 +1,898 @@
+[
+ {
+  "key": "fa:AAPL",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.780600+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:AMD",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.793478+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:AMZN",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.784884+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:GOOGL",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.786184+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:JPM",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.790828+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:META",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.787496+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:MSFT",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.782101+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:NVDA",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.783488+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:TSLA",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.788891+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fa:V",
+  "source": "SEC EDGAR (data.sec.gov companyfacts/submissions)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.792104+00:00",
+  "error": "CIK-Zuordnung: RuntimeError: SEC_CONTACT_EMAIL ist nicht gesetzt (SEC verlangt einen User-Agent mit Kontakt-E-Mail)",
+  "available": false
+ },
+ {
+  "key": "fred:BUND10",
+  "source": "FRED, Federal Reserve Bank of St. Louis (BUND10)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.779352+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:CPI_YOY",
+  "source": "FRED, Federal Reserve Bank of St. Louis (CPI_YOY)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.773485+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:DFF",
+  "source": "FRED, Federal Reserve Bank of St. Louis (DFF)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.767202+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:DGS10",
+  "source": "FRED, Federal Reserve Bank of St. Louis (DGS10)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.772035+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:DGS2",
+  "source": "FRED, Federal Reserve Bank of St. Louis (DGS2)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.770550+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:DGS3MO",
+  "source": "FRED, Federal Reserve Bank of St. Louis (DGS3MO)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.769056+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:ECBDFR",
+  "source": "FRED, Federal Reserve Bank of St. Louis (ECBDFR)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.776511+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:HICP_YOY",
+  "source": "FRED, Federal Reserve Bank of St. Louis (HICP_YOY)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.777979+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "fred:UNRATE",
+  "source": "FRED, Federal Reserve Bank of St. Louis (UNRATE)",
+  "updated_at": null,
+  "attempted_at": "2026-10-26T15:59:46.775064+00:00",
+  "error": "fred.json fehlt (wird von den Routinen geschrieben)",
+  "available": false
+ },
+ {
+  "key": "history:000001.SS",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:12.736921+00:00",
+  "attempted_at": "2026-10-26T15:59:12.736921+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:005930.KS",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:13.013630+00:00",
+  "attempted_at": "2026-10-26T15:59:13.013630+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:2330.TW",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:13.205838+00:00",
+  "attempted_at": "2026-10-26T15:59:13.205838+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:7203.T",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:13.442351+00:00",
+  "attempted_at": "2026-10-26T15:59:13.442351+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:AAPL",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:13.653929+00:00",
+  "attempted_at": "2026-10-26T15:59:13.653929+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:ALV.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:13.874416+00:00",
+  "attempted_at": "2026-10-26T15:59:13.874416+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:AMD",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:14.046320+00:00",
+  "attempted_at": "2026-10-26T15:59:14.046320+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:AMZN",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:14.225710+00:00",
+  "attempted_at": "2026-10-26T15:59:14.225710+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:ASML.AS",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:14.439799+00:00",
+  "attempted_at": "2026-10-26T15:59:14.439799+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:BTC-USD",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:14.676171+00:00",
+  "attempted_at": "2026-10-26T15:59:14.676171+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:BZ=F",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:14.878214+00:00",
+  "attempted_at": "2026-10-26T15:59:14.878214+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:DIA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:15.123402+00:00",
+  "attempted_at": "2026-10-26T15:59:15.123402+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:EEM",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:15.317902+00:00",
+  "attempted_at": "2026-10-26T15:59:15.317902+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:EUNL.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:15.521449+00:00",
+  "attempted_at": "2026-10-26T15:59:15.521449+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:EURUSD=X",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:15.736512+00:00",
+  "attempted_at": "2026-10-26T15:59:15.736512+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:GC=F",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:15.922747+00:00",
+  "attempted_at": "2026-10-26T15:59:15.922747+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:GOOGL",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:16.147875+00:00",
+  "attempted_at": "2026-10-26T15:59:16.147875+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:IWM",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:16.367220+00:00",
+  "attempted_at": "2026-10-26T15:59:16.367220+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:JPM",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:16.593127+00:00",
+  "attempted_at": "2026-10-26T15:59:16.593127+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:MC.PA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:16.791891+00:00",
+  "attempted_at": "2026-10-26T15:59:16.791891+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:META",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:17.001093+00:00",
+  "attempted_at": "2026-10-26T15:59:17.001093+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:MSFT",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:17.270746+00:00",
+  "attempted_at": "2026-10-26T15:59:17.270746+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:NOVO-B.CO",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:17.495461+00:00",
+  "attempted_at": "2026-10-26T15:59:17.495461+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:NVDA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:17.684365+00:00",
+  "attempted_at": "2026-10-26T15:59:17.684365+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:QQQ",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:17.881333+00:00",
+  "attempted_at": "2026-10-26T15:59:17.881333+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:SAP.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:18.075896+00:00",
+  "attempted_at": "2026-10-26T15:59:18.075896+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:SIE.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:18.290850+00:00",
+  "attempted_at": "2026-10-26T15:59:18.290850+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:SPY",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:18.491669+00:00",
+  "attempted_at": "2026-10-26T15:59:18.491669+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:TSLA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:18.681934+00:00",
+  "attempted_at": "2026-10-26T15:59:18.681934+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:V",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:18.867550+00:00",
+  "attempted_at": "2026-10-26T15:59:18.867550+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:^FTSE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:19.033629+00:00",
+  "attempted_at": "2026-10-26T15:59:19.033629+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:^GDAXI",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:19.234585+00:00",
+  "attempted_at": "2026-10-26T15:59:19.234585+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:^HSI",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:19.477407+00:00",
+  "attempted_at": "2026-10-26T15:59:19.477407+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:^N225",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:19.647357+00:00",
+  "attempted_at": "2026-10-26T15:59:19.647357+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:^NSEI",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:19.810200+00:00",
+  "attempted_at": "2026-10-26T15:59:19.810200+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:^STOXX50E",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:19.997134+00:00",
+  "attempted_at": "2026-10-26T15:59:19.997134+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "history:^VIX",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:20.193932+00:00",
+  "attempted_at": "2026-10-26T15:59:20.193932+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:005930.KS",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:46.764464+00:00",
+  "attempted_at": "2026-10-26T15:59:46.764464+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:2330.TW",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:45.627690+00:00",
+  "attempted_at": "2026-10-26T15:59:45.627690+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:7203.T",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:44.512696+00:00",
+  "attempted_at": "2026-10-26T15:59:44.512696+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:AAPL",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:25.700565+00:00",
+  "attempted_at": "2026-10-26T15:59:25.700565+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:ALV.DE",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:39.777186+00:00",
+  "attempted_at": "2026-10-26T15:59:39.777186+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:AMD",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:35.937572+00:00",
+  "attempted_at": "2026-10-26T15:59:35.937572+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:AMZN",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:28.932529+00:00",
+  "attempted_at": "2026-10-26T15:59:28.932529+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:ASML.AS",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:43.331865+00:00",
+  "attempted_at": "2026-10-26T15:59:43.331865+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:GOOGL",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:29.979642+00:00",
+  "attempted_at": "2026-10-26T15:59:29.979642+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:JPM",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:33.192491+00:00",
+  "attempted_at": "2026-10-26T15:59:33.192491+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:MC.PA",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:41.128986+00:00",
+  "attempted_at": "2026-10-26T15:59:41.128986+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:META",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:31.072355+00:00",
+  "attempted_at": "2026-10-26T15:59:31.072355+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:MSFT",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:26.776168+00:00",
+  "attempted_at": "2026-10-26T15:59:26.776168+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:NOVO-B.CO",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:42.179175+00:00",
+  "attempted_at": "2026-10-26T15:59:42.179175+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:NVDA",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:27.883850+00:00",
+  "attempted_at": "2026-10-26T15:59:27.883850+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:SAP.DE",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:37.213184+00:00",
+  "attempted_at": "2026-10-26T15:59:37.213184+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:SIE.DE",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:38.739072+00:00",
+  "attempted_at": "2026-10-26T15:59:38.739072+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:TSLA",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:32.209340+00:00",
+  "attempted_at": "2026-10-26T15:59:32.209340+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "news:V",
+  "source": "Yahoo Finance (yfinance) + Google News RSS; Stimmung: FinBERT (ProsusAI/finbert)",
+  "updated_at": "2026-10-26T15:59:34.232452+00:00",
+  "attempted_at": "2026-10-26T15:59:34.232452+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:000001.SS",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:01.268181+00:00",
+  "attempted_at": "2026-10-26T15:59:01.268181+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:005930.KS",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:01.626520+00:00",
+  "attempted_at": "2026-10-26T15:59:01.626520+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:2330.TW",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:01.974970+00:00",
+  "attempted_at": "2026-10-26T15:59:01.974970+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:7203.T",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:02.329481+00:00",
+  "attempted_at": "2026-10-26T15:59:02.329481+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:AAPL",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:02.662228+00:00",
+  "attempted_at": "2026-10-26T15:59:02.662228+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:ALV.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:03.109334+00:00",
+  "attempted_at": "2026-10-26T15:59:03.109334+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:AMD",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:03.378844+00:00",
+  "attempted_at": "2026-10-26T15:59:03.378844+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:AMZN",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:03.759970+00:00",
+  "attempted_at": "2026-10-26T15:59:03.759970+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:ASML.AS",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:04.072309+00:00",
+  "attempted_at": "2026-10-26T15:59:04.072309+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:BTC-USD",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:04.355773+00:00",
+  "attempted_at": "2026-10-26T15:59:04.355773+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:BZ=F",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:04.610536+00:00",
+  "attempted_at": "2026-10-26T15:59:04.610536+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:DIA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:05.022503+00:00",
+  "attempted_at": "2026-10-26T15:59:05.022503+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:EEM",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:05.314868+00:00",
+  "attempted_at": "2026-10-26T15:59:05.314868+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:EUNL.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:05.579916+00:00",
+  "attempted_at": "2026-10-26T15:59:05.579916+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:EURUSD=X",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:05.838341+00:00",
+  "attempted_at": "2026-10-26T15:59:05.838341+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:GC=F",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:06.094682+00:00",
+  "attempted_at": "2026-10-26T15:59:06.094682+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:GOOGL",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:06.371786+00:00",
+  "attempted_at": "2026-10-26T15:59:06.371786+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:IWM",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:06.674675+00:00",
+  "attempted_at": "2026-10-26T15:59:06.674675+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:JPM",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:06.990295+00:00",
+  "attempted_at": "2026-10-26T15:59:06.990295+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:MC.PA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:07.307532+00:00",
+  "attempted_at": "2026-10-26T15:59:07.307532+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:META",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:07.616290+00:00",
+  "attempted_at": "2026-10-26T15:59:07.616290+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:MSFT",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:07.966900+00:00",
+  "attempted_at": "2026-10-26T15:59:07.966900+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:NOVO-B.CO",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:08.365125+00:00",
+  "attempted_at": "2026-10-26T15:59:08.365125+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:NVDA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:08.660206+00:00",
+  "attempted_at": "2026-10-26T15:59:08.660206+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:QQQ",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:08.967213+00:00",
+  "attempted_at": "2026-10-26T15:59:08.967213+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:SAP.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:09.282474+00:00",
+  "attempted_at": "2026-10-26T15:59:09.282474+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:SIE.DE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:09.633748+00:00",
+  "attempted_at": "2026-10-26T15:59:09.633748+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:SPY",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:09.947132+00:00",
+  "attempted_at": "2026-10-26T15:59:09.947132+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:TSLA",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:10.264526+00:00",
+  "attempted_at": "2026-10-26T15:59:10.264526+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:V",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:10.570128+00:00",
+  "attempted_at": "2026-10-26T15:59:10.570128+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:^FTSE",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:10.843314+00:00",
+  "attempted_at": "2026-10-26T15:59:10.843314+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:^GDAXI",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:11.155128+00:00",
+  "attempted_at": "2026-10-26T15:59:11.155128+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:^HSI",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:11.429307+00:00",
+  "attempted_at": "2026-10-26T15:59:11.429307+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:^N225",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:11.701164+00:00",
+  "attempted_at": "2026-10-26T15:59:11.701164+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:^NSEI",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:11.970359+00:00",
+  "attempted_at": "2026-10-26T15:59:11.970359+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:^STOXX50E",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:12.264986+00:00",
+  "attempted_at": "2026-10-26T15:59:12.264986+00:00",
+  "error": null,
+  "available": true
+ },
+ {
+  "key": "quote:^VIX",
+  "source": "Yahoo Finance via yfinance (delayed)",
+  "updated_at": "2026-10-26T15:59:12.545932+00:00",
+  "attempted_at": "2026-10-26T15:59:12.545932+00:00",
+  "error": null,
+  "available": true
+ }
+]
