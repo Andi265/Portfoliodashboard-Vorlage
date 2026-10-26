@@ -13,8 +13,8 @@ Scalable Capital über den Scalable-Connector, **führt aber nie Trades aus**.
   Seite „Atlas Briefing“ im Terminal-Design, auf Wunsch mit Push-Nachricht aufs Handy. Das Dinner-Briefing macht die
   Startanalyse, freitags den Wochenrückblick und am Monatsende den Portfolio-Check samt Vorschlägen für das Universum.
 - **Journal:** gemeinsames Gedächtnis beider Routinen (Signale, offene Punkte, Verlauf).
-- **Datenabruf:** ein GitHub-Ablauf holt etwa 45 Minuten vor jeder Routine frische Daten und legt sie als Snapshot
-  im Repository ab.
+- **Datenabruf:** Jede Routine fordert beim Start selbst einen frischen Abruf an (GitHub Actions) und wartet darauf;
+  der Snapshot liegt danach im Repository. Ein Zeitplan vor jeder Routine dient als Absicherung.
 
 ## Einrichtung
 

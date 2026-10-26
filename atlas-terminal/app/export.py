@@ -88,7 +88,10 @@ def main():
     out = Path(args.out)
 
     now = datetime.now(BERLIN)
-    slot = current_slot(now) if args.slot == "auto" else args.slot
+    # "request": von einer Routine angefordert -> immer ausführen; liegt die Zeit in einem Slot, zählt er als erledigt
+    slot = current_slot(now) if args.slot in ("auto", "request") else args.slot
+    if args.slot == "request" and slot is None:
+        slot = "request"
     meta_path = out / "meta.json"
     prev = json.loads(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
     due = True

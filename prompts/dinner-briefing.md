@@ -59,7 +59,7 @@ Die Makrodaten holst du **in jedem Lauf selbst** über den **FRED-Connector**. E
 - Fällt ein Aufruf aus, lässt du die Reihe in `fred.json` weg und nennst den Fehler unter `notes`.
 
 ## Datenquelle: Atlas Terminal (Snapshot im Repo)
-Mein Finanzterminal läuft als GitHub-Action **vor** dieser Routine (etwa 45 Minuten vor jeder Routine, Zeiten aus `settings.json`) und legt geprüfte Daten aus Yahoo Finance (delayed), FRED, SEC EDGAR und Google News mit FinBERT-Stimmung als JSON im Ordner **`atlas-snapshot/`** dieses Repos ab. Du brauchst dafür keinen Netzwerkzugriff, die Dateien liegen nach dem Klonen vor. Führe trotzdem zu Beginn `git pull origin main` aus, damit du den neuesten Snapshot hast.
+Mein Finanzterminal läuft als GitHub-Action, die du **zu Beginn jedes Laufs selbst anforderst** (`python atlas_sync.py --request`, siehe Ablauf; ein fester Zeitplan etwa 45 Minuten vor jeder Routine dient nur als Absicherung), und legt geprüfte Daten aus Yahoo Finance (delayed), FRED, SEC EDGAR und Google News mit FinBERT-Stimmung als JSON im Ordner **`atlas-snapshot/`** dieses Repos ab. Du brauchst dafür keinen Netzwerkzugriff, die Dateien liegen nach dem Klonen vor. Führe trotzdem zu Beginn `git pull origin main` aus, damit du den neuesten Snapshot hast.
 
 | Datei | Inhalt |
 |---|---|
@@ -74,7 +74,7 @@ Mein Finanzterminal läuft als GitHub-Action **vor** dieser Routine (etwa 45 Min
 
 Regeln für die Nutzung:
 - Das Universum ist **fest** und steht in `atlas-snapshot/meta.json → universe_regions` (Namen in `names`): weltweite Marktführer aus USA, Europa und Asien. Meine eigenen Depotpositionen sind bewusst **nicht** im Universum, die bewertest du unter „Signale“ mit Scalable-Daten. Watchlist-Kandidaten dürfen **weltweit** gewählt werden: Liegt ein Kandidat im Universum, nutzt du die Atlas-Daten; sonst Scalable (`get_security_quote`, `get_security_chart`, `get_security_news`) und Websuche.
-- Prüfe zuerst `meta.json`: Ist `generated_at` **älter als 3 Stunden**, ist der Snapshot dieses Slots ausgefallen. Dann nennst du in der Ausgabe „Atlas-Snapshot veraltet (Stand …)“ und nutzt die Werte nur mit diesem Hinweis.
+- Prüfe danach `meta.json`: Ist `generated_at` trotz Anforderung **älter als 30 Minuten**, ist der Abruf ausgefallen. Dann nennst du in der Ausgabe „Atlas-Snapshot veraltet (Stand …)“ und nutzt die Werte nur mit diesem Hinweis.
 - Werte mit `error` oder `available: false` übernimmst du **nicht**. Stattdessen schreibst du „Atlas: Daten nicht verfügbar (Fehler)“. Die betroffenen Quellen stehen in `meta.json → failed_sources`. Bleibt ein letzter erfolgreicher Stand mit Fehlerhinweis sichtbar, gibst du sein `updated_at` an.
 - Kurse sind verzögert (delayed). Q4-Werte mit `derived_q4: true` sind aus dem 10-K abgeleitet.
 
@@ -116,8 +116,10 @@ Du läufst in einer Cloud-Umgebung mit meinem privaten Repository. Die Datei **`
 - Fehlt das Journal, legst du es mit den Abschnitten Status, Aktuelle Signale, Offene Punkte für den nächsten Lauf, Universum-Vorschläge, Log und Archiv an. Fehlt nur der Abschnitt „Universum-Vorschläge“, legst du ihn beim ersten Monats-Check vor „Log“ an.
 
 ## Ablauf
-### 0. Journal lesen, FRED-Connector abrufen. Erster Lauf? → Startanalyse
-Rufe zuerst den FRED-Connector ab und schreibe `dashboard/fred.json` (siehe „Makrodaten: FRED-Connector“).
+### 0. Frischen Snapshot anfordern, Journal lesen, FRED-Connector abrufen. Erster Lauf? → Startanalyse
+**Frischer Snapshot zuerst:** `git pull --ff-only origin main`, dann `python atlas_sync.py --request`. Das fordert bei GitHub einen frischen Atlas-Abruf an und wartet, bis er auf `main` liegt (meist 3–5 Minuten, höchstens 9). Im Bash-Tool **mit `timeout: 600000`** aufrufen, nicht im Hintergrund und nicht vorzeitig abbrechen. Meldet das Skript, dass der Snapshot nicht rechtzeitig kam, arbeitest du mit dem vorhandenen Stand weiter und nennst das in der Ausgabe und unter `notes` („Atlas-Snapshot vom … – Abruf nicht rechtzeitig“). Den FRED-Connector rufst du währenddessen nicht auf; das kommt danach.
+
+Rufe danach den FRED-Connector ab und schreibe `dashboard/fred.json` (siehe „Makrodaten: FRED-Connector“).
 Führe `git pull origin main` aus und lies das Journal sowie `atlas-snapshot/meta.json` (siehe oben). Steht unter „Status“ **kein Datum der Startanalyse** und existiert die Watchlist **„Kandidaten“** nicht (`list_watchlist_items`), ist das der erste Lauf. Erstelle dann statt der Tagesanalyse die einmalige **Startanalyse**:
 1. **Ist-Zustand**: Gewichtung jeder Position in € und %, Aufteilung Kern-ETFs / Themen-ETFs / Einzelaktien / Krypto / Cash, Regionen, Sektoren, größte Klumpenrisiken, Einstandskurse sowie Gewinn und Verlust je Position.
 2. **ETF-Kern (Ziel 1)**: Überschneidungen zwischen meinen ETFs, Länder-Übergewichtungen (Home Bias), Kosten, Passung der Sparpläne zu den Beständen. Ist der Kern einfach, günstig und breit genug gestreut?

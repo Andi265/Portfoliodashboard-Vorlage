@@ -19,9 +19,13 @@ lines for the snapshot workflow. Change settings only through the project skill
   Risk metrics (`app/metrics.py`): log returns on adjusted closes; volatility std·√252; return mean·252; Sharpe with the
   ECB deposit rate (ECBDFR/100); beta against `EUNL.DE` (MSCI World in EUR) on common days; max drawdown; per stock
   its own last 252 trading days; correlation on common days. Tests: `python -m pytest atlas-terminal/tests -q`.
-- `atlas-snapshot/`: written by `.github/workflows/atlas-snapshot.yml` about 45 minutes before each routine
-  (`python -m app.export`; the slot check runs without dependencies, two UTC cron times per slot for summer/winter
-  time, one export per slot and day). The routines read these JSON files and need no network access for them.
+- `atlas-snapshot/`: written by `.github/workflows/atlas-snapshot.yml` (`python -m app.export`). Each routine asks for
+  a fresh snapshot at its start: `python atlas_sync.py --request` pushes an empty commit whose message starts with
+  `[atlas-sync]` to a new branch `claude/atlas-sync-…`; the workflow runs on it (checkout of main), commits the
+  snapshot to main and deletes the request branch; the routine waits until it is on main (usually 3-5 min, at most
+  9). A schedule about 45 minutes before each routine (two UTC cron times per slot, `python settings.py cron`) is only
+  a fallback and skips slots that already have a snapshot. The routines read these JSON files and need no network
+  access for them.
 - `dashboard/`: `build.py` (standard library only) merges `briefing.json` (written by the routines, format in
   `SCHEMA.md`), `fred.json`, the snapshot and `settings.json` into `atlas-briefing.html` (template `template.html`).
   It computes values, weights, allocation and level distances itself. Do not hand-edit the generated HTML.

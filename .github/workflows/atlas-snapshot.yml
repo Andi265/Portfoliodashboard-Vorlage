@@ -1,9 +1,14 @@
 name: Atlas Snapshot
 
-# Aktualisiert die Terminal-Daten vor den Claude-Routinen (08:30 und 17:45 Berliner Zeit).
-# GitHub-Cron läuft in UTC: je Slot zwei Zeiten für Sommer-/Winterzeit; das Export-Skript
-# lässt nur den Lauf durch, der in Berlin ins Zeitfenster fällt, und nur einmal pro Tag.
+# Aktualisiert die Terminal-Daten für die Claude-Routinen.
+# Hauptweg: Jede Routine fordert beim Start selbst einen Abruf an (`python atlas_sync.py --request`):
+# Sie pusht einen leeren Commit "[atlas-sync] …" auf einen eigenen Branch claude/atlas-sync-…; dieser Job läuft
+# darauf, schreibt den Snapshot nach main und löscht den Branch. Andere Pushes auf claude/… lösen nichts aus.
+# Absicherung: der Zeitplan unten (UTC, je Slot zwei Zeiten für Sommer-/Winterzeit, aus `python settings.py cron`;
+# GitHub startet ihn oft verspätet). Er läuft nur, wenn der Slot heute noch keinen Snapshot hat.
 on:
+  push:
+    branches: ["claude/atlas-sync-**"]
   schedule:
     - cron: "45 5,6 * * 1-5"   # Morgen-Slot: 07:45 Berlin (Sommer 05:45 UTC, Winter 06:45 UTC)
     - cron: "0 15,16 * * 1-5"  # Abend-Slot:  17:00 Berlin (Sommer 15:00 UTC, Winter 16:00 UTC)
@@ -22,6 +27,7 @@ concurrency:
 
 jobs:
   snapshot:
+    if: github.event_name != 'push' || startsWith(github.event.head_commit.message, '[atlas-sync]')
     runs-on: ubuntu-latest
     timeout-minutes: 30
     defaults:
@@ -29,6 +35,8 @@ jobs:
         working-directory: atlas-terminal
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -36,7 +44,7 @@ jobs:
 
       - name: Fälligkeit prüfen
         id: due
-        run: python -m app.export --check --out ../atlas-snapshot --slot "${{ github.event.inputs.slot || 'auto' }}"
+        run: python -m app.export --check --out ../atlas-snapshot --slot "${{ github.event_name == 'push' && 'request' || github.event.inputs.slot || 'auto' }}"
 
       - name: Abhängigkeiten installieren
         if: steps.due.outputs.run == 'true'
@@ -73,7 +81,7 @@ jobs:
         env:
           SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
           RUN_SCHEDULER: "0"
-        run: python -m app.export --out ../atlas-snapshot --slot "${{ github.event.inputs.slot || 'auto' }}"
+        run: python -m app.export --out ../atlas-snapshot --slot "${{ github.event_name == 'push' && 'request' || github.event.inputs.slot || 'auto' }}"
 
       - name: Snapshot committen
         if: steps.due.outputs.run == 'true'
@@ -85,7 +93,18 @@ jobs:
           if git diff --cached --quiet; then echo "Keine Änderungen"; exit 0; fi
           git commit -m "Atlas-Snapshot $(TZ=Europe/Berlin date '+%Y-%m-%d %H:%M')"
           for i in 1 2 3; do
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
             sleep 5
           done
           echo "Push fehlgeschlagen" && exit 1
+
+      - name: Anfrage-Branch entfernen
+        if: always() && github.event_name == 'push'
+        working-directory: .
+        run: |
+          # Nur löschen, wenn der Branch noch genau die Anfrage enthält.
+          if [ "$(git ls-remote origin "refs/heads/${GITHUB_REF_NAME}" | cut -f1)" = "${GITHUB_SHA}" ]; then
+            git push origin --delete "${GITHUB_REF_NAME}"
+          else
+            echo "Branch schon weg oder verändert; bleibt, wie er ist."
+          fi

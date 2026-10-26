@@ -128,10 +128,14 @@ Prüf, dass jede Reihe aktuelle Werte hat. Committen und pushen.
 
 ## Schritt 7: Erster Datenabruf
 
-- `gh workflow run atlas-snapshot.yml -f slot=manual`, mit `gh run watch` auf das Ende warten (beim ersten Mal einige
-  Minuten wegen PyTorch und FinBERT).
-- `git pull`, dann prüfen: `atlas-snapshot/meta.json` existiert, `failed_sources` ist leer.
-- Schlägt der Push des Ablaufs mit einem Rechteproblem fehl: Schritt 4 (Schreibrechte) prüfen und erneut starten.
+- `python atlas_sync.py --request --timeout-min 15` (im Bash-Tool mit `timeout: 1000000`, nicht im Hintergrund). Das ist
+  derselbe Weg, den die Routinen später nutzen: Ein leerer Anfrage-Commit auf `claude/atlas-sync-…` startet den
+  Ablauf, der Snapshot landet auf `main`, der Anfrage-Branch wird gelöscht. Beim ersten Mal dauert es einige Minuten
+  (PyTorch und FinBERT werden geladen), danach meist 3–5 Minuten.
+- Prüfen: `atlas-snapshot/meta.json` existiert, `failed_sources` ist leer, `git ls-remote --heads origin 'claude/atlas-sync-*'`
+  ist leer.
+- Kommt nichts an: `gh run list --workflow atlas-snapshot.yml` ansehen. Bei einem Rechteproblem beim Pushen Schritt 4
+  (Schreibrechte) prüfen und erneut anfordern.
 
 ## Schritt 8: Die feste Seite „Atlas Briefing“
 
